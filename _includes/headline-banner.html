@@ -1,0 +1,7 @@
+<nav class="headline-banner">
+  {% for headline in site.data.headlines %}
+  <div class="headline-item">
+    <a href="{{ headline.link | relative_url }}">{{ headline.title }}</a>
+  </div>
+  {% endfor %}
+</nav>

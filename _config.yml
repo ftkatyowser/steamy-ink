@@ -1,0 +1,40 @@
+# Site settings
+title: Steamy Ink Publishing
+tagline: Your Insight to the Freelands
+description: >-
+  Steamy Ink Publishing - Investigative journalism and community news 
+  from the Freelands. Home of Special Investigative Press and Steamy Ink Press.
+url: "https://steamy.ink"
+baseurl: "" # Leave empty for custom domain
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title/
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections (for organizing content)
+collections:
+  sip_issues:
+    output: false
+  steamy_issues:
+    output: false
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

@@ -1,0 +1,56 @@
+---
+layout: default
+title: Poppy's Prose
+description: Personal writings and reflections from Poppy Katullin - for out of game enjoyment only.
+permalink: /blog/
+---
+
+<header class="content-header">
+  <h1>Poppy's Prose</h1>
+</header>
+
+<div class="blog-intro" style="max-width: 700px; margin-bottom: 2rem;">
+  <p class="drop-cap">
+    Welcome to my personal archive. This corner of the site is dedicated to the 
+    stories, blog posts, and internal musings of <strong>Penelope Anne Marianus (née Katullin)</strong>, 
+    my player character in the <em>Kingdoms of Novitas</em> LARP. 
+  </p>
+  <p>
+    While the professional work of Steamy Ink Publishing focuses on the news of the 
+    Freelands and can be used as in-character knowledge, these entries are a personal
+    creative outlet. 
+  </p>
+  <p>
+    I invite you to grab some tea and enjoy a deeper look into Poppy's life, but please
+    remember to leave these secrets at the door if we meet in the Freelands!
+  </p>
+  <p>
+    In short: <strong>The contents found here are shared for Out of Game enjoyment only.</strong>
+  </p>
+</div>
+
+<h2 class="section-title">Posts</h2>
+
+<ul class="blog-list">
+  {% for post in site.posts %}
+  <li class="blog-item">
+    <h2 class="blog-item-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <p class="blog-item-meta">
+      {{ post.date | date: "%B %d, %Y" }}
+      {% if post.ingame_date %} ({{ post.ingame_date }}){% endif %}
+    </p>
+    <p class="blog-item-excerpt">
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    </p>
+    <a href="{{ post.url | relative_url }}" class="blog-item-link">Continue reading →</a>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if site.posts.size == 0 %}
+<p class="coming-soon" style="text-align: center; padding: 3rem;">
+  Blog posts coming soon...
+</p>
+{% endif %}

@@ -1,0 +1,53 @@
+# =====================================================
+# SPECIAL INVESTIGATIVE PRESS ISSUES
+# Add new issues at the TOP of each year section
+# =====================================================
+
+# LATEST ISSUE (shown on homepage)
+latest:
+  date: "December 1603"
+  pdf: "/pdfs/sip-december-1603.pdf"
+  thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
+  headlines:
+    - "Pandora Launches Freelands Attack"
+    - "Wraith Lord Umbrex Missing in Action"
+    - "Archon Reveals Knowledge of Veilwalker Behavior"
+    - "Civen Grain Shortage Analysis"
+
+# ALL ISSUES BY YEAR
+years:
+  - year: 1603
+    issues:
+      - month: "December"
+        pdf: "/pdfs/sip-december-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
+        search_keywords: "pandora veilwalker umbrex archon grain shortage civen vlean census"
+        headlines:
+          - "Pandora Launches Freelands Attack"
+          - "Wraith Lord Umbrex Missing"
+          - "Civen Grain Shortage"
+      
+      - month: "June"
+        pdf: "/pdfs/sip-june-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/sip-june-1603.jpg"
+        search_keywords: ""
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
+      
+      # Add more 1603 issues here...
+
+  - year: 1602
+    issues: []
+      # Add 1602 issues here...
+      # - month: "December"
+      #   pdf: "/pdfs/sip-december-1602.pdf"
+      #   thumbnail: "/assets/images/thumbnails/sip-december-1602.jpg"
+      #   search_keywords: ""
+      #   headlines:
+      #     - "Headline"
+
+  - year: 1601
+    issues: []
+      # Add 1601 issues here...

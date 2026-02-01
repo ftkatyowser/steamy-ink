@@ -1,0 +1,59 @@
+<aside class="sidebar">
+  
+  <!-- Archives Section -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">{{ site.data.navigation.archives.title }}</h3>
+    <ul class="sidebar-nav">
+      {% for link in site.data.navigation.archives.links %}
+      <li>
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} class="active"{% endif %}>
+          {{ link.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <!-- Blog Section -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">{{ site.data.navigation.blog.title }}</h3>
+    <ul class="sidebar-nav">
+      {% for link in site.data.navigation.blog.links %}
+      <li>
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} class="active"{% endif %}>
+          {{ link.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <!-- Novitas LARP Section -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">{{ site.data.navigation.novitas.title }}</h3>
+    <ul class="sidebar-nav">
+      {% for link in site.data.navigation.novitas.links %}
+      <li>
+        <a href="{{ link.url }}"{% if link.external %} class="external" target="_blank" rel="noopener"{% endif %}>
+          {{ link.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <!-- About Section -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">{{ site.data.navigation.about.title }}</h3>
+    <ul class="sidebar-nav">
+      {% for link in site.data.navigation.about.links %}
+      <li>
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} class="active"{% endif %}>
+          {{ link.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+</aside>

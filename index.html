@@ -1,0 +1,84 @@
+---
+layout: default
+title: Home
+---
+
+<h2 class="section-title">Latest Issues</h2>
+
+<div class="featured-issues">
+  
+  <!-- Special Investigative Press - Latest -->
+  <article class="featured-issue">
+    <header class="featured-issue-header">
+      <span class="featured-issue-publication">Special Investigative Press</span>
+      <span class="featured-issue-date">{{ site.data.sip_issues.latest.date }}</span>
+    </header>
+    <a href="{{ site.data.sip_issues.latest.pdf | relative_url }}">
+      <img src="{{ site.data.sip_issues.latest.thumbnail | relative_url }}" alt="SIP {{ site.data.sip_issues.latest.date }}" class="featured-issue-thumbnail">
+    </a>
+    <div class="featured-issue-headlines">
+      <h4>In This Issue:</h4>
+      <ul>
+        {% for headline in site.data.sip_issues.latest.headlines %}
+        <li>{{ headline }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <a href="{{ site.data.sip_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
+  </article>
+  
+  <!-- Steamy Ink Press - Latest -->
+  <article class="featured-issue">
+    <header class="featured-issue-header">
+      <span class="featured-issue-publication">Steamy Ink Press</span>
+      <span class="featured-issue-date">{{ site.data.steamy_issues.latest.date }}</span>
+    </header>
+    <a href="{{ site.data.steamy_issues.latest.pdf | relative_url }}">
+      <img src="{{ site.data.steamy_issues.latest.thumbnail | relative_url }}" alt="Steamy Ink {{ site.data.steamy_issues.latest.date }}" class="featured-issue-thumbnail">
+    </a>
+    <div class="featured-issue-headlines">
+      <h4>In This Issue:</h4>
+      <ul>
+        {% for headline in site.data.steamy_issues.latest.headlines %}
+        <li>{{ headline }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <a href="{{ site.data.steamy_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
+  </article>
+  
+</div>
+
+<h2 class="section-title">Recent Issues</h2>
+
+<div class="issue-grid">
+  {% for year in site.data.sip_issues.years %}
+    {% for issue in year.issues limit:2 %}
+    <article class="issue-card">
+      <a href="{{ issue.pdf | relative_url }}">
+        <div class="issue-card-thumbnail">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="SIP {{ issue.month }} {{ year.year }}">
+        </div>
+      </a>
+      <h3 class="issue-card-title">Special Investigative Press</h3>
+      <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+      <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
+    </article>
+    {% endfor %}
+  {% endfor %}
+  
+  {% for year in site.data.steamy_issues.years %}
+    {% for issue in year.issues limit:2 %}
+    <article class="issue-card">
+      <a href="{{ issue.pdf | relative_url }}">
+        <div class="issue-card-thumbnail">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ year.year }}">
+        </div>
+      </a>
+      <h3 class="issue-card-title">Steamy Ink Press</h3>
+      <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+      <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
+    </article>
+    {% endfor %}
+  {% endfor %}
+</div>
