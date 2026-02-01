@@ -1,27 +1,33 @@
 # =====================================================
 # SIDEBAR NAVIGATION
-# Edit this to update navigation across ALL pages!
 # =====================================================
 
 archives:
-  title: "Archives"
+  title: "SIP Archives"
   links:
     - name: "Special Investigative Press"
-      url: "/sip-archives/"
+      url: "/special-archives/"
     - name: "Steamy Ink Press"
       url: "/steamy-archives/"
+    - name: "Other Published Works"
+      url: "/other-archives/"
 
 blog:
   title: "Poppy's Prose"
   links:
-    - name: "All Posts"
+    - name: "Blog Posts"
       url: "/blog/"
-    # Add individual post links here if you want them in nav
-    # - name: "Post Title"
-    #   url: "/blog/post-title/"
+
+about:
+  title: "About"
+  links:
+    - name: "About SIP"
+      url: "/about/"
+    - name: "About Novitas"
+      url: "/aboutnovitas/"
 
 novitas:
-  title: "Novitas LARP"
+  title: "Kingdoms of Novitas LARP"
   links:
     - name: "Official Website"
       url: "https://www.kingdomsofnovitas.org/"
@@ -29,9 +35,6 @@ novitas:
     - name: "Wiki"
       url: "https://wiki.kingdomsofnovitas.org/"
       external: true
-
-about:
-  title: "About"
-  links:
-    - name: "About SIP"
-      url: "/about/"
+    - name: "Official Discord"
+      url: "https://discord.gg/NUcwZt4GgE"
+      external: true

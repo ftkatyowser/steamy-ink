@@ -10,6 +10,10 @@ baseurl: "" # Leave empty for custom domain
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM 
+  hard_wrap: true
+  syntax_highlighter: rouge
 permalink: /blog/:title/
 
 # Exclude from build
