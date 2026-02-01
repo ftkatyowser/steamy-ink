@@ -3,6 +3,7 @@ layout: post
 title: "Sample Blog Post Title"
 date: 2024-01-15
 ingame_date: "December 1603"
+published: false
 ---
 
 This is the opening paragraph of your blog post. In Jekyll, you write posts in **Markdown** which is way easier than HTML. Just write naturally and it formats itself.
@@ -47,5 +48,3 @@ When you save this file, Jekyll automatically:
 - Adds it to the blog index
 - Creates the page with your layout
 - Formats all the Markdown into nice HTML
-
-That's it! Way easier than editing HTML files.
