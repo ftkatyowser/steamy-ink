@@ -5,6 +5,7 @@ description: >-
   Steamy Ink Publishing - Investigative journalism and community news 
   from the Freelands. Home of Special Investigative Press and Steamy Ink Press.
 url: "https://steamy.ink"
+enforce_ssl: true
 baseurl: "" # Leave empty for custom domain
 
 # Build settings
