@@ -12,32 +12,32 @@ permalink: /about/
 
 ## Our Publications
 
-### Special Investigative Press™
-*The "Associated Press" of the Freelands.* 
-A division of Steamy Ink Publishing, proudly supported by the Journalist's Guild of Civen and subsidized by the Breaking Bulletin Consortium. SIP delivers objective, fact-based reporting on global threats and political developments. We are the first to implement a regional press model, providing localized content within a global framework.
-
 ### Steamy Ink Press™
 *Maplewood's Whispers, from Ear to Ink.* 
 Our flagship gossip rag and the "People Magazine" of the town. We provide unparalleled revelations into the captivating lives of "People of Interest." It is the perfect conversation starter for lively discussion over tea—just remember, it’s written from a delightfully biased perspective!
+
+### Special Investigative Press™
+*Because "I Didn't Know" Isn't an Excuse When You're Dead.*
+When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative press delivers objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month. 
 
 ---
 
 ## Player’s Guide & OOC FAQ
 
-> **Disclaimer:** Steamy Ink Publishing is a project run by me (Shauna), written from the perspecitve of my PC Poppy. Publications are **not official game material**. 
+> **Disclaimer:** Steamy Ink Publishing is a project run by me (Shauna), written from the perspective of my PC Poppy. Publications are **not official game material**. 
 
 ### The "Truth" in Journalism
 
   * **Actual Events:** Many stories are based on real in-game observations: public arguments, fashion choices, or suspicious meetings.
-  * **Creative License:** Some events and "eyewitness accounts" in Steamy Ink Press are noteably exaggerated. I often "emeblish" stories or background drama regarding characters to make the world feel lived-in and to give people more to react to. While everything is based in *some* truth, it's really more fun just to blow some things completely out of proportion.
+  * **Creative License:** Some events and 'eyewitness accounts' in Steamy Ink Press are notably exaggerated. I often embellish stories or add background drama to make the world feel lived-in and give people more to react to. While everything is based in some truth, it's much more fun to blow things completely out of proportion.
   * **Plot Hooks:** The Plot Team occasionally uses the paper to share official info, so keep an eye out for "blessed" hooks!
   * **Bias:** The paper has its own voice. Think of it as another character; it aims to be entertaining and "sell copies," not to be a 100% accurate historical record.
 
 ### How to Use This Information
 
   * **If you see your PC:** It’s an invitation to RP! You can confront Poppy, write a letter, start a counter-rumor, or ignore it entirely. 
-  * **Information Accuracy:** Special Investigative is designed to be a trustworthy resource for players. Unlike Steamy Ink, Special Investigative does not contain exaggerated or intentionally unfactual information. Information may be incorrect based on what characters actually knew at the time, but it is never intentionally "faked" by the editor.
-  * **OOC Comfort:** If a story-made up or otherwise-causes real-world distress, please contact me on the Discord (@Shauna/Poppy), find me at game, or reach out to a Marshal. *Out of character discomfort should be discussed out of character*- if you approach me in character and don't indicate that this is an out of character issue, I will treat it like an in-character discussion.
+  * **Information Accuracy:** Special Investigative is designed to be a trustworthy resource for players. Unlike Steamy Ink, Special Investigative does not contain exaggerated or "fake" news. Information may be incorrect based on what characters knew at the time, but it is never intentionally fabricated by the editor.
+  * **OOC Comfort:** If a story—made up or otherwise—causes real-world distress, please contact me on the Discord (@Shauna/Poppy), find me at game, or reach out to a Marshal. *Out of character discomfort should be discussed out of character*- if you approach me in character and don't indicate that this is an out of character issue, I will treat it like an in-character discussion.
 
 ---
 
@@ -47,13 +47,13 @@ Our flagship gossip rag and the "People Magazine" of the town. We provide unpara
 
 I haven't missed an event since. 
 
-By day, I spending my hours teaching doctors how to navigate the rigid, structured world of medical software. By night (and one weekend a month), I am the editor-in-chief of a fictional media empire. Steamy Ink Publishing is my creative escape where I get to trade the role of "Epic Trainer" for that of a nosey, snarky, and delightfully biased gossip columnist. 
+By day, I spend my hours teaching doctors how to navigate the rigid, structured world of medical software. By night (and one weekend a month), I am the editor-in-chief of a fictional media empire. Steamy Ink Publishing is my creative escape where I get to trade the role of "Epic Trainer" for that of a nosey, snarky, and delightfully biased gossip columnist. 
 
 ### Why the News?
 
-While I appreciate a good world-ending plot hook as much as the next adventurer, I’ve always been more interested in the <em>player characters</em>. I created Poppy because I wanted to know the stories behind the characters—what they do when they aren't saving the world, who they’re seen with at the tavern, and the tiny dramas that make a fantasy world feel like a community.
+While I appreciate a good world-ending plot hook as much as the next adventurer, I’ve always been more interested in the <em>player characters</em>. I created Poppy because I wanted to know the stories behind them—what they do when they aren't saving the world, who they’re meeting at the tavern, and all the other tiny dramas that make a fantasy world feel like a community.
 
 There is a unique magic in capturing the chaos of a live game session and turning it into a permanent record. I take immense pride in transforming those moments into a physical archive that players can hold in their hands and look back on for years to come.
 
 ### Wiki Wizard
-Because I like to keep myself busy, I also manage the <a href="https://devwiki.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas Wiki</a>. As the third owner of the wiki and lead editor for our rulebook and information hub, I spend a lot of my "free" time ensuring our rules are as organized as Poppy's press room. It turns out that ten years of teaching doctors how to use software is the perfect training for wrangling two decade's worth of fantasy lore into a single, cohesive database for nerds!
+Because I like to keep myself busy, I also manage the <a href="https://devwiki.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas Wiki</a>. As the third owner of the wiki and lead editor for our rulebook and information hub, I spend a lot of my "free" time ensuring our rules are as organized as Poppy's press room. It turns out that ten years of teaching people how to use software is the perfect training for wrangling two decades' worth of fantasy lore into a single, cohesive database for nerds!

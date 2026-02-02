@@ -10,7 +10,7 @@ permalink: /aboutnovitas/
 
 <p class="drop-cap">Welcome! If you aren’t a member of our LARP community, you might be wondering what the heck a "Freelands" is.</p> 
 
-Everything you read here—the scandals, the political shifts, and the looming threats—is a result of real collaborative storytelling from the <a href="https://www.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas</a> live-action roleplaying game (LARP). 
+Everything you read here—the scandals, the political shifts, the looming threats—is a result of real collaborative storytelling from the <a href="https://www.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas</a> live-action roleplaying game (LARP). 
 
 Think of this as a "living" fiction project. Each issue of the newspaper chronicles actual events that occurred during our monthly game sessions. What started as an experiment in 2023 (in-game year 1601) has grown into a three-year archive of a world that breathes and changes along with its players.
 
@@ -20,7 +20,7 @@ If you want to dive deeper into the lore of the world Poppy calls home, I highly
 
 # Want to Make a Headline?
 
-<p class="drop-cap">Reading the news is one thing, but being in it is where the real fun begins. If you want to experience the Freelands for yourself—and maybe give Poppy something new to write about—we’re always looking for new players to join the chaos. Whether you want to be a hero, a villain, or just another face at the tavern, the Kingdoms of Novitas community is ready to welcome you!</p>
+<p class="drop-cap">Reading the news is one thing, but being in it is where the real fun begins. If you want to experience the Freelands for yourself—and maybe give Poppy something to write about—we’re always looking for new players to join the chaos. Whether you want to be a hero, a villain, or just another face at the tavern, the Kingdoms of Novitas community is ready to welcome you!</p>
 
 <a href="https://www.kingdomsofnovitas.org/" target="_blank">Your Adventure Starts Here!</a>
 
