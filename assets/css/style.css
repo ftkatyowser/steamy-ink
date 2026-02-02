@@ -155,8 +155,8 @@ p {
 }
 
 .masthead-logo {
-  max-width: 550px;
-  width: 100%;
+  width: auto%;
+  max-width: 100%;
   height: auto;
   margin-bottom: var(--spacing-xs);
 }
