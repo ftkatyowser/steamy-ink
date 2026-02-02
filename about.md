@@ -14,7 +14,8 @@ permalink: /about/
 
 ### Steamy Ink Press™
 *Maplewood's Whispers, from Ear to Ink.* 
-Our flagship gossip rag and the "People Magazine" of the town. We provide unparalleled revelations into the captivating lives of "People of Interest." It is the perfect conversation starter for lively discussion over tea—just remember, it’s written from a delightfully biased perspective!
+The original. The flagship. The reason this whole empire exists. 
+Steamy Ink Press was started in 1601 to answer the questions nobody was answering: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? And what in the name of all the gods was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
 
 ### Special Investigative Press™
 *Because "I Didn't Know" Isn't an Excuse When You're Dead.*
