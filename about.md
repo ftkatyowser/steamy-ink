@@ -15,7 +15,7 @@ permalink: /about/
 ### Steamy Ink Press™
 *Maplewood's Whispers, from Ear to Ink.* 
 The original. The flagship. The reason this whole empire exists. 
-Steamy Ink Press was started in 1601 to answer the questions nobody was answering: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
+Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
 
 ### Special Investigative Press™
 *Because "I Didn't Know" Isn't an Excuse When You're Dead.*
