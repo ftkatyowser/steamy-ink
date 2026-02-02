@@ -43,8 +43,6 @@
 /* --- Reset & Base --- */
 *, *::before, *::after {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 hr {
@@ -104,10 +102,10 @@ p {
 /* Drop cap for first paragraph */
 .drop-cap::first-letter {
   font-family: var(--font-masthead);
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
   float: left;
-  line-height: 0.8;
+  line-height: 1.5;
   margin-right: var(--spacing-sm);
   margin-top: var(--spacing-xs);
   color: var(--accent-red);
