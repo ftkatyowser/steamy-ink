@@ -7,6 +7,7 @@ permalink: /aboutnovitas/
 
 # New to the Freelands?
 
+
 <p class="drop-cap">Welcome! If you aren’t a member of our LARP community, you might be wondering what the heck a "Freelands" is.</p> 
 
 Everything you read here—the scandals, the political shifts, and the looming threats—is a result of real collaborative storytelling from the <a href="https://www.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas</a> live-action roleplaying game (LARP). 
@@ -18,6 +19,7 @@ If you want to dive deeper into the lore of the world Poppy calls home, I highly
 ---
 
 # Want to Make a Headline?
+
 
 <p class="drop-cap">Reading the news is one thing, but being in it is where the real fun begins. If you want to experience the Freelands for yourself—and maybe give Poppy something new to write about—we’re always looking for new players to join the chaos. Whether you want to be a hero, a villain, or just another face at the tavern, the Kingdoms of Novitas community is ready to welcome you!</p>
 
