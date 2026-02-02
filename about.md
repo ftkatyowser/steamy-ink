@@ -15,7 +15,7 @@ permalink: /about/
 ## Steamy Ink Press™
 #### *Maplewood's Whispers, from Ear to Ink.* 
 The original. The flagship. The reason this whole empire exists. 
-Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
+Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying in the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
 
 ## Special Investigative Press™
 #### *Because "I Didn't Know" Isn't an Excuse When You're Dead.*
@@ -52,7 +52,7 @@ By day, I spend my hours teaching doctors how to navigate the rigid, structured 
 
 ### Why the News?
 
-While I appreciate a good world-ending plot hook as much as the next adventurer, I’ve always been more interested in the <em>player characters</em>. I created Poppy because I wanted to know the stories behind them—what they do when they aren't saving the world, who they’re meeting at the tavern, and all the other tiny dramas that make a fantasy world feel like a community.
+I initally became interested in LARP from listening to my husband tell me stories about what the characters got up to when he came home from game. While I appreciate a good world-ending plot hook as much as the next adventurer, I’ve always been more interested in the <em>player characters</em>. Poppy is the result of me wanting to know the stories behind them—what they do when they aren't saving the world, who they’re meeting at the tavern, and all the other tiny dramas that make a fantasy world feel like a community.
 
 There is a unique magic in capturing the chaos of a live game session and turning it into a permanent record. I take immense pride in transforming those moments into a physical archive that players can hold in their hands and look back on for years to come.
 

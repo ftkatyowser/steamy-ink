@@ -9,15 +9,23 @@
   <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 </head>
 <body>
+  <!-- Mobile menu toggle button -->
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+    <span class="menu-toggle-icon"></span>
+  </button>
+
+  <!-- Overlay for mobile menu -->
+  <div class="menu-overlay"></div>
+
   <div class="page-wrapper">
-    
+
     <header class="masthead">
   <a href="/">
     <img src="/assets/images/Steamy_Ink_Publishing_Logo.png" alt="Steamy Ink Publishing" class="masthead-logo">
   </a>
  </header>
 
-    
+
     <nav class="headline-banner">
   
   <div class="headline-item">
@@ -137,26 +145,18 @@
   <article class="featured-issue">
     <header class="featured-issue-header">
       <span class="featured-issue-publication">Special Investigative Press</span>
-      <span class="featured-issue-date">December 1603</span>
+      <span class="featured-issue-date"></span>
     </header>
-    <a href="/pdfs/sip-december-1603.pdf">
-      <img src="/assets/images/thumbnails/sip-december-1603.jpg" alt="SIP December 1603" class="featured-issue-thumbnail">
+    <a href="">
+      <img src="" alt="SIP " class="featured-issue-thumbnail">
     </a>
     <div class="featured-issue-headlines">
       <h4>In This Issue:</h4>
       <ul>
         
-        <li>Pandora Launches Freelands Attack</li>
-        
-        <li>Wraith Lord Umbrex Missing in Action</li>
-        
-        <li>Archon Reveals Knowledge of Veilwalker Behavior</li>
-        
-        <li>Civen Grain Shortage Analysis</li>
-        
       </ul>
     </div>
-    <a href="/pdfs/sip-december-1603.pdf" class="featured-issue-link">Read Full Issue →</a>
+    <a href="" class="featured-issue-link">Read Full Issue →</a>
   </article>
   
   <!-- Steamy Ink Press - Latest -->
@@ -190,34 +190,6 @@
 <h2 class="section-title">Recent Issues</h2>
 
 <div class="issue-grid">
-  
-    
-    <article class="issue-card">
-      <a href="/pdfs/sip-december-1603.pdf">
-        <div class="issue-card-thumbnail">
-          <img src="/assets/images/thumbnails/sip-december-1603.jpg" alt="SIP December 1603">
-        </div>
-      </a>
-      <h3 class="issue-card-title">Special Investigative Press</h3>
-      <p class="issue-card-date">December 1603</p>
-      <a href="/pdfs/sip-december-1603.pdf" class="issue-card-link">Read Issue →</a>
-    </article>
-    
-    <article class="issue-card">
-      <a href="/pdfs/sip-june-1603.pdf">
-        <div class="issue-card-thumbnail">
-          <img src="/assets/images/thumbnails/sip-june-1603.jpg" alt="SIP June 1603">
-        </div>
-      </a>
-      <h3 class="issue-card-title">Special Investigative Press</h3>
-      <p class="issue-card-date">June 1603</p>
-      <a href="/pdfs/sip-june-1603.pdf" class="issue-card-link">Read Issue →</a>
-    </article>
-    
-  
-    
-  
-    
   
   
   
@@ -271,7 +243,9 @@
   </p>
 </footer>
 
-    
+
   </div>
+
+  <script src="/assets/js/menu.js"></script>
 </body>
 </html>

@@ -6,7 +6,7 @@ permalink: /blog/
 ---
 # Poppy's Prose
 
-<p class="drop-cap">Welcome to my personal archive. This corner of the site is dedicated to the stories, blog posts, and internal musings of Penelope Anne Marianus (née Katullin), my player character in the <em>Kingdoms of Novitas</em> LARP.</p>
+<p class="drop-cap">Welcome to my personal archive! This corner of the site is dedicated to the stories, blog posts, and internal musings of Penelope Anne Marianus (née Katullin), my player character in the <em>Kingdoms of Novitas</em> LARP.</p>
 
 
 While the professional work of Steamy Ink Publishing focuses on the news of the Freelands and can be used as in-character knowledge, these entries are a personal creative outlet. I invite you to grab some tea and enjoy a deeper look into Poppy's life, but please remember to leave these secrets at the door if we meet in the Freelands!

@@ -9,15 +9,23 @@
   <link rel="icon" type="image/png" href="/assets/images/favicon.png">
 </head>
 <body>
+  <!-- Mobile menu toggle button -->
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+    <span class="menu-toggle-icon"></span>
+  </button>
+
+  <!-- Overlay for mobile menu -->
+  <div class="menu-overlay"></div>
+
   <div class="page-wrapper">
-    
+
     <header class="masthead">
   <a href="/">
     <img src="/assets/images/Steamy_Ink_Publishing_Logo.png" alt="Steamy Ink Publishing" class="masthead-logo">
   </a>
  </header>
 
-    
+
     <nav class="headline-banner">
   
   <div class="headline-item">
@@ -268,7 +276,9 @@ document.getElementById('search-filter').addEventListener('input', function() {
   </p>
 </footer>
 
-    
+
   </div>
+
+  <script src="/assets/js/menu.js"></script>
 </body>
 </html>

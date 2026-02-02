@@ -9,10 +9,18 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 </head>
 <body>
+  <!-- Mobile menu toggle button -->
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+    <span class="menu-toggle-icon"></span>
+  </button>
+
+  <!-- Overlay for mobile menu -->
+  <div class="menu-overlay"></div>
+
   <div class="page-wrapper">
-    
+
     {% include masthead.html %}
-    
+
     {% include headline-banner.html %}
     
     <div class="main-layout">
@@ -26,7 +34,9 @@
     </div>
     
     {% include footer.html %}
-    
+
   </div>
+
+  <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
 </body>
 </html>

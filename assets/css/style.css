@@ -119,7 +119,7 @@ p {
 /* Drop cap for first paragraph */
 .drop-cap::first-letter {
   font-family: var(--font-masthead);
-  font-size: 4.5rem;
+  font-size: 4rem;
   font-weight: 700;
   float: left;
   line-height: 0.75;
@@ -661,6 +661,11 @@ hr {
   max-width: 700px;
 }
 
+.about-content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 .staff-list {
   margin: var(--spacing-xl) 0;
 }
@@ -780,28 +785,144 @@ hr {
   clear: both;
 }
 
+/* --- Mobile Menu Toggle Button --- */
+.menu-toggle {
+  display: none; /* Hidden by default, shown on mobile */
+  position: fixed;
+  top: var(--spacing-md);
+  left: var(--spacing-md);
+  z-index: 1002;
+  width: 48px;
+  height: 48px;
+  background-color: var(--bg-parchment);
+  border: 2px solid var(--border-dark);
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.3s ease;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.menu-toggle:hover {
+  background-color: var(--bg-tan);
+  border-color: var(--accent-red);
+}
+
+.menu-toggle:focus {
+  outline: 2px solid var(--accent-red);
+  outline-offset: 2px;
+}
+
+/* Hamburger icon */
+.menu-toggle-icon,
+.menu-toggle-icon::before,
+.menu-toggle-icon::after {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: var(--text-primary);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all 0.3s ease;
+}
+
+.menu-toggle-icon {
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.menu-toggle-icon::before,
+.menu-toggle-icon::after {
+  content: '';
+  left: 0;
+  transform: translateX(0);
+}
+
+.menu-toggle-icon::before {
+  top: -8px;
+}
+
+.menu-toggle-icon::after {
+  top: 8px;
+}
+
+/* Animated hamburger icon when menu is open */
+.menu-open .menu-toggle-icon {
+  background-color: transparent;
+}
+
+.menu-open .menu-toggle-icon::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.menu-open .menu-toggle-icon::after {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
+/* --- Mobile Menu Overlay --- */
+.menu-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.menu-open .menu-overlay {
+  display: block;
+  opacity: 1;
+}
+
 /* --- Responsive Design --- */
 @media (max-width: 900px) {
+  /* Show mobile menu toggle button */
+  .menu-toggle {
+    display: block;
+  }
+
   .main-layout {
     flex-direction: column;
   }
-  
+
+  /* Slide-in sidebar on mobile */
   .sidebar {
-    width: 100%;
-    border-right: none;
-    border-bottom: 2px solid var(--border-dark);
-    padding: var(--spacing-md);
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--spacing-md);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 280px;
+    max-width: 85%;
+    border-right: 2px solid var(--border-dark);
+    border-bottom: none;
+    padding: var(--spacing-lg) var(--spacing-md);
+    padding-top: calc(var(--spacing-md) + 60px); /* Space for close button */
+    display: block;
+    overflow-y: auto;
+    z-index: 1000;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    box-shadow: 4px 0 8px rgba(0, 0, 0, 0.1);
   }
-  
+
+  /* Show sidebar when menu is open */
+  .menu-open .sidebar {
+    transform: translateX(0);
+  }
+
   .sidebar-section {
-    flex: 1;
-    min-width: 150px;
-    margin-bottom: 0;
+    margin-bottom: var(--spacing-lg);
+    flex: none;
+    min-width: auto;
   }
-  
+
   .main-content {
     border-left: none;
   }
@@ -833,29 +954,27 @@ hr {
   :root {
     --sidebar-width: 100%;
   }
-  
+
   .masthead-logo {
     max-width: 90%;
   }
-  
+
   .headline-item {
     flex: 1 1 100%;
   }
-  
+
   .main-content {
     padding: var(--spacing-md);
   }
-  
+
   .issue-grid {
     grid-template-columns: 1fr 1fr;
   }
-  
+
+  /* Sidebar width adjustment for smaller screens */
   .sidebar {
-    flex-direction: column;
-  }
-  
-  .sidebar-section {
-    min-width: 100%;
+    width: 90%;
+    max-width: 280px;
   }
   
   h1 { font-size: 1.8rem; }
