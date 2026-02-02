@@ -47,6 +47,13 @@
   padding: 0;
 }
 
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin: var(--spacing-xl) 0;
+}
+
 html {
   font-size: 16px;
   scroll-behavior: smooth;
@@ -557,6 +564,12 @@ p {
   font-family: var(--font-body);
   font-size: 1.15rem;
   line-height: 1.7;
+}
+
+.blog-post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 .blog-post-content p {
