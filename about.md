@@ -8,9 +8,11 @@ permalink: /about/
 
 <p class="drop-cap">Steamy Ink Publishing is the premier source of news and information for the Freelands. Operating two distinct publications, we are dedicated to truth, transparency, and the occasional well-placed rumor.</p>
 
+---
+
 ## Our Publications
 
-### Special Investigative Press™ (SIP)
+### Special Investigative Press™
 *The "Associated Press" of the Freelands.* 
 A division of Steamy Ink Publishing, proudly supported by the Journalist's Guild of Civen and subsidized by the Breaking Bulletin Consortium. SIP delivers objective, fact-based reporting on global threats and political developments. We are the first to implement a regional press model, providing localized content within a global framework.
 
@@ -35,7 +37,7 @@ Our flagship gossip rag and the "People Magazine" of the town. We provide unpara
 
   * **If you see your PC:** It’s an invitation to RP! You can confront Poppy, write a letter, start a counter-rumor, or ignore it entirely. 
   * **Information Accuracy:** Special Investigative is designed to be a trustworthy resource for players. Unlike Steamy Ink, Special Investigative does not contain exaggerated or intentionally unfactual information. Information may be incorrect based on what characters actually knew at the time, but it is never intentionally "faked" by the editor.
-  * **OOC Comfort:** If a story-made up or otherwise-causes real-world distress, please contact me on the Discord (@Shauna/Poppy), find me at game, or reach out to a Marshal. *Out of character discomfort should be discusse out of character*- if you approach me in character and don't indicate that this is an out of character issue, I will treat it like an in-character discussion.
+  * **OOC Comfort:** If a story-made up or otherwise-causes real-world distress, please contact me on the Discord (@Shauna/Poppy), find me at game, or reach out to a Marshal. *Out of character discomfort should be discussed out of character*- if you approach me in character and don't indicate that this is an out of character issue, I will treat it like an in-character discussion.
 
 ---
 
