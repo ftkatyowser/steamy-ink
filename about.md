@@ -15,11 +15,11 @@ permalink: /about/
 ### Steamy Ink Press™
 *Maplewood's Whispers, from Ear to Ink.* 
 The original. The flagship. The reason this whole empire exists. 
-Steamy Ink Press was started in 1601 to answer the questions nobody was answering: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? And what in the name of all the gods was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
+Steamy Ink Press was started in 1601 to answer the questions nobody was answering: Why was that adventurer crying at the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
 
 ### Special Investigative Press™
 *Because "I Didn't Know" Isn't an Excuse When You're Dead.*
-When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative press delivers objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month. 
+When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative Press deliver objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month. 
 
 ---
 
