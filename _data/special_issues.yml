@@ -6,7 +6,7 @@
 # LATEST ISSUE (shown on homepage)
 latest:
   date: "December 1603"
-  pdf: "/pdfs/special-december-1603.pdf"
+  pdf: "/pdfs/1603/special-december-1603.pdf"
   thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
   headlines:
     - "Pandora Launches Freelands Attack"
@@ -19,7 +19,7 @@ years:
   - year: 1603
     issues:
       - month: "December"
-        pdf: "/pdfs/special-december-1603.pdf"
+        pdf: "/pdfs/1603/special-december-1603.pdf"
         thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
         search_keywords: "pandora veilwalker umbrex archon grain shortage civen vlean census"
         headlines:
@@ -28,7 +28,7 @@ years:
           - "Civen Grain Shortage"
       
       - month: "June"
-        pdf: "/pdfs/sip-june-1603.pdf"
+        pdf: "/pdfs/1603/special-june-1603.pdf"
         thumbnail: "/assets/images/thumbnails/sip-june-1603.jpg"
         search_keywords: ""
         headlines:
