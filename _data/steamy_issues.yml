@@ -6,7 +6,7 @@
 # LATEST ISSUE (shown on homepage)
 latest:
   date: "December 1603"
-  pdf: "/pdfs/steamy-december-1603.pdf"
+  pdf: "/pdfs/1603/steamy-december-1603.pdf"
   thumbnail: "/assets/images/thumbnails/steamy-december-1603.jpg"
   headlines:
     - "Heads Will Roll: A Ghost Story"
@@ -19,7 +19,7 @@ years:
   - year: 1603
     issues:
       - month: "December"
-        pdf: "/pdfs/steamy-december-1603.pdf"
+        pdf: "/pdfs/1603/steamy-december-1603.pdf"
         thumbnail: "/assets/images/thumbnails/steamy-december-1603.jpg"
         search_keywords: "ghost story verity ribbon heads will roll arcturus fashion crimes solstice loves liaisons daily drivel"
         headlines:
