@@ -239,8 +239,10 @@ hr {
 .masthead-logo {
   width: auto;
   max-width: 100%;
+  max-height: 300px;
   height: auto;
-  margin-bottom: var(--spacing-xs);
+  display: block;
+  margin: 0 auto var(--spacing-xs);
 }
 
 .masthead-tagline {
@@ -380,10 +382,10 @@ hr {
 
 .sidebar-title {
   font-family: var(--font-headline);
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
+  letter-spacing: 1.5px;
   color: var(--accent-gold);
   border-bottom: 2px solid var(--accent-gold);
   padding-bottom: var(--spacing-xs);
@@ -401,7 +403,9 @@ hr {
 
 .sidebar-nav a {
   font-family: var(--font-nav);
-  font-size: 0.95rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.6;
   color: var(--text-primary);
   display: block;
   padding: 0.2rem 0;
@@ -947,6 +951,10 @@ hr {
   padding: var(--spacing-xl);
   text-align: center;
   background-color: var(--bg-parchment);
+}
+
+.site-footer p {
+  text-align: center;
 }
 
 .footer-ornament {

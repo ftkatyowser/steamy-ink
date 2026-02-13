@@ -1,0 +1,57 @@
+---
+layout: default
+title: News Archive
+permalink: /news-archives/
+---
+
+<div class="content-header">
+  <h1>News Archive</h1>
+  <p class="subtitle">Latest Updates & Announcements</p>
+</div>
+
+<div class="archive-filters">
+  <div class="filter-group">
+    <label class="filter-label" for="newsSearch">Search:</label>
+    <input type="text" id="newsSearch" class="filter-search" placeholder="Filter articles...">
+  </div>
+</div>
+
+<div id="news-archive-container">
+  {% assign news_posts = site.categories.news %}
+  {% assign posts_by_year = news_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  
+  {% for year in posts_by_year %}
+    <div class="archive-year-group">
+      <div class="year-header">{{ year.name }}</div>
+      
+      {% for post in year.items %}
+        <div class="news-article-card">
+          <div class="news-article-content">
+            <div class="news-article-category">News</div>
+            <div class="news-article-year">
+              {% if post.ingame_date != "" %}{{ post.ingame_date }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}
+            </div>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+            <a href="{{ post.url }}" class="issue-card-link">Read Full Article</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  document.getElementById('newsSearch').addEventListener('keyup', function() {
+    var filter = this.value.toLowerCase();
+    var cards = document.querySelectorAll('.news-article-card');
+    var groups = document.querySelectorAll('.archive-year-group');
+
+    cards.forEach(function(card) {
+      var text = card.textContent || card.innerText;
+      card.style.display = text.toLowerCase().indexOf(filter) > -1 ? 'flex' : 'none';
+    });
+
+    groups.forEach(group => group.style.display = Array.from(group.querySelectorAll('.news-article-card')).some(c => c.style.display !== 'none') ? 'block' : 'none');
+  });
+</script>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | News | {{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+</head>
+<body>
+  <!-- Mobile menu toggle button -->
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+    <span class="menu-toggle-icon"></span>
+  </button>
+
+  <!-- Overlay for mobile menu -->
+  <div class="menu-overlay"></div>
+
+  <div class="page-wrapper">
+
+    {% include masthead.html %}
+
+    {% include headline-banner.html %}
+
+    <div class="main-layout">
+
+      {% include sidebar.html %}
+
+      <main class="main-content">
+
+        <article class="blog-post">
+
+          <header class="blog-post-header">
+            <h1 class="blog-post-title">{{ page.title }}</h1>
+            <p class="blog-post-meta">
+              <span class="news-article-category">News</span>
+              {% if page.ingame_date and page.ingame_date != "" %}
+                &nbsp;|&nbsp; {{ page.ingame_date }}
+              {% else %}
+                &nbsp;|&nbsp; {{ page.date | date: "%B %d, %Y" }}
+              {% endif %}
+            </p>
+          </header>
+
+          <div class="blog-post-content">
+            {{ content }}
+          </div>
+
+          <nav class="post-navigation">
+            <a href="{{ '/news-archives/' | relative_url }}">&larr; Back to News Archive</a>
+          </nav>
+
+        </article>
+
+      </main>
+
+    </div>
+
+    {% include footer.html %}
+
+  </div>
+
+  <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/dateline.js' | relative_url }}"></script>
+</body>
+</html>

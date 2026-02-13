@@ -93,9 +93,3 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
   {% endfor %}
 </ul>
 {% endif %}
-
-{% if site.posts.size == 0 %}
-<p class="coming-soon" style="text-align: center; padding: 3rem;">
-  Blog posts coming soon...
-</p>
-{% endif %}
