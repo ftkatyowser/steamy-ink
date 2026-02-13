@@ -3,11 +3,33 @@ layout: default
 title: Home
 ---
 
+<div class="latest-news-section">
+  <h2 class="section-title">Latest News</h2>
+  
+  {% assign news_posts = site.categories.news | slice: 0, 3 %}
+  {% for post in news_posts %}
+    <div class="news-article-card">
+      <div class="news-article-content">
+        <div class="news-article-category">News</div>
+        <div class="news-article-year">
+          {% if post.ingame_date != "" %}{{ post.ingame_date }}{% else %}{{ post.date | date: "%Y" }}{% endif %}
+        </div>
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+        <a href="{{ post.url }}" class="issue-card-link">Read More</a>
+      </div>
+    </div>
+  {% endfor %}
+  
+  <div class="text-center mt-lg">
+    <a href="{{ '/news/' | relative_url }}" class="latest-entry-bar">View News Archive</a>
+  </div>
+</div>
+
+
 <h2 class="section-title">Latest Issues</h2>
 
 <div class="featured-issues">
-  
-  <!-- Special Investigative Press - Latest -->
   <article class="featured-issue">
     <header class="featured-issue-header">
       <span class="featured-issue-publication">Special Investigative Press</span>
@@ -27,7 +49,6 @@ title: Home
     <a href="{{ site.data.special_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
   </article>
   
-  <!-- Steamy Ink Press - Latest -->
   <article class="featured-issue">
     <header class="featured-issue-header">
       <span class="featured-issue-publication">Steamy Ink Press</span>
@@ -53,7 +74,7 @@ title: Home
 
 <div class="issue-grid">
   {% for year in site.data.special_issues.years %}
-    {% for issue in year.issues limit:2 %}
+    {% for issue in year.issues limit:2 offset:1 %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
@@ -68,7 +89,7 @@ title: Home
   {% endfor %}
   
   {% for year in site.data.steamy_issues.years %}
-    {% for issue in year.issues limit:2 %}
+    {% for issue in year.issues limit:2 offset:1 %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
