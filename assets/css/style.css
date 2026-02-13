@@ -592,6 +592,10 @@ hr {
   box-shadow: 3px 3px 0 var(--border-light);
 }
 
+.featured-issue-headlines {
+  overflow: hidden;
+}
+
 .featured-issue-headlines h4 {
   font-family: var(--font-headline);
   font-size: 0.9rem;
