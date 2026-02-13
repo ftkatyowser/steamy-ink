@@ -1,0 +1,25 @@
+# =====================================================
+# OTHER PUBLISHED WORKS
+# Add new issues at the TOP of each year section
+# =====================================================
+
+# ALL ISSUES BY YEAR
+years:
+  - year: 1603
+    issues: []
+      # Add 1603 issues here...
+      # - month: "December"
+      #   title: "Publication Title"
+      #   pdf: "/assets/pdfs/1603/other-december-1603.pdf"
+      #   thumbnail: "/assets/images/thumbnails/1603/other-december-1603.png"
+      #   search_keywords: ""
+      #   headlines:
+      #     - "Headline"
+
+  - year: 1602
+    issues: []
+      # Add 1602 issues here...
+
+  - year: 1601
+    issues: []
+      # Add 1601 issues here...
