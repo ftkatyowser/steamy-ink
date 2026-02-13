@@ -8,7 +8,7 @@ permalink: /aboutnovitas/
 # New to the Freelands?
 
 
-<p class="drop-cap">Welcome! If you aren’t a member of our LARP community, you might be wondering what the heck a "Freelands" is.</p> 
+<p class="drop-cap">Welcome! If you aren’t a member of our LARP community, you might be wondering what the hell a "Freelands" is.</p> 
 
 Everything you read here—the scandals, the political shifts, the looming threats—is a result of real collaborative storytelling from the <a href="https://www.kingdomsofnovitas.org/" target="_blank">Kingdoms of Novitas</a> live-action roleplaying game (LARP). 
 

@@ -12,12 +12,12 @@ permalink: /about/
 
 # Our Publications
 
-## Steamy Ink Press™
+  <h1 style="font-family: var(--font-steamy-name);">Steamy Ink Press</h1>
 #### *Maplewood's Whispers, from Ear to Ink* 
 The original. The flagship. The reason this whole empire exists. 
 Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying in the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
 
-## Special Investigative Press™
+<h1 style="font-family: var(--font-special-name);">Special Investigative Press</h1>
 #### *Your Insight to the Freelands*
 When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative Press deliver objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month. 
 
