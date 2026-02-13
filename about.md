@@ -12,14 +12,17 @@ permalink: /about/
 
 # Our Publications
 
-  <h1 style="font-family: var(--font-steamy-name); text-align: center;">Steamy Ink Press</h1>
-  <p class="subtitle" style="text-align: center;">Maplewood's Whispers, from Ear to Ink</p>
-The original. The flagship. The reason this whole empire exists. 
-Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying in the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home. 
+<div class="story-box">
+  <h2 class="story-box-title" style="font-family: var(--font-steamy-name); text-align: center; border-bottom: none;"><a href="{{ '/steamy-archives/' | relative_url }}" style="color: inherit; text-decoration: none;">Steamy Ink Press</a></h2>
+  <p class="story-box-summary" style="text-align: center;">Maplewood's Whispers, from Ear to Ink</p>
+  <p>The original. The flagship. The reason this whole empire exists. Steamy Ink Press was started in 1601 to answer the questions that nobody else was: Why was that adventurer crying in the tavern? Who keeps leaving rosemary at the archery range? What in the name of the Elemental was that outfit choice? This is where we chronicle the relationships, rivalries, fashion crimes, and delightful scandals that make Maplewood feel like home.</p>
+</div>
 
-  <h1 style="font-family: var(--font-special-name); text-align: center;">Special Investigative Press</h1>
-  <p class="subtitle" style="text-align: center;">In-depth investigations into global events with potential local consequences</p>
-When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative Press deliver objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month. 
+<div class="story-box">
+  <h2 class="story-box-title" style="font-family: var(--font-special-name); text-align: center; border-bottom: none;"><a href="{{ '/special-archives/' | relative_url }}" style="color: inherit; text-decoration: none;">Special Investigative Press</a></h2>
+  <p class="story-box-summary" style="text-align: center;">In-depth investigations into global events with potential local consequences</p>
+  <p>When the Veilwalkers arrived, we realized that more than just Maplewood needed to be informed. Founded to fill the Freelands' critical need for reliable intelligence, Special Investigative Press operates as the region's only independent investigative network. The staff of Special Investigative Press deliver objective reporting on politics, economics, warfare, and whatever fresh horror is trying to end civilization this month.</p>
+</div>
 
 ---
 

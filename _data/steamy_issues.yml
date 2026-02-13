@@ -7,7 +7,7 @@
 latest:
   date: "December 1603"
   pdf: "/assets/pdfs/1603/steamy-december-1603.pdf"
-  thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.jpg"
+  thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.png"
   headlines:
     - "Heads Will Roll: A Ghost Story"
     - "Solstice Fashion Crimes"
@@ -20,7 +20,7 @@ years:
     issues:
       - month: "December"
         pdf: "/assets/pdfs/1603/steamy-december-1603.pdf"
-        thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.jpg"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.png"
         search_keywords: "ghost story verity ribbon heads will roll arcturus fashion crimes solstice loves liaisons daily drivel"
         headlines:
           - "Heads Will Roll: A Ghost Story"
@@ -29,7 +29,7 @@ years:
       
       - month: "June"
         pdf: "/assets/pdfs/1603/steamy-june-1603.pdf"
-        thumbnail: "/assets/images/thumbnails/1603/steamy-june-1603.jpg"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-june-1603.png"
         search_keywords: ""
         headlines:
           - "Headline 1"
