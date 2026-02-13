@@ -730,13 +730,17 @@ hr {
 }
 
 .scene-break {
-  display: block;
-  text-align: center;
-  font-size: 2.5rem;  
-  margin-top: 2rem;   
-  margin-bottom: 2rem; 
-  line-height: 1;     
-  color: #555;       
+    text-align: center;
+    font-size: 2.5rem; 
+    margin: 2rem 0;
+    color: #555;
+}
+
+.scene-break img {
+    height: 0.8em;       
+    width: auto;
+    vertical-align: middle;
+    margin: 0 5px;       
 }
 
 /* --- About Page --- */
