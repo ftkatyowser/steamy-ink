@@ -56,19 +56,36 @@
   var weatherEl = document.getElementById('dateline-weather');
   var weatherLink = 'https://weather.com/weather/hoursbydays/l/43.42,-75.35';
 
-  // WMO weather code descriptions
+  // WMO weather code descriptions with icons
   var wmoCodes = {
-    0: 'Clear', 1: 'Mostly Clear', 2: 'Partly Cloudy', 3: 'Overcast',
-    45: 'Foggy', 48: 'Rime Fog',
-    51: 'Light Drizzle', 53: 'Drizzle', 55: 'Heavy Drizzle',
-    56: 'Freezing Drizzle', 57: 'Heavy Freezing Drizzle',
-    61: 'Light Rain', 63: 'Rain', 65: 'Heavy Rain',
-    66: 'Freezing Rain', 67: 'Heavy Freezing Rain',
-    71: 'Light Snow', 73: 'Snow', 75: 'Heavy Snow',
-    77: 'Snow Grains',
-    80: 'Light Showers', 81: 'Showers', 82: 'Heavy Showers',
-    85: 'Light Snow Showers', 86: 'Heavy Snow Showers',
-    95: 'Thunderstorm', 96: 'Thunderstorm w/ Hail', 99: 'Thunderstorm w/ Heavy Hail'
+    0:  { icon: '\u2600\uFE0F', text: 'Clear' },
+    1:  { icon: '\uD83C\uDF24\uFE0F', text: 'Mostly Clear' },
+    2:  { icon: '\u26C5', text: 'Partly Cloudy' },
+    3:  { icon: '\u2601\uFE0F', text: 'Overcast' },
+    45: { icon: '\uD83C\uDF2B\uFE0F', text: 'Foggy' },
+    48: { icon: '\uD83C\uDF2B\uFE0F', text: 'Rime Fog' },
+    51: { icon: '\uD83C\uDF26\uFE0F', text: 'Light Drizzle' },
+    53: { icon: '\uD83C\uDF26\uFE0F', text: 'Drizzle' },
+    55: { icon: '\uD83C\uDF26\uFE0F', text: 'Heavy Drizzle' },
+    56: { icon: '\u2744\uFE0F', text: 'Freezing Drizzle' },
+    57: { icon: '\u2744\uFE0F', text: 'Heavy Freezing Drizzle' },
+    61: { icon: '\uD83C\uDF27\uFE0F', text: 'Light Rain' },
+    63: { icon: '\uD83C\uDF27\uFE0F', text: 'Rain' },
+    65: { icon: '\uD83C\uDF27\uFE0F', text: 'Heavy Rain' },
+    66: { icon: '\uD83C\uDF28\uFE0F', text: 'Freezing Rain' },
+    67: { icon: '\uD83C\uDF28\uFE0F', text: 'Heavy Freezing Rain' },
+    71: { icon: '\uD83C\uDF28\uFE0F', text: 'Light Snow' },
+    73: { icon: '\u2744\uFE0F', text: 'Snow' },
+    75: { icon: '\u2744\uFE0F', text: 'Heavy Snow' },
+    77: { icon: '\u2744\uFE0F', text: 'Snow Grains' },
+    80: { icon: '\uD83C\uDF26\uFE0F', text: 'Light Showers' },
+    81: { icon: '\uD83C\uDF27\uFE0F', text: 'Showers' },
+    82: { icon: '\uD83C\uDF27\uFE0F', text: 'Heavy Showers' },
+    85: { icon: '\uD83C\uDF28\uFE0F', text: 'Light Snow Showers' },
+    86: { icon: '\uD83C\uDF28\uFE0F', text: 'Heavy Snow Showers' },
+    95: { icon: '\u26C8\uFE0F', text: 'Thunderstorm' },
+    96: { icon: '\u26C8\uFE0F', text: 'Thunderstorm w/ Hail' },
+    99: { icon: '\u26C8\uFE0F', text: 'Thunderstorm w/ Heavy Hail' }
   };
 
   var apiUrl = 'https://api.open-meteo.com/v1/forecast?latitude=43.42&longitude=-75.35&current_weather=true&temperature_unit=fahrenheit';
@@ -79,9 +96,9 @@
       if (data && data.current_weather) {
         var temp = Math.round(data.current_weather.temperature);
         var code = data.current_weather.weathercode;
-        var condition = wmoCodes[code] || 'Unknown';
+        var weather = wmoCodes[code] || { icon: '', text: 'Unknown' };
         if (weatherEl) {
-          weatherEl.innerHTML = '<a href="' + weatherLink + '" target="_blank" rel="noopener">' + temp + '°F, ' + condition + '</a>';
+          weatherEl.innerHTML = '<a href="' + weatherLink + '" target="_blank" rel="noopener">' + weather.icon + ' ' + temp + '°F, ' + weather.text + '</a>';
         }
       }
     })

@@ -258,6 +258,7 @@ hr {
 
 /* --- Dateline --- */
 .dateline {
+  width: 100%;
   margin-top: var(--spacing-sm);
   padding-top: var(--spacing-sm);
   border-top: 1px solid var(--border-medium);
@@ -265,6 +266,7 @@ hr {
   font-size: 0.8rem;
   color: var(--text-secondary);
   line-height: 1.4;
+  text-align: left;
 }
 
 .dateline-row {
