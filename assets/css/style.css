@@ -22,7 +22,7 @@
   --font-body: 'Archivo Narrow', 'Arial Narrow', sans-serif;
   --font-masthead: 'Playfair Display', 'Georgia', serif;
   --font-headline: 'Old Standard TT', 'Times New Roman', serif;
-  --font-nav: 'EB Garamond', 'Garamond', serif;
+  --font-nav: 'Archivo Narrow', 'Arial Narrow', serif;
   --font-blog-header: 'Rough Anthem', 'Georgia', serif;
   --font-special-headline: 'Rustic Jack', 'Georgia', serif;
   --font-steamy-headline: 'Nanum Pen Script', cursive;
@@ -254,6 +254,52 @@ hr {
   color: var(--accent-gold);
   letter-spacing: 0.15em;
   text-transform: lowercase;
+}
+
+/* --- Dateline --- */
+.dateline {
+  margin-top: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--border-medium);
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.dateline-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 1px 0;
+}
+
+.dateline-left,
+.dateline-center,
+.dateline-right {
+  flex: 1;
+}
+
+.dateline-left {
+  text-align: left;
+}
+
+.dateline-center {
+  text-align: center;
+}
+
+.dateline-right {
+  text-align: right;
+}
+
+.dateline a {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+
+.dateline a:hover {
+  color: var(--accent-red);
+  text-decoration: underline;
 }
 
 /* --- Headline Banner --- */
@@ -1078,6 +1124,14 @@ hr {
   
   .archive-filters {
     flex-direction: column;
+  }
+
+  .dateline {
+    font-size: 0.7rem;
+  }
+
+  .dateline-price {
+    display: none;
   }
 }
 
