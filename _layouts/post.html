@@ -10,46 +10,95 @@
 </head>
 <body>
   <div class="page-wrapper">
-    
+
     {% include masthead.html %}
-    
+
     {% include headline-banner.html %}
-    
+
     <div class="main-layout">
-      
+
       {% include sidebar.html %}
-      
+
       <main class="main-content">
-        
+
         <article class="blog-post">
-          
+
           <header class="blog-post-header">
             <h1 class="blog-post-title">{{ page.title }}</h1>
-            <p class="blog-post-meta">{{ page.date | date: "%B %Y" }}{% if page.ingame_date %} ({{ page.ingame_date }}){% endif %}</p>
+            <p class="blog-post-meta">
+              {{ page.date | date: "%B %Y" }}{% if page.ingame_date %} ({{ page.ingame_date }}){% endif %}
+              {% if page.story %}<br><a href="{{ '/blog/' | relative_url }}" class="blog-post-story-link">{{ page.story }}</a>
+                {% if page.chapter %} &mdash; Chapter {{ page.chapter }}{% endif %}
+              {% endif %}
+            </p>
           </header>
-          
+
           <div class="blog-post-content">
             {{ content }}
           </div>
-          
-          <nav class="post-navigation">
-            <a href="{{ '/blog/' | relative_url }}">← Back to Blog</a>
-            {% if page.previous.url %}
-              <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
-            {% endif %}
-            {% if page.next.url %}
-              <a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
-            {% endif %}
-          </nav>
-          
+
+          {% if page.story %}
+            {% comment %} Chapter-based navigation within the same story {% endcomment %}
+            {% assign chapters = site.posts | where: "story", page.story | sort: "chapter" %}
+            {% assign prev_chapter = nil %}
+            {% assign next_chapter = nil %}
+            {% assign found_current = false %}
+            {% for ch in chapters %}
+              {% if found_current and next_chapter == nil %}
+                {% assign next_chapter = ch %}
+              {% endif %}
+              {% if ch.url == page.url %}
+                {% assign found_current = true %}
+              {% endif %}
+              {% unless found_current %}
+                {% assign prev_chapter = ch %}
+              {% endunless %}
+            {% endfor %}
+
+            <nav class="chapter-navigation">
+              <div class="chapter-nav-row">
+                {% if prev_chapter %}
+                  <a href="{{ prev_chapter.url | relative_url }}" class="chapter-nav-link chapter-nav-prev">
+                    <span class="chapter-nav-label">&larr; Previous Chapter</span>
+                    <span class="chapter-nav-title">{% if prev_chapter.chapter_title %}{{ prev_chapter.chapter_title }}{% else %}Chapter {{ prev_chapter.chapter }}{% endif %}</span>
+                  </a>
+                {% else %}
+                  <span class="chapter-nav-link chapter-nav-placeholder"></span>
+                {% endif %}
+
+                <a href="{{ '/blog/' | relative_url }}" class="chapter-nav-toc">Table of Contents</a>
+
+                {% if next_chapter %}
+                  <a href="{{ next_chapter.url | relative_url }}" class="chapter-nav-link chapter-nav-next">
+                    <span class="chapter-nav-label">Next Chapter &rarr;</span>
+                    <span class="chapter-nav-title">{% if next_chapter.chapter_title %}{{ next_chapter.chapter_title }}{% else %}Chapter {{ next_chapter.chapter }}{% endif %}</span>
+                  </a>
+                {% else %}
+                  <span class="chapter-nav-link chapter-nav-placeholder"></span>
+                {% endif %}
+              </div>
+            </nav>
+
+          {% else %}
+            <nav class="post-navigation">
+              <a href="{{ '/blog/' | relative_url }}">&larr; Back to Blog</a>
+              {% if page.previous.url %}
+                <a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
+              {% endif %}
+              {% if page.next.url %}
+                <a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>
+              {% endif %}
+            </nav>
+          {% endif %}
+
         </article>
-        
+
       </main>
-      
+
     </div>
-    
+
     {% include footer.html %}
-    
+
   </div>
 </body>
 </html>

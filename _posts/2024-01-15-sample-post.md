@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Sample Blog Post Title"
+title: "The Wayward Traveler - Setting Out"
 date: 2024-01-15
 ingame_date: "December 1603"
+story: "The Wayward Traveler"
+story_summary: "A personal account of Poppy's first journey beyond the borders of Maplewood, and the unlikely companions she found along the way."
+chapter: 1
+chapter_title: "Setting Out"
 published: false
 ---
 
