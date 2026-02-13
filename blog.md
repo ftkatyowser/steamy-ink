@@ -53,7 +53,7 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
           <a href="{{ chapter.url | relative_url }}">
             {% if chapter.chapter_title %}{{ chapter.chapter_title }}{% else %}Chapter {{ chapter.chapter }}{% endif %}
           </a>
-          {% if chapter.ingame_date %}<span class="chapter-date">({{ chapter.ingame_date }})</span>{% endif %}
+          {% if chapter.ingame_date and chapter.ingame_date != "" %}<span class="chapter-date">({{ chapter.ingame_date }})</span>{% endif %}
         </li>
         {% endfor %}
       </ol>
