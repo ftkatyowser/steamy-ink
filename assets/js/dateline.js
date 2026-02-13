@@ -89,6 +89,9 @@
   };
 
   var sunsetEl = document.getElementById('dateline-sunset');
+  if (sunsetEl) {
+    sunsetEl.textContent = 'Maplewood, Freelands';
+  }
   var apiUrl = 'https://api.open-meteo.com/v1/forecast?latitude=43.42&longitude=-75.35&current_weather=true&temperature_unit=fahrenheit&daily=sunset&timezone=America/New_York&forecast_days=1';
 
   fetch(apiUrl)
