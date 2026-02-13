@@ -6,7 +6,7 @@ permalink: /blog/
 ---
 <header>
   <h1 style="font-family: var(--font-blog-header);text-align: center;">Poppy's Prose</h1>
-  <p class="subtitle">The not-so-well-known stories of everyone's favorite town gossip</p>
+  <p class="subtitle" style="text-align: center;">The not-so-well-known stories of everyone's favorite town gossip</p>
 </header>
 ---
 
