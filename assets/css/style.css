@@ -263,7 +263,10 @@ hr {
   padding-top: var(--spacing-sm);
   border-top: 1px solid var(--border-medium);
   font-family: var(--font-body);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   color: var(--text-secondary);
   line-height: 1.4;
   text-align: left;
@@ -273,7 +276,7 @@ hr {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  padding: 1px 0;
+  padding: 2px 0;
 }
 
 .dateline-left,

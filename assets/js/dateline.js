@@ -54,7 +54,7 @@
 
   // --- Weather (Open-Meteo, Ava NY) ---
   var weatherEl = document.getElementById('dateline-weather');
-  var weatherLink = 'https://weather.com/weather/hoursbydays/l/43.42,-75.35';
+  var weatherLink = 'https://forecast.weather.gov/MapClick.php?lat=43.418887&lon=-75.47949';
 
   // WMO weather code descriptions with icons
   var wmoCodes = {
