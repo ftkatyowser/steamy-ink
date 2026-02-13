@@ -118,7 +118,7 @@
     })
     .catch(function () {
       if (weatherEl) {
-        weatherEl.innerHTML = '<a href="' + weatherLink + '" target="_blank" rel="noopener">Weather unavailable</a>';
+        weatherEl.innerHTML = '<a href="' + weatherLink + '" target="_blank" rel="noopener">Weather: Look Outside</a>';
       }
     });
 })();
