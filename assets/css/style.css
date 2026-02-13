@@ -729,6 +729,16 @@ hr {
   color: var(--text-secondary);
 }
 
+.scene-break {
+  display: block;
+  text-align: center;
+  font-size: 2.5rem;  
+  margin-top: 2rem;   
+  margin-bottom: 2rem; 
+  line-height: 1;     
+  color: #555;       
+}
+
 /* --- About Page --- */
 .about-content {
   max-width: 700px;
