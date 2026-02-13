@@ -4,7 +4,7 @@ title: Poppy's Prose
 description: Personal writings and reflections from Poppy.
 permalink: /blog/
 ---
-# Poppy's Prose
+<h1 style="font-family: var(--font-blog-header);">Poppy's Prose</h1>
 
 <p class="drop-cap">Welcome to my personal archive! This corner of the site is dedicated to the stories, blog posts, and internal musings of Penelope Anne Marianus (n&eacute;e Katullin), my player character in the <em>Kingdoms of Novitas</em> LARP.</p>
 

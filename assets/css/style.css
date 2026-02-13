@@ -1102,6 +1102,7 @@ hr {
   display: block;
   width: 100%;
   text-align: center;
+  font-weight: 700;
   padding: var(--spacing-sm) var(--spacing-md);
   background-color: var(--bg-parchment-dark);
   border: 1px solid var(--border-medium);
