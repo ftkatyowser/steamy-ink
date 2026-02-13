@@ -1090,6 +1090,29 @@ hr {
   margin-bottom: 0;
 }
 
+/* --- Latest Entry Jump Link --- */
+.latest-entry-bar {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: var(--bg-parchment-dark);
+  border: 1px solid var(--border-medium);
+  font-family: var(--font-nav);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  margin-top: var(--spacing-md);
+}
+
+.latest-entry-bar:hover {
+  color: var(--accent-red);
+  border-color: var(--accent-red);
+  text-decoration: none;
+}
+
 /* --- Story Box (Blog TOC) --- */
 .story-box {
   background-color: var(--bg-parchment-dark);

@@ -13,15 +13,21 @@ While the professional work of Steamy Ink Publishing focuses on the news of the 
 
 In short: **The contents found here are shared for Out of Game enjoyment only.**
 
+{% comment %} Find the latest story for the jump link {% endcomment %}
+{% assign story_posts = site.posts | where_exp: "post", "post.story" %}
+{% assign standalone_posts = site.posts | where_exp: "post", "post.story == nil" %}
+{% assign latest_story_post = story_posts | first %}
+
+{% if latest_story_post %}
+<a href="#story-{{ latest_story_post.story | slugify }}" class="latest-entry-bar">Latest Entry &darr;</a>
+{% endif %}
+
 ---
 
 {% comment %}
   Group published posts by story name.
   Posts without a "story" front matter are listed as standalone posts.
 {% endcomment %}
-
-{% assign story_posts = site.posts | where_exp: "post", "post.story" %}
-{% assign standalone_posts = site.posts | where_exp: "post", "post.story == nil" %}
 
 {% comment %} Collect unique story names {% endcomment %}
 {% assign story_names = "" %}
@@ -34,13 +40,13 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
     {% endif %}
   {% endunless %}
 {% endfor %}
-{% assign story_names_array = story_names | split: "||" %}
+{% assign story_names_array = story_names | split: "||" | reverse %}
 
 {% for story_name in story_names_array %}
   {% assign chapters = site.posts | where: "story", story_name | sort: "chapter" %}
   {% assign first_chapter = chapters | first %}
 
-  <div class="story-box">
+  <div class="story-box" id="story-{{ story_name | slugify }}">
     <h2 class="story-box-title">{{ story_name }}</h2>
     {% if first_chapter.story_summary %}
       <p class="story-box-summary">{{ first_chapter.story_summary }}</p>
