@@ -19,7 +19,7 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
 {% assign latest_story_post = story_posts | first %}
 
 {% if latest_story_post %}
-<p style="text-align: center;"><a href="#story-{{ latest_story_post.story | slugify }}" class="latest-entry-bar">Latest Entry &darr;</a></p>
+<p style="text-align: center;"><a href="#story-{{ latest_story_post.story | slugify }}" class="latest-entry-bar"><strong>Latest Entry &darr;</strong></a></p>
 {% endif %}
 
 ---
