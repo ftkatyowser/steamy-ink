@@ -88,7 +88,8 @@
     99: { icon: '\u26C8\uFE0F', text: 'Thunderstorm w/ Heavy Hail' }
   };
 
-  var apiUrl = 'https://api.open-meteo.com/v1/forecast?latitude=43.42&longitude=-75.35&current_weather=true&temperature_unit=fahrenheit';
+  var sunsetEl = document.getElementById('dateline-sunset');
+  var apiUrl = 'https://api.open-meteo.com/v1/forecast?latitude=43.42&longitude=-75.35&current_weather=true&temperature_unit=fahrenheit&daily=sunset&timezone=America/New_York&forecast_days=1';
 
   fetch(apiUrl)
     .then(function (res) { return res.json(); })
@@ -99,6 +100,16 @@
         var weather = wmoCodes[code] || { icon: '', text: 'Unknown' };
         if (weatherEl) {
           weatherEl.innerHTML = '<a href="' + weatherLink + '" target="_blank" rel="noopener">' + weather.icon + ' ' + temp + '°F, ' + weather.text + '</a>';
+        }
+        // Sunset time
+        if (sunsetEl && data.daily && data.daily.sunset && data.daily.sunset[0]) {
+          var sunsetRaw = new Date(data.daily.sunset[0]);
+          var hours = sunsetRaw.getHours();
+          var minutes = sunsetRaw.getMinutes();
+          var ampm = hours >= 12 ? 'PM' : 'AM';
+          hours = hours % 12 || 12;
+          var minStr = minutes < 10 ? '0' + minutes : minutes;
+          sunsetEl.textContent = '\uD83C\uDF05 Sunset ' + hours + ':' + minStr + ' ' + ampm;
         }
       }
     })
