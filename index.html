@@ -11,20 +11,20 @@ title: Home
   <article class="featured-issue">
     <header class="featured-issue-header">
       <span class="featured-issue-publication">Special Investigative Press</span>
-      <span class="featured-issue-date">{{ site.data.sip_issues.latest.date }}</span>
+      <span class="featured-issue-date">{{ site.data.special_issues.latest.date }}</span>
     </header>
-    <a href="{{ site.data.sip_issues.latest.pdf | relative_url }}">
-      <img src="{{ site.data.sip_issues.latest.thumbnail | relative_url }}" alt="SIP {{ site.data.sip_issues.latest.date }}" class="featured-issue-thumbnail">
+    <a href="{{ site.data.special_issues.latest.pdf | relative_url }}">
+      <img src="{{ site.data.special_issues.latest.thumbnail | relative_url }}" alt="Special Investigative Press{{ site.data.special_issues.latest.date }}" class="featured-issue-thumbnail">
     </a>
     <div class="featured-issue-headlines">
       <h4>In This Issue:</h4>
       <ul>
-        {% for headline in site.data.sip_issues.latest.headlines %}
+        {% for headline in site.data.special_issues.latest.headlines %}
         <li>{{ headline }}</li>
         {% endfor %}
       </ul>
     </div>
-    <a href="{{ site.data.sip_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
+    <a href="{{ site.data.special_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
   </article>
   
   <!-- Steamy Ink Press - Latest -->
@@ -52,12 +52,12 @@ title: Home
 <h2 class="section-title">Recent Issues</h2>
 
 <div class="issue-grid">
-  {% for year in site.data.sip_issues.years %}
+  {% for year in site.data.special_issues.years %}
     {% for issue in year.issues limit:2 %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="SIP {{ issue.month }} {{ year.year }}">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press{{ issue.month }} {{ year.year }}">
         </div>
       </a>
       <h3 class="issue-card-title">Special Investigative Press</h3>

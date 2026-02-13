@@ -16,7 +16,7 @@ permalink: /special-archives/
     <label class="filter-label" for="year-filter">Year:</label>
     <select id="year-filter" class="filter-select">
       <option value="all">All Years</option>
-      {% for year in site.data.sip_issues.years %}
+      {% for year in site.data.special_issues.years %}
       <option value="{{ year.year }}">{{ year.year }}</option>
       {% endfor %}
     </select>
@@ -27,7 +27,7 @@ permalink: /special-archives/
   </div>
 </div>
 
-{% for year in site.data.sip_issues.years %}
+{% for year in site.data.special_issues.years %}
 <h2 class="section-title year-title" data-year="{{ year.year }}">{{ year.year }}</h2>
 <div class="issue-grid" data-year="{{ year.year }}">
   {% if year.issues.size > 0 %}
@@ -35,7 +35,7 @@ permalink: /special-archives/
     <article class="issue-card" data-headlines="{{ issue.search_keywords }}">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="SIP {{ issue.month }} {{ year.year }}">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press{{ issue.month }} {{ year.year }}">
         </div>
       </a>
       <h3 class="issue-card-title">{{ issue.month }} {{ year.year }}</h3>

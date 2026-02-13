@@ -3,7 +3,7 @@
 # =====================================================
 
 archives:
-  title: "SIP Archives"
+  title: "Archives"
   links:
     - name: "Special Investigative Press"
       url: "/special-archives/"
@@ -21,7 +21,7 @@ blog:
 about:
   title: "About"
   links:
-    - name: "About SIP"
+    - name: "About Steamy Ink Publishing"
       url: "/about/"
     - name: "About Novitas"
       url: "/aboutnovitas/"

@@ -6,8 +6,8 @@
 # LATEST ISSUE (shown on homepage)
 latest:
   date: "December 1603"
-  pdf: "/pdfs/1603/special-december-1603.pdf"
-  thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
+  pdf: "/assets/pdfs/1603/special-december-1603.pdf"
+  thumbnail: "/assets/images/thumbnails/1603/special-december-1603.jpg"
   headlines:
     - "Pandora Launches Freelands Attack"
     - "Wraith Lord Umbrex Missing in Action"
@@ -19,8 +19,8 @@ years:
   - year: 1603
     issues:
       - month: "December"
-        pdf: "/pdfs/1603/special-december-1603.pdf"
-        thumbnail: "/assets/images/thumbnails/sip-december-1603.jpg"
+        pdf: "/assets/pdfs/1603/special-december-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-december-1603.jpg"
         search_keywords: "pandora veilwalker umbrex archon grain shortage civen vlean census"
         headlines:
           - "Pandora Launches Freelands Attack"
@@ -28,8 +28,8 @@ years:
           - "Civen Grain Shortage"
       
       - month: "June"
-        pdf: "/pdfs/1603/special-june-1603.pdf"
-        thumbnail: "/assets/images/thumbnails/sip-june-1603.jpg"
+        pdf: "/assets/pdfs/1603/special-june-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-june-1603.jpg"
         search_keywords: ""
         headlines:
           - "Headline 1"
