@@ -74,7 +74,11 @@ title: Home
 
 <div class="issue-grid">
   {% assign special_year = site.data.special_issues.years | first %}
-  {% for issue in special_year.issues limit:2%}
+  {% assign steamy_year = site.data.steamy_issues.years | first %}
+
+  {% for i in (1..3) %}
+    {% assign s_issue = special_year.issues | slice: i, 1 %}
+    {% for issue in s_issue %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
@@ -85,10 +89,10 @@ title: Home
       <p class="issue-card-date">{{ issue.month }} {{ special_year.year }}</p>
       <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
     </article>
-  {% endfor %}
+    {% endfor %}
 
-  {% assign steamy_year = site.data.steamy_issues.years | first %}
-  {% for issue in steamy_year.issues limit:2 offset:1 %}
+    {% assign t_issue = steamy_year.issues | slice: i, 1 %}
+    {% for issue in t_issue %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
@@ -99,5 +103,6 @@ title: Home
       <p class="issue-card-date">{{ issue.month }} {{ steamy_year.year }}</p>
       <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
     </article>
+    {% endfor %}
   {% endfor %}
 </div>
