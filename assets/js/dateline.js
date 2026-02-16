@@ -5,16 +5,14 @@
 
   // --- Volume & Issue ---
   var vol = realYear - 2022;
-  // Game schedule: March(1)–December(9), skipping July
-  var issueMap = [0, 0, 1, 2, 3, 4, 0, 5, 6, 7, 8, 9];
-  //              Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+  var issueMap = [0, 0, 1, 2, 3, 4, 4, 5, 6, 7, 8, 9];
   var issue = issueMap[month];
   var volEl = document.getElementById('dateline-vol');
   if (volEl) {
     volEl.textContent = 'Vol. ' + vol + ', Issue ' + issue;
   }
 
-  // --- Date with fictional year ---
+  // --- Date for 16XX---
   var fictionalYear = realYear - 422;
   var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
   var months = ['January', 'February', 'March', 'April', 'May', 'June',
@@ -56,7 +54,6 @@
   var weatherEl = document.getElementById('dateline-weather');
   var weatherLink = 'https://forecast.weather.gov/MapClick.php?lat=43.418887&lon=-75.47949';
 
-  // WMO weather code descriptions with icons
   var wmoCodes = {
     0:  { icon: '\u2600\uFE0F', text: 'Clear' },
     1:  { icon: '\uD83C\uDF24\uFE0F', text: 'Mostly Clear' },

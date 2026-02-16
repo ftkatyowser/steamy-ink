@@ -27,27 +27,77 @@ years:
           - "Wraith Lord Umbrex Missing"
           - "Civen Grain Shortage"
       
+      - month: "October"
+        pdf: "/assets/pdfs/1603/special-october-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-october-1603.png"
+        search_keywords: "janos leylines eoin lightsworn enzo bardic plague entity harbingers"
+        headlines:
+          - "Janos Sucked Into Leylines During Ritual"
+          - "Eoin Departs for Fae Realm"
+          - "Enzo Succumbs to 'Bardic Plague'"
+
+
+      - month: "September"
+        pdf: "/assets/pdfs/1603/special-september-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-september-1603.png"
+        search_keywords: "blight sky beasts bank of abacus pitohui murder makhno divine alliance"
+        headlines:
+          - "Skybeast Pact Drops Blight Prices"
+          - "Bank of Abacus Supports Local Economy"
+          - "Church Leader Pitohui Executed in Town Square"
+
+      - month: "August"
+        pdf: "/assets/pdfs/1603/special-august-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-august-1603.png"
+        search_keywords: "sacred tabernacle kash'allum sky beasts abductions wraith lord umbrix fortune brigade zylrie willowspark"
+        headlines:
+          - "Sacred Tabernacle Appears in Kash'Allum"
+          - "Increase in Missing Persons Reported Around Maplewood"
+          - "Fortune Brigade: New Maplewood Defenders?"
+
       - month: "June"
         pdf: "/assets/pdfs/1603/special-june-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/special-june-1603.png"
-        search_keywords: ""
+        search_keywords: "veilwalker ichor entity shrines sigils fortune brigade ratfolk harmony's hearth lich pandora umbrix"
         headlines:
           - "Headline 1"
           - "Headline 2"
           - "Headline 3"
-      
-      # Add more 1603 issues here...
+
+      - month: "May"
+        pdf: "/assets/pdfs/1603/special-may-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-may-1603.png"
+        search_keywords: "sable armsmaster pretty boy entity craftsman avatar maudry bazaar collapse mayor crimson eye ogres"
+        headlines:
+          - "Sable Armsmaster Admits to Entity Dealings"
+          - "Craftsman Avatar Reveals Shrine Secrets"
+          - "Maplewood Bazaar Collapses Under Snow"
+
+      - month: "March"
+        pdf: "/assets/pdfs/1603/special-march-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/special-march-1603.png"
+        search_keywords: "pitohui darkness pinedale lake siege bog lurkers cordon"
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
 
   - year: 1602
-    issues: []
-      # Add 1602 issues here...
-      # - month: "December"
-      #   pdf: "/pdfs/sip-december-1602.pdf"
-      #   thumbnail: "/assets/images/thumbnails/sip-december-1602.jpg"
-      #   search_keywords: ""
-      #   headlines:
-      #     - "Headline"
+    issues:
+      - month: "December"
+        pdf: "/assets/pdfs/1602/special-december-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/special-december-1602.png"
+        search_keywords: "sky beasts arcturus lucky lake pollution specialized orcs shamans"
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
 
-  - year: 1601
-    issues: []
-      # Add 1601 issues here...
+      - month: "November"
+        pdf: "/assets/pdfs/1602/special-november-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/special-november-1602.png"
+        search_keywords: "van'ironsbane pitohui dulzun psy runesnails evangelista assassin veilwalker curse"
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"

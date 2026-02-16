@@ -22,6 +22,7 @@ If you want to dive deeper into the lore of the world Poppy calls home, I highly
 
 <p class="drop-cap">Reading the news is one thing, but being in it is where the real fun begins. If you want to experience the Freelands for yourself—and maybe give Poppy something new to write about—we’re always looking for fresh players to join the chaos. Whether you want to be a hero, a villain, or just another face at the tavern, the Kingdoms of Novitas community is ready to welcome you!</p>
 
-<a href="https://www.kingdomsofnovitas.org/" target="_blank">Your Adventure Starts Here!</a>
-
-<a href="https://discord.gg/NUcwZt4GgE" target="_blank">Come Talk to Us in Discord!</a>
+<p style="text-align: center;">
+    <a href="https://www.kingdomsofnovitas.org/" target="_blank">Your Adventure Starts Here!</a>
+    <a href="https://discord.gg/NUcwZt4GgE" target="_blank">Come Talk to Us in Discord!</a>
+</p>

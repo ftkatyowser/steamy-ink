@@ -17,7 +17,6 @@ While the professional work of Steamy Ink Publishing focuses on the news of the 
 
 In short: **The contents found here are shared for Out of Game enjoyment only.**
 
-{% comment %} Find the latest story for the jump link {% endcomment %}
 {% assign story_posts = site.posts | where_exp: "post", "post.story" %}
 {% assign standalone_posts = site.posts | where_exp: "post", "post.story == nil" %}
 {% assign latest_story_post = story_posts | first %}
@@ -28,12 +27,6 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
 
 ---
 
-{% comment %}
-  Group published posts by story name.
-  Posts without a "story" front matter are listed as standalone posts.
-{% endcomment %}
-
-{% comment %} Collect unique story names {% endcomment %}
 {% assign story_names = "" %}
 {% for post in story_posts %}
   {% unless story_names contains post.story %}

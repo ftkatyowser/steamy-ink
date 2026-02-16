@@ -21,27 +21,223 @@ years:
       - month: "December"
         pdf: "/assets/pdfs/1603/steamy-december-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.png"
-        search_keywords: "ghost story verity ribbon heads will roll arcturus fashion crimes solstice loves liaisons daily drivel"
+        search_keywords: "ghost story verity ribbon arcturus fashion crimes solstice"
         headlines:
           - "Heads Will Roll: A Ghost Story"
           - "Solstice Fashion Crimes"
           - "Loves & Liaisons"
-      
+
+      - month: "September"
+        pdf: "/assets/pdfs/1603/steamy-september-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-september-1603.png"
+        search_keywords: "pitohui execution makhno arcturus mourning lucky lothapis wedding"
+        headlines:
+          - "Arc is a Sad Boi"
+          - "Abacus is a #girlboss"
+          - "Lotharwen and Lapis Def. Got Married. Totes Happened."
+
+      - month: "October"
+        pdf: "/assets/pdfs/1603/steamy-october-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-october-1603.png"
+        search_keywords: "janos leylines eoin leaves enzo bardic plague entity threatslotharwen lapis wedding joy pox"
+        headlines:
+          - "Janos Gets Ley'd"
+          - "Eoin Goes on Vacation to the Fae Realm"
+          - "Piscean Civil War Ends"
+          - "Entity Continues Monologuing"
+
       - month: "June"
         pdf: "/assets/pdfs/1603/steamy-june-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/steamy-june-1603.png"
-        search_keywords: ""
+        search_keywords: "janos cancels water catori leaves town shrine showdown mayor gharr abacus pitohui friendship"
         headlines:
-          - "Headline 1"
-          - "Headline 2"
-          - "Headline 3"
-      
-      # Add more 1603 issues here...
+          - "Veilwalker Shrines a Popular Attraction for Adventurers"
+          - "Janos Cancels Water"
+          - "Catori Leaves a Heartbroken Makhno Behind"
+          - "DON'T TOUCH VEILWALKER GOO"
+
+      - month: "May"
+        pdf: "/assets/pdfs/1603/steamy-may-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-may-1603.png"
+        search_keywords: "lucky reinfection mouse bank of abacus opal baby xerxes dancing yeti poppy titus marriage contract"
+        headlines:
+          - "Sable Armsmaster Admits to Entity Dealings"
+          - "Craftsman Avatar Reveals Shrine Secrets"
+          - "Maplewood Bazaar Collapses Under Snow"
+
+      - month: "March"
+        pdf: "/assets/pdfs/1603/steamy-march-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-march-1603.png"
+        search_keywords: "pinedale lake civil war cordon asha winter pitohui arcturus quarrel reunion"
+        headlines:
+          - "Literally Everyone in Town is a Complacent Asshole"
+          - "Madam Mapleleaf Uses Full Names Now"
+          - "Everyone Suddenly Cares About the Draconus vs Pisces Civil War"
 
   - year: 1602
-    issues: []
-      # Add 1602 issues here...
+    issues:
+      - month: "December"
+        pdf: "/assets/pdfs/1602/steamy-december-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-december-1602.png"
+        search_keywords: "arcturus sky beasts lucky lake pollution poppelgangers relationship update daitasha drarieon evildacted gercky kythnar mahktori lorelaz micaptain pitorus sablecule tippy"
+        headlines:
+          - "Skybeasts Spotted"
+          - "Arc and Pitohui's Enemies to Lovers Story Begins"
+          - "Semi-Annual Ship Update: Now with Makhtori!"
+
+      - month: "November"
+        pdf: "/assets/pdfs/1602/steamy-november-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-november-1602.png"
+        search_keywords: "arcturus self love chainbreakers inquisitors runesnails evangelista assassin veilwalker facts zylrie"
+        headlines:
+          - "Pitohui Pisses People Off (Again)"
+          - "Arcturus Does Stupidly Marketable Shit (Again)"
+          - "Wedding Planner Stabs Bride (Again?)"
+
+      - month: "October"
+        pdf: "/assets/pdfs/1602/steamy-october-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-october-1602.png"
+        search_keywords: "breaking bulletin servius katullin piscene civil war joy hallowed chantry sacred tabernacle crassus legionnaires runesnails fortune brigade"
+        headlines:
+          - "Poppy's Cousin is Threatening Freelands Journalism"
+          - "Özur Fights an Avatar. The Avatar Wins."
+          - "Reward Offered For the Return of Very Cute Snails"
+
+      - month: "September"
+        pdf: "/assets/pdfs/1602/steamy-sepetember-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-sepetember-1602.png"
+        search_keywords: "orcs lucky lake pollution hallowed chantry sacred tabernacle sigos tiny zenif emeric barnes penny laurie"
+        headlines:
+          - "Maplewood's Hottest Love Triangle Exposed!"
+          - "All About the Hallowed Chantry"
+          - "Lorelei's Attachment Issues Exposed"
+
+      - month: "August"
+        pdf: "/assets/pdfs/1602/steamy-august-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-august-1602.png"
+        search_keywords: "micah arbor divorce cor coinpurse wedding waspoids x'nor craftsman guild veilwalker darkness pact orcs" 
+        headlines:
+          - "Arbor and Micah Divorce!"
+          - "Coinpurse and Cor Get Married?"
+          - "Local Druids Working With Darkness Cult to Contain the Lake Goo"
+
+      - month: "June"
+        pdf: "/assets/pdfs/1602/steamy-june-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-june-1602.png"
+        search_keywords: "draconus cure tiny relationship update drarieon enznor gercky kythnar lilipal lorelaz micaptain sablecule tippy dog earring pages mayor maplewood strange light hallowed chantry"
+        headlines:
+          - "Draconus Offering Veilwalker Curse Cure"
+          - "Hallowed Chantry Appearing in Novitas"
+          - "Breaking News: Micah and Arbor File for Divorce!"
+
+      - month: "May"
+        pdf: "/assets/pdfs/1602/steamy-may-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-may-1602.png"
+        search_keywords: "craftsman guild sheep calligraphy veilwalker hybrid kazvaks shelaz lorelei engagement civen imports"
+        headlines:
+          - "Veilwalkers, Veilwalkers, More Veilwalkers"
+          - "Van'Ironsbane Requires Etiquette Lessons"
+          - "We Explain Sheep for Everyone Who Doesn't Know What They Are"
+
+      - month: "April"
+        pdf: "/assets/pdfs/1602/steamy-april-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-april-1602.png"
+        search_keywords: "sigos roland exploding chicken bazaar sable company polycule pretty boy werewolves lucky gerard path walkers acquisition specialists union"
+        headlines:
+          - "Sigos Gets Himself Blown Up"
+          - "Maplewood Gazette Has Too Many Ads"
+          - "Bandits Unionize"
+
+      - month: "March"
+        pdf: "/assets/pdfs/1602/steamy-march-1602.pdf"
+        thumbnail: "/assets/images/thumbnails/1602/steamy-march-1602.png"
+        search_keywords: "winter snowbirds sword of qa'watie kharn lorelei tea party yonx eoin enchanted elegance flower meanings patching clothes"
+        headlines:
+          - "Eoin Wears White to a Wedding"
+          - "Joy Hatches a Baby Dragon, Rosidian"
+          - "Local Adventuring Economy on the Downswing"
 
   - year: 1601
-    issues: []
-      # Add 1601 issues here...
+    issues:
+      - month: "December"
+        pdf: "/assets/pdfs/1601/steamy-december-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-december-1601.png"
+        search_keywords: "lord sissypuss joy breakup traveling cabins halyttah forsaken cult masks knight shroud ignatius trap-off syphilis cervantes donny"
+        headlines:
+          - "Joy Swears Revenge on an Ex"
+          - "Weird Cabins Appearing All Over Novitas"
+          - "More Lord Syphilis Trash Talk"
+
+      - month: "November"
+        pdf: "/assets/pdfs/1601/steamy-november-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-november-1601.png"
+        search_keywords: "arbor praise rock explosion lithisulus drake vargainen reproduction serial killer lenzo jack-o-lantern potato po spud lucius"
+        headlines:
+          - "Harbingers Being Harbingers"
+          - "Maplewood Gazette Annoyed With the New Competition"
+          - "Mystery Rock Blown Up by Anonymous Adventurer"
+
+      - month: "October"
+        pdf: "/assets/pdfs/1601/steamy-october-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-october-1601.png"
+        search_keywords: "halyttah forsaken interview temperance league hallowed chantry opal bag of rocks lucius crey loose cannon"
+        headlines:
+          - "Snow Goblin Looking for Consort"
+          - "Lucius Crey: Slandered!"
+          - "Exclusive Interview with Varganien Murderess"
+
+      - month: "September"
+        pdf: "/assets/pdfs/1601/steamy-sepetember-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-sepetember-1601.png"
+        search_keywords: "the shattering harvest fest mathys evilynn wedding fighters tournament pitohui catori skullgirls fashion"
+        headlines:
+          - "Shattering the Timeline: Harvest Fest Chaos"
+          - "Pitohui Wins Maplewood Fighters Tournament"
+          - "Catori and the Rise of the Skullgirls"
+
+      - month: "August (V2)"
+        pdf: "/assets/pdfs/1601/steamy-august-1601V2.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-august-1601V2.png"
+        search_keywords: "rex magic rock sosna zenif marriage counseling furs skulls fashion cordon sharptongue bandits vargainen serial killer"
+        headlines:
+          - "<strong>OOG Note</strong>: This was the second, 'fake' version of the paper that was published while Poppy had the Shattered Mind Plague"
+          - "Rex McNeil: Dead? (Presumed Headline)"
+          - "Summer’s Hottest Trend: Furs and Skulls"
+
+      - month: "August (V1)"
+        pdf: "/assets/pdfs/1601/steamy-august-1601V1.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-august-1601V1.png"
+        search_keywords: "rex magic rock sosna zenif marriage counseling furs skulls fashion cordon sharptongue bandits vargainen serial killer"
+        headlines:
+          - "<strong>OOG Note</strong>: The ACTUAL paper for August 1601"
+          - "Rex McNeil Lives!"
+          - "Summer’s Hottest Trend: Furs and Skulls"
+          - "Marriage Counseling Service Helping Many"
+
+      - month: "July"
+        pdf: "/assets/pdfs/1601/steamy-july-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-july-1601.png"
+        search_keywords: "poppy lynn shauna heather plague rex rock spinning jenny relocation shed tetris scroll your roll"
+        headlines:
+          - Julybilee Edition!!
+          - "Abacus and Poppy’s Pet Cat"
+          - "Spinning Jenny Spins to a New Location"
+          - "Rex Gambles By Tying Himself to The Rock"
+
+      - month: "June"
+        pdf: "/assets/pdfs/1601/steamy-june-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-june-1601.png"
+        search_keywords: "vargainen embassy protest me necromancer death pheasant plucker reviews giles driens lenzo meat summoner rex"
+        headlines:
+          - "Vargainens: Tourists or Terrorists? (Embassy Protest)"
+          - "The Life of Me: A Necromancer Remembered"
+          - "Vlenoan Food Critic Reviews Pheasant Plucker"
+
+      - month: "May"
+        pdf: "/assets/pdfs/1601/steamy-may-1601.pdf"
+        thumbnail: "/assets/images/thumbnails/1601/steamy-may-1601.png"
+        search_keywords: "forgetfulness plague shattered mind lorelei zenif marriage counselor necromancer me rictor's bakery lotharwen fashion spring trends"
+        headlines:
+          - "Forgetfulness Plague Spreading Across Novitas"
+          - "Rockbreaker Lorelei Levanestra: A Chainbreaker Tells All"
+          - "Marriage in a Tiff? Call Zenif!"

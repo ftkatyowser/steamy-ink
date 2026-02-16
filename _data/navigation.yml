@@ -5,6 +5,8 @@
 archives:
   title: "Archives"
   links:
+    - name: "Published Articles"
+      url: "/news-archives/"
     - name: "Special Investigative Press"
       url: "/special-archives/"
     - name: "Steamy Ink Press"
