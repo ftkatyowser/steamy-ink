@@ -74,7 +74,7 @@ title: Home
 
 <div class="issue-grid">
   {% assign special_year = site.data.special_issues.years | first %}
-  {% for issue in special_year.issues limit:2 offset:1 %}
+  {% for issue in special_year.issues limit:2%}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
