@@ -5,7 +5,7 @@
 archives:
   title: "Archives"
   links:
-    - name: "Published Articles"
+    - name: "Latest News"
       url: "/news-archives/"
     - name: "Special Investigative Press"
       url: "/special-archives/"
