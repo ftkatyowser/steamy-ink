@@ -73,33 +73,31 @@ title: Home
 <h2 class="section-title">Recent Issues</h2>
 
 <div class="issue-grid">
-  {% for year in site.data.special_issues.years %}
-    {% for issue in year.issues limit:2 offset:1 %}
+  {% assign special_year = site.data.special_issues.years | first %}
+  {% for issue in special_year.issues limit:2 offset:1 %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press{{ issue.month }} {{ year.year }}">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press {{ issue.month }} {{ special_year.year }}">
         </div>
       </a>
       <h3 class="issue-card-title">Special Investigative Press</h3>
-      <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+      <p class="issue-card-date">{{ issue.month }} {{ special_year.year }}</p>
       <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
     </article>
-    {% endfor %}
   {% endfor %}
-  
-  {% for year in site.data.steamy_issues.years %}
-    {% for issue in year.issues limit:2 offset:1 %}
+
+  {% assign steamy_year = site.data.steamy_issues.years | first %}
+  {% for issue in steamy_year.issues limit:2 offset:1 %}
     <article class="issue-card">
       <a href="{{ issue.pdf | relative_url }}">
         <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ year.year }}">
+          <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ steamy_year.year }}">
         </div>
       </a>
       <h3 class="issue-card-title">Steamy Ink Press</h3>
-      <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+      <p class="issue-card-date">{{ issue.month }} {{ steamy_year.year }}</p>
       <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
     </article>
-    {% endfor %}
   {% endfor %}
 </div>
