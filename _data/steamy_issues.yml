@@ -27,6 +27,16 @@ years:
           - "Solstice Fashion Crimes"
           - "Loves & Liaisons"
 
+      - month: "October"
+        pdf: "/assets/pdfs/1603/steamy-october-1603.pdf"
+        thumbnail: "/assets/images/thumbnails/1603/steamy-october-1603.png"
+        search_keywords: "janos leylines eoin leaves enzo bardic plague entity threats lotharwen lapis wedding joy pox"
+        headlines:
+          - "Janos Gets Ley'd"
+          - "Eoin Goes on Vacation to the Fae Realm"
+          - "Piscean Civil War Ends"
+          - "Entity Continues Monologuing"
+
       - month: "September"
         pdf: "/assets/pdfs/1603/steamy-september-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/steamy-september-1603.png"
@@ -35,16 +45,6 @@ years:
           - "Arc is a Sad Boi"
           - "Abacus is a #girlboss"
           - "Lotharwen and Lapis Def. Got Married. Totes Happened."
-
-      - month: "October"
-        pdf: "/assets/pdfs/1603/steamy-october-1603.pdf"
-        thumbnail: "/assets/images/thumbnails/1603/steamy-october-1603.png"
-        search_keywords: "janos leylines eoin leaves enzo bardic plague entity threatslotharwen lapis wedding joy pox"
-        headlines:
-          - "Janos Gets Ley'd"
-          - "Eoin Goes on Vacation to the Fae Realm"
-          - "Piscean Civil War Ends"
-          - "Entity Continues Monologuing"
 
       - month: "June"
         pdf: "/assets/pdfs/1603/steamy-june-1603.pdf"
