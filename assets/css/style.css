@@ -1323,8 +1323,10 @@ hr {
   text-decoration: none;
 }
 
-.story-box-title.musing-box-title {
-  font-family: var(--font-steamy-name);
+.story-box-title.musing-box-title,
+.blog-post-title.musing-post-title {
+  font-family: var(--font-body);
+  font-weight: 700;
 }
 
 .story-box-summary {
