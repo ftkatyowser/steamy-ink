@@ -17,8 +17,8 @@ While the professional work of Steamy Ink Publishing focuses on the news of the 
 
 In short: **The contents found here are shared for Out of Game enjoyment only.**
 
-{% assign story_posts = site.posts | where_exp: "post", "post.story" %}
-{% assign standalone_posts = site.posts | where_exp: "post", "post.story == nil" %}
+{% assign story_posts = site.posts | where_exp: "post", "post.story and post.type != 'musing'" %}
+{% assign standalone_posts = site.posts | where_exp: "post", "post.story == nil and post.type != 'musing'" %}
 {% assign latest_story_post = story_posts | first %}
 
 {% if latest_story_post %}

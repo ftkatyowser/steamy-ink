@@ -40,6 +40,12 @@ defaults:
     values:
       layout: "post"
   - scope:
+      path: "_posts/musings"
+      type: "posts"
+    values:
+      type: "musing"
+      permalink: /musings/:title/
+  - scope:
       path: ""
       type: "pages"
     values:

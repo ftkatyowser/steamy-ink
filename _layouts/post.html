@@ -79,6 +79,10 @@
               </div>
             </nav>
 
+          {% elsif page.type == "musing" %}
+            <nav class="post-navigation">
+              <a href="{{ '/musings/' | relative_url }}">&larr; Back to Musings</a>
+            </nav>
           {% else %}
             <nav class="post-navigation">
               <a href="{{ '/blog/' | relative_url }}">&larr; Back to Blog</a>
