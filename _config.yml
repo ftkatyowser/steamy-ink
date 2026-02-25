@@ -43,7 +43,7 @@ defaults:
       path: "_posts/musings"
       type: "posts"
     values:
-      type: "musing"
+      musing: true
       permalink: /musings/:title/
   - scope:
       path: ""

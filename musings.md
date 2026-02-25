@@ -12,7 +12,7 @@ permalink: /musings/
 
 <p class="drop-cap">No grand narrative here, just words that needed somewhere to go. Snippets, thoughts, and whatever else ends up on paper.</p>
 
-{% assign musing_posts = site.posts | where: "type", "musing" | sort: "date" | reverse %}
+{% assign musing_posts = site.posts | where_exp: "post", "post.musing" | sort: "date" | reverse %}
 
 {% if musing_posts.size > 0 %}
 <ul class="blog-list">
