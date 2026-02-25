@@ -1323,6 +1323,10 @@ hr {
   text-decoration: none;
 }
 
+.musing-box-title {
+  font-family: var(--font-steamy-name);
+}
+
 .story-box-summary {
   font-family: var(--font-body);
   font-style: italic;

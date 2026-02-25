@@ -12,12 +12,14 @@ permalink: /musings/
 
 <p class="drop-cap">No grand narrative here, just words that needed somewhere to go. Snippets, thoughts, and whatever else ends up on paper.</p>
 
+---
+
 {% assign musing_posts = site.posts | where_exp: "post", "post.musing" | sort: "date" | reverse %}
 
 {% if musing_posts.size > 0 %}
   {% for post in musing_posts %}
   <div class="story-box">
-    <h2 class="story-box-title">
+    <h2 class="story-box-title musing-box-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
     {% if post.summary %}
