@@ -30,7 +30,7 @@ When I am writing something like a character blog, I ask myself:
 2. Am I deciding what the character is thinking or feeling?
 3. Am I involving the character in something they didn’t consent to?
 
-In practice this sometimes looks like writing an incomplete story, but it is like this by design. In my blog post [*Terms and Conditions*](/blog/#story-terms-and-conditons), Poppy's Blight addiction is heavily featured as a central conflict. Titus and Lynn, both other players' characters, are also present throughout. In a typical story, those characters would notice Poppy's struggles and react to them. Readers would be writing reviews screaming *“ARE YOU BLIND?!”* at Titus for not doing so. Booktok would be cheering for Niko because *“He sees the real Poppy!”*.
+In practice this sometimes looks like writing an incomplete story, but it is like this by design. In my blog post [*Terms and Conditions*](/blog/#story-terms-and-conditions), Poppy's Blight addiction is heavily featured as a central conflict. Titus and Lynn, both other players' characters, are also present throughout. In a typical story, those characters would notice Poppy's struggles and react to them. Readers would be writing reviews screaming *“ARE YOU BLIND?!”* at Titus for not doing so. Booktok would be cheering for Niko because *“He sees the real Poppy!”*.
 
 But those characters aren't mine, and I can’t say if they would notice or not. Maybe Nick wants to have Titus discover himself in character, or Heather wants to have noticed but have Lynn be struggling with approaching her sister about it.
 
