@@ -2,6 +2,7 @@
 layout: post
 title: "Building Sandcastles With Intention: How I Integrate Player Agency into LARP Creative Writing"
 date: 2026-02-24
+summary: "Thoughts on my creative writing process and how others can integrate it into their own work."
 published: true
 ---
 

@@ -15,23 +15,20 @@ permalink: /musings/
 {% assign musing_posts = site.posts | where_exp: "post", "post.musing" | sort: "date" | reverse %}
 
 {% if musing_posts.size > 0 %}
-<ul class="blog-list">
   {% for post in musing_posts %}
-  <li class="blog-item">
-    <h2 class="blog-item-title">
+  <div class="story-box">
+    <h2 class="story-box-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    <p class="blog-item-meta">
-      {{ post.date | date: "%B %d, %Y" }}
-      {% if post.ingame_date %} ({{ post.ingame_date }}){% endif %}
-    </p>
-    <p class="blog-item-excerpt">
-      {{ post.excerpt | strip_html | truncate: 200 }}
-    </p>
-    <a href="{{ post.url | relative_url }}" class="blog-item-link">Read more →</a>
-  </li>
+    {% if post.summary %}
+      <p class="story-box-summary">{{ post.summary }}</p>
+    {% elsif post.excerpt %}
+      <p class="story-box-summary">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+    {% endif %}
+    <p class="blog-item-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+    <a href="{{ post.url | relative_url }}" class="blog-item-link">Read more &rarr;</a>
+  </div>
   {% endfor %}
-</ul>
 {% else %}
 <p><em>Nothing here yet — check back soon!</em></p>
 {% endif %}
