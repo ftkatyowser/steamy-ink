@@ -1323,7 +1323,7 @@ hr {
   text-decoration: none;
 }
 
-.musing-box-title {
+.story-box-title.musing-box-title {
   font-family: var(--font-steamy-name);
 }
 
