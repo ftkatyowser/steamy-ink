@@ -823,8 +823,7 @@ hr {
   gap: var(--spacing-md);
 }
 
-.year-header::after {
-  content: "In-Game Era";
+.year-sublabel {
   font-family: var(--font-nav);
   font-size: 0.9rem;
   text-transform: uppercase;

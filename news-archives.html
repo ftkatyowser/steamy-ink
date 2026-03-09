@@ -18,11 +18,11 @@ permalink: /news-archives/
 
 <div id="news-archive-container">
   {% assign news_posts = site.categories.news %}
-  {% assign posts_by_year = news_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  
+  {% assign posts_by_year = news_posts | group_by_exp: "post", "post.ingame_date | split: ' ' | last" %}
+
   {% for year in posts_by_year %}
     <div class="archive-year-group">
-      <div class="year-header">{{ year.name }}</div>
+      <div class="year-header">{{ year.name }}, <span class="year-sublabel">Real-life era {{ year.items.first.date | date: '%Y' }}</span></div>
       
       {% for post in year.items %}
         <div class="news-article-card">
