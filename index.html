@@ -5,22 +5,20 @@ title: Home
 
 <div class="latest-news-section">
   <h2 class="section-title">Latest News</h2>
-  
-  {% assign news_posts = site.categories.news | slice: 0, 3 %}
-  {% for post in news_posts %}
-    <div class="news-article-card">
-      <div class="news-article-content">
-        <div class="news-article-category">News</div>
-        <div class="news-article-year">
-          {% if post.ingame_date != "" %}{{ post.ingame_date }}{% else %}{{ post.date | date: "%Y" }}{% endif %}
-        </div>
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
-        <a href="{{ post.url }}" class="issue-card-link">Read More</a>
+
+  {% assign current_ingame = site.data.steamy_issues.latest.date %}
+  {% assign current_news = site.categories.news | where: "ingame_date", current_ingame %}
+
+  <div class="news-card-grid">
+    {% for post in current_news %}
+      <div class="news-card">
+        <div class="news-card-publication">{{ post.publication | default: "News" }}</div>
+        <h4 class="news-card-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <a href="{{ post.url }}" class="issue-card-link">Read Article →</a>
       </div>
-    </div>
-  {% endfor %}
-  
+    {% endfor %}
+  </div>
+
   <div class="text-center mt-lg">
     <a href="{{ '/news-archives/' | relative_url }}" class="latest-entry-bar">View News Archive</a>
   </div>
@@ -73,36 +71,43 @@ title: Home
 <h2 class="section-title">Recent Issues</h2>
 
 <div class="issue-grid">
-  {% assign special_year = site.data.special_issues.years | first %}
-  {% assign steamy_year = site.data.steamy_issues.years | first %}
-
-  {% for i in (1..2) %}
-    {% assign s_issue = special_year.issues | slice: i, 1 %}
-    {% for issue in s_issue %}
-    <article class="issue-card">
-      <a href="{{ issue.pdf | relative_url }}">
-        <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press {{ issue.month }} {{ special_year.year }}">
-        </div>
-      </a>
-      <h3 class="issue-card-title">Special Investigative Press</h3>
-      <p class="issue-card-date">{{ issue.month }} {{ special_year.year }}</p>
-      <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
-    </article>
+  {% assign s_count = 0 %}
+  {% for year in site.data.special_issues.years %}
+    {% for issue in year.issues %}
+      {% if s_count == 0 %}{% assign s_count = s_count | plus: 1 %}{% continue %}{% endif %}
+      {% if s_count >= 3 %}{% break %}{% endif %}
+      <article class="issue-card">
+        <a href="{{ issue.pdf | relative_url }}">
+          <div class="issue-card-thumbnail">
+            <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press {{ issue.month }} {{ year.year }}">
+          </div>
+        </a>
+        <h3 class="issue-card-title">Special Investigative Press</h3>
+        <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+        <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
+      </article>
+      {% assign s_count = s_count | plus: 1 %}
     {% endfor %}
+    {% if s_count >= 3 %}{% break %}{% endif %}
+  {% endfor %}
 
-    {% assign t_issue = steamy_year.issues | slice: i, 1 %}
-    {% for issue in t_issue %}
-    <article class="issue-card">
-      <a href="{{ issue.pdf | relative_url }}">
-        <div class="issue-card-thumbnail">
-          <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ steamy_year.year }}">
-        </div>
-      </a>
-      <h3 class="issue-card-title">Steamy Ink Press</h3>
-      <p class="issue-card-date">{{ issue.month }} {{ steamy_year.year }}</p>
-      <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
-    </article>
+  {% assign t_count = 0 %}
+  {% for year in site.data.steamy_issues.years %}
+    {% for issue in year.issues %}
+      {% if t_count == 0 %}{% assign t_count = t_count | plus: 1 %}{% continue %}{% endif %}
+      {% if t_count >= 3 %}{% break %}{% endif %}
+      <article class="issue-card">
+        <a href="{{ issue.pdf | relative_url }}">
+          <div class="issue-card-thumbnail">
+            <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ year.year }}">
+          </div>
+        </a>
+        <h3 class="issue-card-title">Steamy Ink Press</h3>
+        <p class="issue-card-date">{{ issue.month }} {{ year.year }}</p>
+        <a href="{{ issue.pdf | relative_url }}" class="issue-card-link">Read Issue →</a>
+      </article>
+      {% assign t_count = t_count | plus: 1 %}
     {% endfor %}
+    {% if t_count >= 3 %}{% break %}{% endif %}
   {% endfor %}
 </div>
