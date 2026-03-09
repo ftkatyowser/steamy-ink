@@ -1,6 +1,6 @@
 ---
 layout: news_post
-title: "I Should Not Have To Say This, and Yet—"
+title: "I Should Not Have To Say This, and Yet"
 date: 2026-03-09
 ingame_date: "March 1604"
 category: news
