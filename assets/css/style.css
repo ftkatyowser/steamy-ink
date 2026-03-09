@@ -784,7 +784,7 @@ hr {
 }
 
 .news-card-excerpt {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   color: var(--text-secondary);
   line-height: 1.4;
   margin-bottom: auto;

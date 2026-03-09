@@ -10,6 +10,10 @@ byline: "Marcus Thorne, Siege Analyst"
 published: true
 ---
 
+***Out-of-Game Note:*** *This article was written by the Plot Team (GM: Andi) and reflects the canonical resolution of this plotline.*
+
+---
+
 **FREELANDS** — In the months following the conclusion of the conflict between Lord Umbrex and Pandora the Lich Queen, this press has received no shortage of questions regarding the precise sequence of events—among them, "Who won?", "How do you spell Umbrex?", and "Did Lord Umbrex really die?" This correspondent has spent the winter months compiling a thorough account for the benefit of the Freelands readership.
 
 What follows is a complete record, to the best of our knowledge, of how the undead power vacuum was contested, and where matters currently stand.
