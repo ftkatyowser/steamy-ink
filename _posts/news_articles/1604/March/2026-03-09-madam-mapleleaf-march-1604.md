@@ -9,7 +9,7 @@ excerpt: "Our Editor-in-Chief has signed a marriage contract with Titus Marianus
 published: true
 ---
 
-<span class="rough-anthem">Dear Reader,</span>
+<span class="rough-anthem">Dearest Reader,</span>
 
 It has been quite a year for our beloved Editor-in-Chief. Regular readers will recall last issue's somber update on the state of the Tippy situation which was Poppy, alone with her cat, having spent the better part of 1603 on woodland excursions with a druid, not doing druid things like she insisted and instead talking to a millennia-old cosmic horror.
 
