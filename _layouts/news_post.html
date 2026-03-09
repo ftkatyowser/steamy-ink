@@ -31,10 +31,46 @@
 
         <article class="blog-post">
 
+          {% assign ingame_parts = page.ingame_date | split: " " %}
+          {% assign ingame_month = ingame_parts[0] %}
+          {% assign ingame_year = ingame_parts[1] | plus: 0 %}
+          {% if page.publication == "Steamy Ink Press" %}
+            {% assign issues_data = site.data.steamy_issues %}
+          {% else %}
+            {% assign issues_data = site.data.special_issues %}
+          {% endif %}
+          {% assign issue_pdf = "" %}
+          {% for year_data in issues_data.years %}
+            {% if year_data.year == ingame_year %}
+              {% for issue in year_data.issues %}
+                {% if issue.month == ingame_month %}
+                  {% assign issue_pdf = issue.pdf %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+
           <header class="blog-post-header">
-            <h1 class="blog-post-title">{{ page.title }}</h1>
+            {% if page.publication == "Steamy Ink Press" %}
+              <h1 class="blog-post-title pub-steamy">{{ page.title }}</h1>
+            {% elsif page.publication == "Special Investigative Press" %}
+              <h1 class="blog-post-title pub-special">{{ page.title }}</h1>
+            {% else %}
+              <h1 class="blog-post-title">{{ page.title }}</h1>
+            {% endif %}
+            {% if page.byline %}<p class="blog-post-byline">By {{ page.byline }}</p>{% endif %}
             <p class="blog-post-meta">
               <span class="news-article-category">News</span>
+              {% if page.publication %}
+                &nbsp;|&nbsp;
+                {% if issue_pdf != "" %}
+                  <a href="{{ issue_pdf | relative_url }}" class="{% if page.publication == "Steamy Ink Press" %}pub-steamy{% else %}pub-special{% endif %}">{{ page.publication }}</a>
+                {% else %}
+                  <span class="{% if page.publication == "Steamy Ink Press" %}pub-steamy{% else %}pub-special{% endif %}">{{ page.publication }}</span>
+                {% endif %}
+              {% endif %}
               {% if page.ingame_date and page.ingame_date != "" %}
                 &nbsp;|&nbsp; {{ page.ingame_date }}
               {% else %}

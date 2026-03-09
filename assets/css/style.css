@@ -740,12 +740,29 @@ hr {
 }
 
 .news-card-publication {
-  font-family: var(--font-nav);
-  font-size: 0.75rem;
   color: var(--accent-gold);
-  text-transform: uppercase;
-  font-weight: 700;
   margin-bottom: var(--spacing-xs);
+  line-height: 1.2;
+}
+
+.pub-steamy {
+  font-family: var(--font-steamy-headline);
+  font-size: 1.1rem;
+}
+
+.pub-special {
+  font-family: var(--font-special-headline);
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.blog-post-title.pub-steamy {
+  font-size: 2.5rem;
+}
+
+.blog-post-title.pub-special {
+  font-size: 2.5rem;
+  letter-spacing: 0.03em;
 }
 
 .news-card-title {
@@ -871,6 +888,13 @@ hr {
   font-size: 2.5rem;
   line-height: 1.1;
   margin-bottom: var(--spacing-sm);
+}
+
+.blog-post-byline {
+  font-family: var(--font-nav);
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
 }
 
 .blog-post-meta {

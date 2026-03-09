@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Special Investigative Press"
 excerpt: "A significant increase in ratfolk activity near Maplewood correlates directly with residents providing them food. The economic and medical implications are not theoretical."
+byline: "Silias Gwilt, Economic Correspondent"
 published: true
 ---
 
@@ -20,5 +21,3 @@ Ritual components are a limited resource. The cost of treating a preventable ill
 The ratfolk are not in need of charity. They are not hungry. They are, by nature, opportunistic — and a resident offering food is, by their assessment, a resource to be cultivated.
 
 Do not cultivate them.
-
-*— Silias Gwilt, Economic Correspondent*

@@ -12,7 +12,13 @@ title: Home
   <div class="news-card-grid">
     {% for post in current_news %}
       <div class="news-card">
-        <div class="news-card-publication">{{ post.publication | default: "News" }}</div>
+        {% if post.publication == "Steamy Ink Press" %}
+          <div class="news-card-publication pub-steamy">{{ post.publication }}</div>
+        {% elsif post.publication == "Special Investigative Press" %}
+          <div class="news-card-publication pub-special">{{ post.publication }}</div>
+        {% else %}
+          <div class="news-card-publication">{{ post.publication | default: "News" }}</div>
+        {% endif %}
         <h4 class="news-card-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
         <a href="{{ post.url }}" class="issue-card-link">Read Article →</a>
       </div>

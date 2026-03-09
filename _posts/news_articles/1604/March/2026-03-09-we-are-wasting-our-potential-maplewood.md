@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "1603 was an exceptional year for gossip. But the winter has been quiet, and citizens are not willing to accept that as the natural state of things."
+byline: "A Concerned and Entirely Uninvolved Citizen"
 published: true
 ---
 
@@ -20,5 +21,3 @@ If you are involved in something scandalous, tell someone. If you witnessed some
 More drama. More chaos. More screaming "FATALITY!" in the town square when you stab a skeleton. 1604 is a new year with fresh opportunities to make terrible decisions.
 
 I look forward to hearing about all of them.
-
-*— A Concerned and Entirely Uninvolved Citizen*

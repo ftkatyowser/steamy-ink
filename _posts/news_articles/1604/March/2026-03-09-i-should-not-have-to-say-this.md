@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "As we close the book on 1603, Fashion Correspondent Garnet Glower issues corrections on dead bodies, battle cries, and the ratfolk problem."
+byline: "Garnet Glower, Fashion Correspondent"
 published: true
 ---
 
@@ -28,5 +29,3 @@ They multiply.
 You are not being kind, you are being naive. A ratfolk who has found a source of free food has found a mark, and they will tell every associate they have; the clowns will tell no one, because clowns do not communicate, they simply duplicate. The end result is the same: you have made yourself a problem that the rest of us now have to solve.
 
 1604 is a fresh year. Let us try to behave like it.
-
-*— Garnet Glower, Fashion Correspondent*

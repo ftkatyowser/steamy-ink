@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "Pandora is alive. Umbrex is dead. And the town of Maplewood, when presented with evidence of a major shift in the undead power structure, made toast."
+byline: "Poppy Katullin, Editor-in-Chief"
 published: true
 ---
 
@@ -38,5 +39,3 @@ The crown was subsequently burned in a bakery oven by my sister. I was not prese
 Back to the point: Pandora is alive. Umbrex is dead. And the town of Maplewood, when presented with evidence of a major shift in the undead power structure, made toast.
 
 We will keep you informed as the situation develops. In the meantime, if anyone needs me, I will be in my office with my yarn.
-
-*— Poppy Katullin, Editor-in-Chief*

@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Special Investigative Press"
 excerpt: "A Vleanoan representative was killed before she could speak with this press. The cost of that decision extends beyond one lost interview, and SIP is formally requesting safe passage for journalists and their sources throughout the Freelands."
+byline: "Poppy Katullin, CEO, Editor-in-Chief"
 published: true
 ---
 
@@ -28,5 +29,3 @@ We are asking, formally and publicly, that journalists and their sources be affo
 If you have information regarding the circumstances of this incident, or regarding the Vleanoan delegation's activities in the Freelands, I request that you come forward. You will be heard. You will be protected.
 
 That is a promise this publication intends to keep.
-
-*— Poppy Katullin, CEO, Editor-in-Chief*

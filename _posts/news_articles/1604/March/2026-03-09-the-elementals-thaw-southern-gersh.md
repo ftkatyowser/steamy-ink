@@ -6,6 +6,7 @@ ingame_date: "March 1604"
 category: news
 publication: "Special Investigative Press"
 excerpt: "Nobody knows precisely why the permafrost melted in 1587. Seventeen years later, our Gershan correspondent reflects on a town rebuilt from mud and debris and whether the land's renewal might be a kind of forgiveness."
+byline: "R.T., Gershan Correspondent"
 published: true
 ---
 
@@ -20,5 +21,3 @@ But what I find myself thinking about on the mornings when the work takes me out
 I do not know if the Elemental is watching. I do not know if her thaw is forgiveness. But I find myself filled with the hope that something is being given another chance here, in this rebuilt town on ground that used to be glacier.
 
 Whether Gersh deserves it is not my question to answer.
-
-*— R.T., Gershan Correspondent*
