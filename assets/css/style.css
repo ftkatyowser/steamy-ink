@@ -746,21 +746,23 @@ hr {
 }
 
 .pub-steamy {
-  font-family: var(--font-steamy-headline);
+  font-family: var(--font-steamy-name);
   font-size: 1.1rem;
 }
 
 .pub-special {
-  font-family: var(--font-special-headline);
+  font-family: var(--font-special-name);
   font-size: 1rem;
   letter-spacing: 0.02em;
 }
 
 .blog-post-title.pub-steamy {
+  font-family: var(--font-steamy-headline);
   font-size: 2.5rem;
 }
 
 .blog-post-title.pub-special {
+  font-family: var(--font-special-headline);
   font-size: 2.5rem;
   letter-spacing: 0.03em;
 }
