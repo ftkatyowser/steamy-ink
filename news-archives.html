@@ -22,7 +22,7 @@ permalink: /news-archives/
 
   {% for year in posts_by_year %}
     <div class="archive-year-group">
-      <div class="year-header">{{ year.name }}, <span class="year-sublabel">Real-life era {{ year.items.first.date | date: '%Y' }}</span></div>
+      <div class="year-header">{{ year.name }} <span class="year-sublabel">Real-life era {{ year.items.first.date | date: '%Y' }}</span></div>
       
       {% for post in year.items %}
         <div class="news-article-card">
