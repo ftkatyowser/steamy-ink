@@ -5,19 +5,29 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "December 1603"
-  pdf: "/assets/pdfs/1603/steamy-december-1603.pdf"
-  thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.png"
+  date: "March 1604"
+  pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/steamy-march-1604.png"
   headlines:
-    - "Heads Will Roll: A Ghost Story"
-    - "Solstice Fashion Crimes"
-    - "Loves & Liaisons Updates"
-    - "The Daily Drivel"
+          - "Wraith Lord Becomes Toast"
+          - "Lesbian Werwolves Get Counseling from Finn"
+          - "1604: Choas or Decorum?"
 
 # ALL ISSUES BY YEAR
 years:
-  - year: 1603
+  - year: 1604
     issues:
+      - month: "March"
+      - pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/steamy-march-1604.png"
+        search_keywords: "umbrex, pandora, finn, fashion, tippy, poppy, titus, lynn, halga, ratfolk, those guys"
+        headlines:
+          - "Wraith Lord Becomes Toast"
+          - "Lesbian Werwolves Get Counseling from Finn"
+          - "1604: Choas or Decorum?"
+
+  - year: 1603
+    issues: 
       - month: "December"
         pdf: "/assets/pdfs/1603/steamy-december-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/steamy-december-1603.png"

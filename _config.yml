@@ -46,6 +46,11 @@ defaults:
       musing: true
       permalink: /musings/:title/
   - scope:
+      path: "_posts/news_articles"
+      type: "posts"
+    values:
+      permalink: /news/:title/
+  - scope:
       path: ""
       type: "pages"
     values:

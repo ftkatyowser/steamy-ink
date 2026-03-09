@@ -5,19 +5,29 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "December 1603"
-  pdf: "/assets/pdfs/1603/special-december-1603.pdf"
-  thumbnail: "/assets/images/thumbnails/1603/special-december-1603.png"
+  date: "March 1604"
+  pdf: "/assets/pdfs/1604/special-march-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/special-march-1604.png"
   headlines:
-    - "Pandora Launches Freelands Attack"
-    - "Wraith Lord Umbrex Missing in Action"
-    - "Archon Reveals Knowledge of Veilwalker Behavior"
-    - "Civen Grain Shortage Analysis"
+         - "Full Investigation into the Undead Power Vacuum"
+         - "Statement on Press Neutrality"
+         - "Gersh in Spring"
+         - "Jenny Serving Above-Ground Terran Thunder"
 
 # ALL ISSUES BY YEAR
 years:
+  - year: 1604
+    - month: "March"
+      pdf: "/assets/pdfs/1604/special-march-1604.pdf"
+      thumbnail: "/assets/images/thumbnails/1604/special-march-1604.png"
+      search_keywords: "terran thunder, umbrex, pandora, undead, ratfolk, lynn, spinning jenny, gersh, temperance league"
+      headlines:
+         - "Full Investigation into the Undead Power Vacuum"
+         - "Statement on Press Neutrality"
+         - "Gersh in Spring"
+         - "Jenny Serving Above-Ground Terran Thunder"
+
   - year: 1603
-    issues:
       - month: "December"
         pdf: "/assets/pdfs/1603/special-december-1603.pdf"
         thumbnail: "/assets/images/thumbnails/1603/special-december-1603.png"

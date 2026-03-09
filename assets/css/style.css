@@ -1500,6 +1500,15 @@ hr {
   }
 }
 
+/* --- Utility: Rough Anthem font (used for Madam Mapleleaf column openings/closings) --- */
+.rough-anthem {
+  font-family: var(--font-blog-header);
+  font-size: 1.8rem;
+  line-height: 1.3;
+  display: block;
+  margin: var(--spacing-md) 0;
+}
+
 /* --- Print Styles --- */
 @media print {
   .sidebar, .headline-banner, .site-footer {
