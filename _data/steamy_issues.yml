@@ -18,7 +18,7 @@ years:
   - year: 1604
     issues:
       - month: "March"
-      - pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
+        pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-march-1604.png"
         search_keywords: "umbrex, pandora, finn, fashion, tippy, poppy, titus, lynn, halga, ratfolk, those guys"
         headlines:
