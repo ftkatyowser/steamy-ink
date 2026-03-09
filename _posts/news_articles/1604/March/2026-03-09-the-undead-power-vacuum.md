@@ -10,7 +10,7 @@ byline: "Marcus Thorne, Siege Analyst"
 published: true
 ---
 
-***Out-of-Game Note:*** *This article was written by the Plot Team (GM: Andi) and reflects the canonical resolution of this plotline.*
+***Out-of-Game Note:*** *This article was written and submitted by the Plot Team (GM: Andi) and reflects the canonical resolution of this plotline. Editorial changes were limited to formatting and minor spelling/ grammar corrections.*
 
 ---
 
