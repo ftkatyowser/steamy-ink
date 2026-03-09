@@ -25,7 +25,7 @@
   --font-nav: 'Archivo Narrow', 'Arial Narrow', serif;
   --font-blog-header: 'Rough Anthem', 'Georgia', serif;
   --font-special-headline: 'Rustic Jack', 'Georgia', serif;
-  --font-steamy-headline: 'Nanum Pen Script', cursive;
+  --font-steamy-headline: 'Caveat Brush', cursive;
   --font-special-name: 'Abegnale', 'Georgia', serif;
   --font-steamy-name: 'Charmonman', cursive;
   
@@ -78,6 +78,14 @@
 @font-face {
   font-family: 'Nanum Pen Script';
   src: url('../fonts/NanumPenScript.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Caveat Brush';
+  src: url('../fonts/CaveatBrush.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
