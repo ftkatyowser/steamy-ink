@@ -4,7 +4,9 @@ title: "TEMPLATE: Catchy Headline Goes Here"
 date: 2026-02-14
 ingame_date: "1596 AS"
 category: news
+publication: "Special Investigative Press"
 excerpt: "This is the short summary that appears on the main news archive page. Keep it under 2 sentences."
+byline: "Poppy Marianus, Editor-in-Chief"
 published: false
 ---
 
