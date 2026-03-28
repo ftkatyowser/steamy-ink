@@ -6,11 +6,8 @@ title: Home
 <div class="latest-news-section">
   <h2 class="section-title">Latest News</h2>
 
-  {% assign current_ingame = site.data.steamy_issues.latest.date %}
-  {% assign current_news = site.categories.news | where: "ingame_date", current_ingame %}
-
   <div class="news-card-grid">
-    {% for post in current_news %}
+    {% for post in site.categories.news limit: 12 %}
       <div class="news-card">
         {% if post.publication == "Steamy Ink Press" %}
           <div class="news-card-publication pub-steamy">{{ post.publication }}</div>
