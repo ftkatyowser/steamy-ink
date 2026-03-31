@@ -1,6 +1,6 @@
 ---
 layout: news_post
-title: "Goth is Dead. Long Live Whatever This Is."
+title: "Goth is Dead. Long Live Whatever This Is"
 date: 2026-03-27
 ingame_date: "April 1604"
 category: news
