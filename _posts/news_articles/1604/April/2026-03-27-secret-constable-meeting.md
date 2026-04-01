@@ -1,6 +1,6 @@
 ---
 layout: news_post
-title: "Town Leadership Met Last Month: That is All We Know."
+title: "Town Leadership Met Last Month. That is All We Know."
 date: 2026-03-27
 ingame_date: "April 1604"
 category: news
