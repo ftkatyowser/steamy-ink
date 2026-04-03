@@ -5,19 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "March 1604"
-  pdf: "/assets/pdfs/1604/special-march-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/special-march-1604.png"
+  date: "April 1604"
+  pdf: "/assets/pdfs/1604/special-april-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/special-april-1604.png"
   headlines:
-         - "Full Investigation into the Undead Power Vacuum"
-         - "Statement on Press Neutrality"
-         - "Gersh in Spring"
-         - "Jenny Serving Above-Ground Terran Thunder"
+         - "Veilwalkers Breach Freelands Borders"
+         - "Maplewood Constables Have Closed-Door Meeting"
+         - "Druid Monster Battles Pose Moral Dilemma"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "April 1604"
+        pdf: "/assets/pdfs/1604/special-april-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/special-april-1604.png"
+        search_keywords: "veilwalkers, constables, flooding, monster battles, sawmill, mr. jenkins"
+        headlines:
+         - "Veilwalkers Breach Freelands Borders"
+         - "Maplewood Constables Have Closed-Door Meeting"
+         - "Druid Monster Battles Pose Moral Dilemma"
+
       - month: "March"
         pdf: "/assets/pdfs/1604/special-march-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-march-1604.png"
