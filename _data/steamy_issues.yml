@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "March 1604"
-  pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/steamy-march-1604.png"
+  date: "April 1604"
+  pdf: "/assets/pdfs/1604/steamy-april-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/steamy-april-1604.png"
   headlines:
-          - "Wraith Lord Becomes Toast"
-          - "Lesbian Werwolves Get Counseling from Finn"
-          - "1604: Choas or Decorum?"
+          - "Cordon's Pit Beef Recipie Leaked"
+          - "Constables Have Secret Meeting"
+          - "Fashion Report: Goth is Dead"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "April 1604"
+        pdf: "/assets/pdfs/1604/steamy-april-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/steamy-april-1604.png"
+        search_keywords: "cordon, pit beef, veilwalkers, constables, emeric barnes, evilynn, mathys, marcella, lucky, anari, lightsworn, ahtem"
+        headlines:
+          - "Cordon's Pit Beef Recipie Leaked"
+          - "Constables Have Secret Meeting"
+          - "Fashion Report: Goth is Dead"
+
       - month: "March"
         pdf: "/assets/pdfs/1604/steamy-march-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-march-1604.png"

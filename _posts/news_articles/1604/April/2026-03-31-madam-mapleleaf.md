@@ -5,7 +5,7 @@ date: 2026-03-31
 ingame_date: "April 1604"
 category: news
 publication: "Steamy Ink Press"
-excerpt: "The Lightsworn rescued a cat from a tree last month. The cat was unharmed, the tree is unharmed, and the Lightsworn are heroes- well, almost all of them."
+excerpt: "The Lightsworn rescued a cat from a tree last month. The cat was unharmed, the tree wass unharmed, and the Lightsworn are heroes- well, almost all of them."
 byline: 
 published: true
 ---
@@ -24,6 +24,6 @@ Maplewood Marv, the sandslug traditionally consulted on how long it will be unti
 
 This author would also like to welcome Anari to Maplewood, who arrived at Founder's Feast and sat in Shelaz’s old seat with the audacity of someone who had always been there. The resemblance to her predecessor is uncanny—both dark haired, dark eyed, and perfectly unremarkable in their coloring in a way that this author, whose hair has never once been described as unremarkable, finds deeply unfair. If you are going to have a token faekin, at least commit to one who doesn’t have natural hair color privilege. The Chainbreakers apparently have a type.
 
-Finally, the Lightsworn rescued a cat from a tree last month. The cat was unharmed, the tree is unharmed, and the Lightsworn are heroes- well, almost all of them. Eldin, I have heard from a very reliable source, is currently studying abroad in Evenandra at etiquette school. What makes this so interesting is that this was a voluntary sabbatical so that he could, and I quote, “Improve his prospects with the ladies”. 
+Finally, the Lightsworn rescued a cat from a tree last month. The cat was unharmed, the tree was unharmed, and the Lightsworn are heroes- well, almost all of them. Eldin, I have heard from a very reliable source, is currently studying abroad in Evenandra at etiquette school. What makes this so interesting is that this was a voluntary sabbatical so that he could, and I quote, “Improve his prospects with the ladies”. 
 
 We wish him the very best. Evenandra is very far away.
