@@ -6,7 +6,7 @@ ingame_date: "April 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "Through sources this reporter will not name, at personal risk this reporter's lawyer would decline to comment on, SIP has obtained the complete and verified recipe behind Cordon's legendary pit beef."
-byline: 
+byline: "Poppy Marianus, Editor-in-Chief"
 published: true
 ---
 
@@ -36,4 +36,4 @@ Ingredients:
 5.	Roast for 1 to 1½ hours until internal temperature reaches 120°F. Rest for 10 minutes. 
 6.	Slice as thinly as possible. Serve warm with horseradish.
 
-SIP accepts no responsibility for what you do with this information.
+*SIP accepts no responsibility for what you do with this information.*
