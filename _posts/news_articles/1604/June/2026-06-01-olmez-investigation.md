@@ -5,7 +5,7 @@ date: 2026-06-01
 ingame_date: "1604 AS"
 category: news
 publication: "Special Investigative Press"
-excerpt: ""
+excerpt: "Each has been seen bearing the same sigil, which witnesses are consistently identifying as belonging to a figure referred to as Olmez."
 published: true
 ---
 
