@@ -2,14 +2,14 @@
 layout: news_post
 title: "Who is Olmez?"
 date: 2026-06-01
-ingame_date: "1604 AS"
+ingame_date: "June 1604 AS"
 category: news
 publication: "Special Investigative Press"
 excerpt: "Each has been seen bearing the same sigil, which witnesses are consistently identifying as belonging to a figure referred to as Olmez."
 published: true
 ---
 
-**MAPLEWOOD** — Bodacks, wraiths, and corvari have been observed working together, a behavioral anomaly would be worth reporting on its own. What makes it more remarkable is that each has been seen bearing the same sigil, which witnesses are consistently identifying as belonging to a figure referred to as Olmez.
+**MAPLEWOOD** — Bodacks, wraiths, and corvari have been observed working together, a behavioral anomaly worth reporting on its own. What makes it more remarkable is that each has been seen bearing the same sigil, which witnesses are consistently identifying as belonging to a figure referred to as Olmez.
 
 This correspondent received word that shortly after cursed necklaces began circulating as early as April, Maplewood's adventuring community identified a variant of the Final Rest ritual that could be used to release the curse. This ritual, instead of releasing a spark to the well, instead dedicated the spark to Olmez. Adventurers have since confirmed the sparks are indeed prevented from going to the well, though by what means the confirmation was obtained this paper was unable to establish. Whether someone is directing this deliberately, or whether Olmez has the kind of pull that makes it happen regardless of intention, has also not been confirmed.
 
