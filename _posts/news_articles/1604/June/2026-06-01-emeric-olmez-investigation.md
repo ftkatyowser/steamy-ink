@@ -5,6 +5,7 @@ date: 2026-06-04
 ingame_date: "June 1604 AS"
 category: news
 publication: "Steamy Ink Press"
+byline: "Emeric Barnes"
 excerpt: "Studies conducted by myself and Morton indicate that sixty-three percent of Maplewood incidents have a Kazvak at the root cause. This has not been peer reviewed because my peers are cowards."
 published: true
 ---
