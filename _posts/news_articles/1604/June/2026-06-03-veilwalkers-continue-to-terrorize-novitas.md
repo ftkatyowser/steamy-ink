@@ -1,6 +1,6 @@
 ---
 layout: news_post
-title: "The Shunning: Constables and Elders Depart Maplewood"
+title: "Veilwalker Invasion Worsening; Nations Respond Alone"
 date: 2026-06-03
 ingame_date: "June 1604 AS"
 category: news
