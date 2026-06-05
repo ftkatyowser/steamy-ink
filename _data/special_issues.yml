@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "April 1604"
-  pdf: "/assets/pdfs/1604/special-april-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/special-april-1604.png"
+  date: "June 1604"
+  pdf: "/assets/pdfs/1604/special-june-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/special-june-1604.png"
   headlines:
-         - "Veilwalkers Breach Freelands Borders"
-         - "Maplewood Constables Have Closed-Door Meeting"
-         - "Druid Monster Battles Pose Moral Dilemma"
+         - "Veilwalker Invasion Worsening; Nations Respond Alone"
+         - "The Shunning: Constables and Elders Depart Maplewood"
+         - "Blightfyre Works; It Also Has a Price"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "June 1604"
+        pdf: "/assets/pdfs/1604/special-june-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/special-june-1604.png"
+        search_keywords: "veilwalkers, constables, blight addiction, blightfyre, cordon, hallucination, olmez, elders"
+        headlines:
+         - "Veilwalker Invasion Worsening; Nations Respond Alone"
+         - "The Shunning: Constables and Elders Depart Maplewood"
+         - "Blightfyre Works; It Also Has a Price"
+
       - month: "April 1604"
         pdf: "/assets/pdfs/1604/special-april-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-april-1604.png"

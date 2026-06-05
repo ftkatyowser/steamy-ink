@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "Who is Olmez?"
-date: 2026-06-01
+date: 2026-06-04
 ingame_date: "June 1604 AS"
 category: news
 publication: "Special Investigative Press"
