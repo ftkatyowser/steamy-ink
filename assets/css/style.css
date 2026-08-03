@@ -1600,6 +1600,94 @@ hr {
   margin: var(--spacing-md) 0;
 }
 
+/* --- How to Contribute (player's guide) --- */
+a:focus-visible {
+  outline: 2px solid var(--accent-red);
+  outline-offset: 2px;
+  border-radius: 1px;
+}
+
+/* Newsroom term sidebar */
+.newsroom-term {
+  float: right;
+  clear: right;
+  width: 33%;
+  margin: 0.3rem 0 var(--spacing-md) var(--spacing-lg);
+  padding: var(--spacing-md);
+  background-color: var(--bg-parchment-dark);
+  border: 1px solid var(--border-light);
+  font-family: var(--font-nav);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.newsroom-term-title {
+  font-family: var(--font-headline);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent-gold);
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: var(--spacing-xs);
+  margin-bottom: var(--spacing-sm);
+  text-align: left;
+}
+
+.newsroom-term p {
+  text-align: left;
+  hyphens: none;
+  margin-bottom: var(--spacing-sm);
+}
+
+.newsroom-term p:last-child {
+  margin-bottom: 0;
+}
+
+/* Keep headings and rules from colliding with a floated term box */
+.main-content h2,
+.main-content hr {
+  clear: both;
+}
+
+/* Consent form callout — the most important link in the section */
+.consent-callout {
+  clear: both;
+  text-align: center;
+  font-family: var(--font-headline);
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding: var(--spacing-md) var(--spacing-lg);
+  margin: var(--spacing-lg) 0;
+  border: 4px double var(--accent-red);
+  background-color: var(--bg-parchment-dark);
+}
+
+.consent-callout p {
+  margin: 0;
+  text-align: center;
+}
+
+.consent-callout a {
+  text-decoration: underline;
+}
+
+/* Standing footer on contribute sub-pages */
+.contribute-footer {
+  clear: both;
+  font-family: var(--font-nav);
+  font-size: 1rem;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 900px) {
+  .newsroom-term {
+    float: none;
+    width: 100%;
+    margin: var(--spacing-lg) 0;
+  }
+}
+
 /* --- Print Styles --- */
 @media print {
   .sidebar, .headline-banner, .site-footer {

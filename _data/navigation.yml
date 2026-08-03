@@ -29,6 +29,8 @@ about:
       url: "/about/"
     - name: "About Novitas"
       url: "/aboutnovitas/"
+    - name: "How to Contribute"
+      url: "/about/contribute/"
 
 novitas:
   title: "Kingdoms of Novitas LARP"
