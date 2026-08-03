@@ -13,7 +13,7 @@ This is the important page, and everything else in the guide points back to it.
 The paper maintains a consent list that players have filled out, and Shauna does her absolute best to follow it strictly. A few players have opted out of appearing in the paper entirely and that boundary is respected, which is why an event's biggest spectacle sometimes goes mysteriously unreported. For privacy purposes, the form answers themselves are not public.
 
 <div class="consent-callout">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSem2MOYqGHlltfAh8HgmzQfP_MeMWlK97xNjGgnW1SngzhdSQ/viewform?usp=header" target="_blank" rel="noopener">The consent form.</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSem2MOYqGHlltfAh8HgmzQfP_MeMWlK97xNjGgnW1SngzhdSQ/viewform?usp=header" target="_blank" rel="noopener">The Consent Form.</a></p>
 </div>
 
 Fill it out, or update your answers any time. If you'd rather just talk it through, come find Shauna.
@@ -28,7 +28,9 @@ If you write a piece that features someone who has opted out or otherwise runs i
 
 ## When the Desk Gets it Wrong
 
+<div class="consent-callout">
 Between writing, building the layout, wrangling the Novitas rumor mill, and tracking everyone's preferences, getting the paper out is a huge undertaking. Shauna sticks to the consent list as carefully as one person can, but she is a one-person editorial desk and she does sometimes drop the ball. If a mistake happens, please reach out to her.
+</div>
 
 ## Feeding the Paper
 
