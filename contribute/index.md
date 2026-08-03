@@ -20,6 +20,8 @@ The house is backed and funded by the Breaking Bulletin Consortium, an arm of th
 
 This is the mission as pitched to the people holding the coin purse. How closely any given issue resembles it is an editorial matter.
 
+<p class="soft-highlight">Before you dive in, take a look at <a href="https://forms.gle/eLK7cTyNem9mWyFN9" target="_blank" rel="noopener">the Consent Form</a>—it covers what the paper will and won't print about you.</p>
+
 <hr>
 
 ## The Papers

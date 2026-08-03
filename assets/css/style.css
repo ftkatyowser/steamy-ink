@@ -1690,6 +1690,14 @@ a:focus-visible {
   text-decoration: underline;
 }
 
+/* Lighter-weight highlight for a link within body copy (e.g. the consent form nudge on the contribute index) */
+.soft-highlight {
+  background-color: var(--bg-parchment-dark);
+  border-left: 3px solid var(--accent-gold);
+  padding: var(--spacing-sm) var(--spacing-md);
+  margin: var(--spacing-lg) 0;
+}
+
 /* Standing footer on contribute sub-pages */
 .contribute-footer {
   clear: both;
