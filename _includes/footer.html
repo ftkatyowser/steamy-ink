@@ -1,6 +1,15 @@
 <footer class="site-footer">
   <div class="footer-ornament">❦</div>
   <p class="footer-text";><strong>Steamy Ink Publishing — Est. 1601</strong></p>
+  
+  <p class="footer-text">Submissions to the paper are due two weeks before each event</p>
+  <p class="footer-links">
+    <a href="{{ '/about/contribute/consent' | relative_url }}">Consent Policy</a> |
+    <a href="{{ '/about/contribute/submitting' | relative_url }}">Submission Guidelines</a> |
+    <a href="{{ '/about/contribute/arrangements' | relative_url }}#the-kill-fee-bribing-the-press">Kill Fees</a> |
+    <a href="{{ '/about/contribute/arrangements' | relative_url }}">Getting Paid</a>
+  </p>
+  
   <p class="footer-links">
     <a href="{{ '/about/' | relative_url }}">About Steamy Ink Publishing</a> |
     <a href="{{ '/news-archives/' | relative_url }}">Article Archives</a> |
@@ -8,15 +17,13 @@
     <a href="{{ '/special-archives/' | relative_url }}">Special Investigative Press Archives</a>
   </p>
 
-  {% if page.url contains '/about/contribute/' %}
-  <p class="footer-text">Submissions are due two weeks before each event.</p>
+  <p class="footer-text">Submissions to the paper are due two weeks before each event</p>
   <p class="footer-links">
     <a href="{{ '/about/contribute/consent' | relative_url }}">Consent Policy</a> |
     <a href="{{ '/about/contribute/submitting' | relative_url }}">Submission Guidelines</a> |
     <a href="{{ '/about/contribute/arrangements' | relative_url }}#the-kill-fee-bribing-the-press">Kill Fees</a> |
     <a href="{{ '/about/contribute/arrangements' | relative_url }}">Getting Paid</a>
   </p>
-  {% endif %}
 
   <p class="footer-text" style="margin-top: 1rem; font-size: 0.8rem;">
     &copy; 2023–{{ site.time | date: '%Y' }} Shauna Goldstein. All rights reserved.<br>
