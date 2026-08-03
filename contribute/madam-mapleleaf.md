@@ -24,9 +24,9 @@ Anyone can feed Madam Mapleleaf. Send your tea- an observation, a rumor, a parag
 
 **Writing full columns as Mapleleaf is restricted to vetted writers** for a few reasons:
 
-1. Out-of-game knowledge bleed is a real risk with this column specifically. Mapleleaf "just knows things," which makes her the easiest place in the paper for something you learned as a player to end up in print as in-game fact.
-2. Shauna does not know everything that happens in-game, and does not know what's a secret. Editing can't catch a leak the editor can't recognize as a leak.
-3. With a large pool of pens, it's only a matter of time before something a player didn't want outed such as a secret plot, a hidden identity, or a relationship not yet public ends up in the column because the writer didn't know it was off-limits and the editor didn't either. Keeping the pen with a small set of writers who coordinate closely is how the column stays fun instead of harmful.
+- Out-of-game knowledge bleed is a real risk with this column specifically. Mapleleaf "just knows things," which makes her the easiest place in the paper for something you learned as a player to end up in print as in-game fact.
+- Shauna does not know everything that happens in-game, and does not know what's a secret. Editing can't catch a leak the editor can't recognize as a leak.
+- With a large pool of pens, it's only a matter of time before something a player didn't want outed such as a secret plot, a hidden identity, or a relationship not yet public ends up in the column because the writer didn't know it was off-limits and the editor didn't either. Keeping the pen with a small set of writers who coordinate closely is how the column stays fun instead of harmful.
 
 If you want to be one of those writers, talk to Shauna.
 

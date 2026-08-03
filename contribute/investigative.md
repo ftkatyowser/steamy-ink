@@ -25,10 +25,10 @@ Special Investigative Press acts in the world, not just on it. Formal requests, 
 
 ## What to write
 
-1. Recaps of major plot from an event.
-2. Dispatches from your character's home region, AKA one of the best ways to build your homeland into play!
-3. Explainers on threats, factions, or lore.
-4. Public warnings.
-5. Interviews.
+- Recaps of major plot from an event.
+- Dispatches from your character's home region, AKA one of the best ways to build your homeland into play!
+- Explainers on threats, factions, or lore.
+- Public warnings.
+- Interviews.
 
 {% include contribute-footer.html %}

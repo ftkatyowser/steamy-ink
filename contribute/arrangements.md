@@ -54,7 +54,7 @@ A couple ways:
 
 While the paper publicly prides itself on journalistic integrity, its silence can absolutely be bought. In-game this is an open secret, but Poppy will never advertise or officially acknowledge that extortion is on the menu. If accused publicly, she will deny it entirely and the accusing character may find themselves with some unwanted press attention.
 
-### How the Kill Fee works
+### How the Kill Fee Works
 
 If a scandalous submission comes across the editorial desk about a specific character, Poppy or a representative of hers might approach the subject of the article before it goes to print. The offer is simple: the paper has a story about you, and for the right price, it will conveniently get lost in the mail.
 

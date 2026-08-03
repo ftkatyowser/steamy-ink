@@ -18,9 +18,9 @@ The reporter is a character with *feelings* about what happened. Warm, nosy, the
 
 The paper roasts people constantly, and the reason it works is that the roast is a form of attention, and attention is a form of affection. Some guidelines:
 
-1. Punch at what people do, not what they are. Mock the decision to use a corpse as a snowman armature; don't mock the player's costuming budget.
-2. In-game actions, public spectacles, and known bits are fair game; out-of-game stuff never is.
-3. Roast people at their biggest, not their smallest. The moment a veteran commanded a room, made a bold call, or committed a bit is fair game; the time a newbie fumbled, froze, or clearly felt bad is not.
+- Punch at what people do, not what they are. Mock the decision to use a corpse as a snowman armature; don't mock the player's costuming budget.
+- In-game actions, public spectacles, and known bits are fair game; out-of-game stuff never is.
+- Roast people at their biggest, not their smallest. The moment a veteran commanded a room, made a bold call, or committed a bit is fair game; the time a newbie fumbled, froze, or clearly felt bad is not.
 
 If the person being roasted would laugh reading it, you've done it right. The paper covers people because they're interesting, not to hurt them.
 

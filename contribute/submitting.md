@@ -77,11 +77,11 @@ Submissions are checked against the consent list before they print, and anything
 
 You have options, and they work for both papers.
 
-1. Write as your own PC.
-2. Under an invented reporter persona. Make up a name, give them a personality beat, and they become part of the paper's world. Special Investigative Press reporters usually carry a specialty: Siege Analyst, Economic Correspondent, Gershan Correspondent.
-3. Use one of the paper's existing non-PC reporters (see **[here]** for a list of current employees that can be used).
-4. Use initials.
-5. Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored paper traditions.
+- Write as your own PC.
+- Under an invented reporter persona. Make up a name, give them a personality beat, and they become part of the paper's world. Special Investigative Press reporters usually carry a specialty: Siege Analyst, Economic Correspondent, Gershan Correspondent.
+- Use one of the paper's existing non-PC reporters (see **[here]** for a list of current employees that can be used).
+- Use initials.
+- Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored paper traditions.
 
 **You cannot byline a piece as someone else's PC, or as a character another player has invented.**
 

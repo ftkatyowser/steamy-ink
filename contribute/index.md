@@ -10,8 +10,8 @@ Steamy Ink Publishing is a publishing house headquartered in Maplewood and run b
 
 The house is backed and funded by the Breaking Bulletin Consortium, an arm of the Merchant's Guild of Civen. SIP's stated mission to the Consortium is twofold:
 
-1. To carry Civen's values of knowledge and integrity into the Freelands and beyond, and
-2. To bring the Freelands home to Civen. Civenite readers have a healthy appetite for stories from the frontier, and SIP keeps it fed.
+- To carry Civen's values of knowledge and integrity into the Freelands and beyond, and
+- To bring the Freelands home to Civen. Civenite readers have a healthy appetite for stories from the frontier, and SIP keeps it fed.
 
 This is the mission as pitched to the people holding the coin purse. How closely any given issue resembles it is an editorial matter.
 
@@ -32,14 +32,6 @@ Anyone can write for the papers. Whether it is a three-sentence observation abou
 Everything goes through an editorial pass before it prints, so send the story and don't stress the polish.
 
 **Submissions are due two weeks before each event,** plain text or markdown, please.
-
-## Before Anything Else
-
-<div class="consent-callout">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSem2MOYqGHlltfAh8HgmzQfP_MeMWlK97xNjGgnW1SngzhdSQ/viewform?usp=header" target="_blank" rel="noopener">Fill out the consent form.</a></p>
-</div>
-
-It tells the paper what you're comfortable seeing your character in. You can update your answers at any time, and you can opt out of the paper entirely at no cost. If you'd rather just talk it through, come find Shauna.
 
 ## Where to go from here
 
