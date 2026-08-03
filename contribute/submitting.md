@@ -6,7 +6,11 @@ permalink: /about/contribute/submitting/
 ---
 # Submitting
 
-First and foremost: anyone can write for the papers, and contributors do not need to be writers to do so! Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome.
+First and foremost: anyone can write for the papers, and contributors do not need to be writers to do so! Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome. So is a rumor, a tip, a complaint, a bad poem, or an outline of an article you'd like someone else to assemble.
+
+Everything goes through an editorial pass before it prints, so send the story and don't stress the polish.
+
+**Submissions are due two weeks before each event,** plain text or markdown, please.
 
 <hr>
 
@@ -14,7 +18,7 @@ First and foremost: anyone can write for the papers, and contributors do not nee
 
 Anyone can feed a rumor to the paper without it needing to be a full article. You do not have to be an established writer, an official correspondent, or part of any particular group to participate.
 
-If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels **[insert that here]**. The editorial desk will take them and weave them into broader gossip columns.
+If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels described under **[Before you send](#before-you-send)**. The editorial desk will take them and weave them into broader gossip columns.
 
 Writing a full article or dispatch does have specific tones and layout considerations. Those are covered below.
 
@@ -87,11 +91,11 @@ You have options, and they work for both papers.
 
 - Write as your own PC.
 - Under an invented reporter persona. Make up a name, give them a personality beat, and they become part of the paper's world. Special Investigative Press reporters usually carry a specialty: Siege Analyst, Economic Correspondent, Gershan Correspondent.
-- Use one of the paper's existing non-PC reporters (see **[here]** for a list of current employees that can be used).
+- Use one of the paper's existing non-PC reporters (see previous issues, or ask Shauna for a list of current employees).
 - Use initials.
-- Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored paper traditions.
+- Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored newspaper traditions.
 
-**You cannot byline a piece as someone else's PC, or as a character another player has invented.**
+**You cannot byline a piece as someone else's PC or an NPC you do not play.** 
 
 <hr>
 
@@ -113,7 +117,7 @@ If you are struggling to form a full article, you can also send an outline to Sh
 
 <hr>
 
-## Before you send
+## Before You Send
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Terms: Getting It on the Page</p>

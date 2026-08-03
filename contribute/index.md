@@ -27,15 +27,6 @@ Steamy Ink Publishing currently puts out two newspapers. Readers will refer to b
 
 The publishing house is bigger than its newspapers. SIP also produces research papers, pamphlets, commissioned documents, and other printed material. If your character needs something published, designed, or put into circulation, that's a conversation worth having with Shauna.
 
-<hr>
-
-## You Do Not Have to Be a Writer
-
-Anyone can write for the papers. Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome. So is a rumor, a tip, a complaint, a bad poem, or an outline of an article you'd like someone else to assemble.
-
-Everything goes through an editorial pass before it prints, so send the story and don't stress the polish.
-
-**Submissions are due two weeks before each event,** plain text or markdown, please.
 
 <hr>
 
