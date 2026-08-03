@@ -8,6 +8,8 @@ permalink: /about/contribute/submitting/
 
 First and foremost: anyone can write for the papers, and contributors do not need to be writers to do so! Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome.
 
+<hr>
+
 ## Submitting a rumor or tip
 
 Anyone can feed a rumor to the paper without it needing to be a full article. You do not have to be an established writer, an official correspondent, or part of any particular group to participate.
@@ -15,6 +17,8 @@ Anyone can feed a rumor to the paper without it needing to be a full article. Yo
 If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels **[insert that here]**. The editorial desk will take them and weave them into broader gossip columns.
 
 Writing a full article or dispatch does have specific tones and layout considerations. Those are covered below.
+
+<hr>
 
 ## What the editorial pass changes
 
@@ -60,9 +64,13 @@ If a submission touches something (or someone) on it, that piece of the submissi
 
 Anything removed this way is still paid at [spike pay](../arrangements/#spike-pay) rates. The intelligence was still gathered, the work was still done, and the paper still owes for it.
 
+<hr>
+
 ## Consent
 
 Submissions are checked against the consent list before they print, and anything touching another PC's secrets gets a conversation with that player first. The full policy, the opt-out process, and the form all live under **[Consent and Source Protection](../consent/)**.
+
+<hr>
 
 ## Bylines
 
@@ -85,6 +93,8 @@ You have options, and they work for both papers.
 
 **You cannot byline a piece as someone else's PC, or as a character another player has invented.**
 
+<hr>
+
 ## Length
 
 <aside class="newsroom-term">
@@ -100,6 +110,8 @@ Write in whatever tool works best; the editorial desk handles the final layout. 
 * **Anything longer:** Talk to Shauna before writing it. Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning.
 
 If you are struggling to form a full article, you can also send an outline to Shauna with the main points you want covered and she can handle it from there.
+
+<hr>
 
 ## Before you send
 

@@ -10,6 +10,8 @@ Steamy Ink Publishing is a business, and Poppy Marianus pays for good intelligen
 
 Money also moves the other direction, and this page covers that too.
 
+<hr>
+
 ## Standard Publication
 
 If your article, dispatch, or tip is accepted and printed, Poppy will compensate your character for their work. The payment scale depends on the length and impact of the piece- a three-sentence tip to Madam Mapleleaf pays differently than a full feature for the Special Investigative Press.
@@ -22,6 +24,8 @@ Payment isn't strictly limited to coin; writers can be paid in production items,
 * **Anything longer:** negotiated directly with Shauna/Poppy
 
 If you want to haggle for more payment based on your piece, you can- just talk to Shauna or Poppy.
+
+<hr>
 
 ## Spike Pay
 
@@ -36,6 +40,8 @@ If a story gets killed, Poppy still will pay the writer for the intelligence gat
 
 Every other newsroom calls this a "Kill Fee." SIP already spent that term on the bribe, so here it is "Spike Pay" so the two don't get confused.
 
+<hr>
+
 ## How to Collect
 
 A couple ways:
@@ -44,6 +50,8 @@ A couple ways:
 * You can track down Poppy in-game for payment.
 * Payment can be sent via courier in-game.
 * If you have an account with The Bank of Abacus, direct deposit can be arranged.
+
+<hr>
 
 ## The Kill Fee (Bribing the Press)
 
@@ -74,6 +82,8 @@ Being approached is not a formality- whatever the paper has is real, sourced, an
 
 You do not have to wait to be approached. If your character hears a rumor that a story about them has been submitted to the paper, you can proactively seek out Poppy to negotiate a kill fee before the ink dries.
 
+<hr>
+
 ## Buying Silence Outright
 
 Rather than paying story by story, a *character* can negotiate to stay out of the papers entirely. This is renegotiated yearly. Poppy has never refused one outright, but her price is often the answer on if she wants to make a deal or not- in other words, the more valuable your name is in the paper, the higher the price will be.
@@ -81,6 +91,8 @@ Rather than paying story by story, a *character* can negotiate to stay out of th
 Understand that this is a business deal, which means it exists in the world. Other characters can suspect it, uncover it, or ask why your name never appears in a paper that prints everyone else's. A rival who works out that you're paying for silence has learned something worth more than whatever you were hiding.
 
 **This is not the consent form, and it is not a substitute for it.** If you as a *player* would rather not appear in the paper, that costs nothing and is handled out of game. Nobody has to spend in-game coin to set an out-of-game boundary.
+
+<hr>
 
 ## Buying Good Ink
 

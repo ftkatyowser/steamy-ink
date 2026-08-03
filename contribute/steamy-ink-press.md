@@ -10,9 +10,13 @@ Anyone can write for the gossip paper, and you do not need to be a writer to do 
 
 Basically: if it's funny, petty, heartfelt, or weird, it has a home here.
 
+<hr>
+
 ## House voice
 
 The reporter is a character with *feelings* about what happened. Warm, nosy, theatrical, precise. The paper is affectionate and merciless at the same time, and the affection is real. A threat can be phrased as etiquette advice, a roast as concern. Big events get deflated by small details; small grievances get the gravity of state matters. Headlines pun. Columns sign off. Readers get addressed directly, like the paper is leaning across the table toward them (mostly because it is).
+
+<hr>
 
 ## Making fun of someone without being a jerk
 
@@ -24,6 +28,8 @@ The paper roasts people constantly, and the reason it works is that the roast is
 
 If the person being roasted would laugh reading it, you've done it right. The paper covers people because they're interesting, not to hurt them.
 
+<hr>
+
 ## Gossip about yourself
 
 <aside class="newsroom-term">
@@ -32,6 +38,8 @@ If the person being roasted would laugh reading it, you've done it right. The pa
 </aside>
 
 Submitting items about your own PC is encouraged- it's one of the best plot tools in the game. Want the town to notice your character's suspicious new wealth, budding romance, or mysterious absences? Put it in the paper. A blind item about your own secret is a lure for roleplay because everyone who reads it becomes a potential thread. The paper cannot tell the difference between gossip you're a victim of and gossip you planted, and neither can the town. Use this to your advantage!
+
+<hr>
 
 ## The paper can wait for the story
 

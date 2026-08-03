@@ -8,6 +8,8 @@ permalink: /about/contribute/investigative/
 
 This is the serious paper. People read it to find out what actually happened, which means accuracy and sourcing are the whole product.
 
+<hr>
+
 ## House voice
 
 <aside class="newsroom-term">
@@ -22,6 +24,8 @@ The piece can still be funny, but it should be funny out of game: the serious pa
 It can also be entirely serious: deaths, wars, memorials, major plot events. If something happened in game that deserves real weight, this is the paper that gives it.
 
 Special Investigative Press acts in the world, not just on it. Formal requests, petitions, public appeals, and calls for information are all welcome. If your piece asks the town for something (safe passage, witnesses coming forward, a change in behavior), that's a legitimate use of the paper.
+
+<hr>
 
 ## What to write
 

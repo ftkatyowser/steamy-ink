@@ -15,6 +15,8 @@ The house is backed and funded by the Breaking Bulletin Consortium, an arm of th
 
 This is the mission as pitched to the people holding the coin purse. How closely any given issue resembles it is an editorial matter.
 
+<hr>
+
 ## The Papers
 
 Steamy Ink Publishing currently puts out two newspapers. Readers will refer to both as SIP in casual conversation, but they are not the same paper.
@@ -25,6 +27,8 @@ Steamy Ink Publishing currently puts out two newspapers. Readers will refer to b
 
 The publishing house is bigger than its newspapers. SIP also produces research papers, pamphlets, commissioned documents, and other printed material. If your character needs something published, designed, or put into circulation, that's a conversation worth having with Shauna.
 
+<hr>
+
 ## You Do Not Have to Be a Writer
 
 Anyone can write for the papers. Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome. So is a rumor, a tip, a complaint, a bad poem, or an outline of an article you'd like someone else to assemble.
@@ -33,16 +37,18 @@ Everything goes through an editorial pass before it prints, so send the story an
 
 **Submissions are due two weeks before each event,** plain text or markdown, please.
 
+<hr>
+
 ## Where to go from here
 
-**[Consent and Source Protection](consent/)** — what the paper will and won't print about you, how the opt-out works, and what the editor does when people come asking.
+**[Consent and Source Protection](consent/)**: What the paper will and won't print about you, how opt-out works, and what the editor does when people come asking.
 
-**[Coin, Bribes, and Other Arrangements](arrangements/)** — what the paper pays, what happens when a story gets killed, and the several ways money changes what runs.
+**[Coin, Bribes, and Other Arrangements](arrangements/)**: What the paper pays, what happens when a story gets killed, and the several ways money changes what runs.
 
-**[Submitting](submitting/)** — bylines, word counts, where to send things, and exactly what the editorial pass changes.
+**[Submitting](submitting/)**: Bylines, word counts, where to send things, and exactly what the editorial pass changes.
 
-**[Writing for Steamy Ink Press](steamy-ink-press/)** — the gossip paper's house voice, how to roast someone without being a jerk, and why planting gossip about your own character is one of the best plot tools in the game.
+**[Writing for Steamy Ink Press](steamy-ink-press/)**: The gossip paper's house voice, how to roast someone without being a jerk, and why planting gossip about your own character is one of the best plot tools in the game.
 
-**[Writing for Special Investigative Press](investigative/)** — the serious paper's house voice, attribution, and what kinds of pieces it runs.
+**[Writing for Special Investigative Press](investigative/)**: The serious paper's house voice, attribution, and what kinds of pieces it runs.
 
-**[Madam Mapleleaf](madam-mapleleaf/)** — the shared pen name. Anyone can feed her, but writing her is restricted.
+**[Madam Mapleleaf](madam-mapleleaf/)**: The shared pen name. Anyone can feed her, but writing her is restricted.
