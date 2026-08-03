@@ -37,6 +37,17 @@
         <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} class="active"{% endif %}>
           {{ link.name }}
         </a>
+        {% if link.children and page.url contains '/about/contribute/' %}
+        <ul class="sidebar-subnav">
+          {% for child in link.children %}
+          <li>
+            <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} class="active"{% endif %}>
+              {{ child.name }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </li>
       {% endfor %}
     </ul>

@@ -31,6 +31,19 @@ about:
       url: "/aboutnovitas/"
     - name: "How to Contribute"
       url: "/about/contribute/"
+      children:
+        - name: "Consent and Source Protection"
+          url: "/about/contribute/consent/"
+        - name: "Payment, Bribes, and Other Arrangements"
+          url: "/about/contribute/arrangements/"
+        - name: "Submitting"
+          url: "/about/contribute/submitting/"
+        - name: "Writing for Steamy Ink Press"
+          url: "/about/contribute/steamy-ink-press/"
+        - name: "Writing for Special Investigative Press"
+          url: "/about/contribute/investigative/"
+        - name: "Madam Mapleleaf"
+          url: "/about/contribute/madam-mapleleaf/"
 
 novitas:
   title: "Kingdoms of Novitas LARP"

@@ -10,7 +10,7 @@ Steamy Ink Publishing is a publishing house headquartered in Maplewood and run b
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: The Desk</p>
-<p>Short for the editorial desk: whoever reads submissions, edits them, and decides what runs. At most papers that's a room full of people; for SIP, it's Shauna.</p>
+<p>Short for the editorial desk: whoever reads submissions, edits them, and decides what runs. At most papers that's a room full of people; for SIP, it's Shauna. When you see "the desk" referenced, that is who is being referred to.</p>
 </aside>
 
 The house is backed and funded by the Breaking Bulletin Consortium, an arm of the Merchant's Guild of Civen. SIP's stated mission to the Consortium is twofold:
