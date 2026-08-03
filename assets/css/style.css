@@ -1693,10 +1693,13 @@ a:focus-visible {
 /* Standing footer on contribute sub-pages */
 .contribute-footer {
   clear: both;
-  text-align: center;
   font-family: var(--font-nav);
   font-size: 1rem;
   color: var(--text-secondary);
+}
+
+.contribute-footer p {
+  text-align: center;
 }
 
 @media (max-width: 900px) {

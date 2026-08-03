@@ -16,7 +16,7 @@ This doesn't mean the individual Madam M's don't have distinct flavors, because 
 
 Society-column diction with teeth. She addresses her readers directly and fondly, maintains impeccable manners while saying appalling things, and treats gossip as a public service. Signature move: the innocent-misunderstanding disclaimer. "Should a detail or two be off, I'm sure your generous hearts will understand that you simply misunderstood the situation as you perceived it." She is never *wrong*, you just *misread* her.
 
-If you need a vibe reference, think Lady Whistledown of Bridgerton- elegant, omniscient, delighted by everyone's poor decisions, and beloved because being featured stings and flatters at the same time. Gossip Girl works too, for the shared-anonymous-narrator energy and the sign-off culture. She's those archetypes relocated to a frontier town where the scandals involve werewolf breakups and wraith lord memorabilia, which she covers with exactly the same energy as a duchess's ruined engagement.
+If you need a vibe reference, think Lady Whistledown of Bridgerton—elegant, omniscient, delighted by everyone's poor decisions, and beloved because being featured stings and flatters at the same time. Gossip Girl works too, for the shared-anonymous-narrator energy and the sign-off culture. She's those archetypes relocated to a frontier town where the scandals involve werewolf breakups and wraith lord memorabilia, which she covers with exactly the same energy as a duchess's ruined engagement.
 
 She will reduce a name to initials when it suits her and print it in full when that suits her better. She speculates freely, frames it as concern, asks questions she absolutely knows the answers to, and treats the courier system as her personal nervous system.
 
@@ -24,7 +24,7 @@ She will reduce a name to initials when it suits her and print it in full when t
 
 ## Feeding her vs. writing her
 
-Anyone can feed Madam Mapleleaf. Send your tea- an observation, a rumor, a paragraph about something you witnessed- and it may appear in her column, woven in alongside everyone else's. This is the main way to contribute and it's open to everyone. Tips run through the same consent process as everything else: the consent list is checked, and anything touching another PC's secrets gets a conversation with that player before it prints.
+Anyone can feed Madam Mapleleaf. Send your tea—an observation, a rumor, a paragraph about something you witnessed—and it may appear in her column, woven in alongside everyone else's. This is the main way to contribute and it's open to everyone. Tips run through the same consent process as everything else: the consent list is checked, and anything touching another PC's secrets gets a conversation with that player before it prints.
 
 **Writing full columns as Mapleleaf is restricted to vetted writers** for a few reasons:
 
