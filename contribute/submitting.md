@@ -24,7 +24,7 @@ Writing a full article or dispatch does have specific tones and layout considera
 
 <hr>
 
-## What the editorial pass changes
+## What the Editorial Pass Changes
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: House Voice</p>
@@ -54,7 +54,7 @@ Personality is the writer's specific contribution. The core joke, the petty grie
 * Remove the core energy of a piece (if a contributor submits a frantic rant, it will remain a frantic rant).
 * Alter the specific facts or rumors the author is trying to introduce into the game.
 
-### The bottom line
+### The Bottom Line
 
 Contributors should just send the story and not stress the polish. If a piece needs heavier reshaping to fit the paper, Shauna will collaborate directly with the author. Heavy editing will never happen by surprise.
 
@@ -117,6 +117,37 @@ If you are struggling to form a full article, you can also send an outline to Sh
 
 <hr>
 
+## Advertising
+
+The paper sells advertising space for PCs, groups and organizations at the following rates:
+
+![Ad Reference Sheet](/assets/images/Ad%20Reference%20Sheet.png)
+
+- Standard size: 10c
+- Quarter page: 15c
+- Half page: 25c
+- Three-quarter page: 30c
+- Full page: 40c
+
+This is payable to Poppy in game in person, via courier, or via deposit to The Bank of Abacus. You can also just pay Shauna out-of-game if that is easier.
+
+Poppy will take consumables, favors, or information instead of coin, but the card rates are the rates and she is not haggling with you over a standard size ad.
+
+An ad is space, not word count, so there is more back and forth with creating one. What the desk needs is
+- What's being sold
+- Who's selling it
+- The copy, or just the gist
+- Any specific look or fonts you're picturing
+- Any wording that has to appear exactly as written
+- Whether you have art or need something made
+- The tone you're after
+
+Expect more back and forth than an article takes, since it's a design job rather than an editing one, and expect a proof before it runs. Ads have the same two-week deadline as everything else.
+
+Poppy has refused an ad on principle exactly once. It ran the following month; the principle is apparently negotiable.
+
+<hr>
+
 ## Before You Send
 
 <aside class="newsroom-term">
@@ -127,7 +158,7 @@ If you are struggling to form a full article, you can also send an outline to Sh
 
 Before sending a piece to the editorial desk, please double-check the following:
 
-* **Where to Send:** Send submissions via Discord DM, the SIP Discord server, or Facebook. Paper towels handed over at events are accepted and historically precedented, but the chances of it making it to layout are small.
+* **Where to Send:** Send submissions via Discord DM, the [SIP Discord server](https://discord.gg/TpxNmv9279), or Facebook. Paper towels handed over at events are accepted and historically precedented, but the chances of it surviving to layout are small.
 * **Plain Text Only:** Submit using plain text or Markdown. Please do not send pre-formatted documents, as they have to be completely un-formatted before they can be placed into the layout software.
 * **Describe Your Vision:** If a piece needs to look a specific way on the page (like a ransom note or a torn poster), just describe that vision in the text and Shauna will build it in layout.
 * **The Deadline:** Submissions are due two weeks before the next event. If flexibility is needed, just talk to Shauna before the deadline hits.
