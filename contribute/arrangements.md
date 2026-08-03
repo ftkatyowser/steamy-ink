@@ -101,5 +101,3 @@ Silence is not the only thing for sale. A character can also pay to be seen well
 The one caveat is that the piece has to survive contact with the truth. Poppy will not invent a victory that didn't happen or an heir who doesn't exist, because a paper caught lying outright stops being worth bribing. What she sells is emphasis, framing, and column inches, which is a lot more valuable than it sounds.
 
 The paper covers interesting people for free, and always will; you don't have to pay just to appear in the paper.
-
-{% include contribute-footer.html %}

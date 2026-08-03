@@ -47,5 +47,3 @@ In-world, Poppy protects her sources. Anonymous submissions or tips stay anonymo
 Your character can use this to their advantage: talking to the paper is safe, and no amount of in-character pressure on Poppy, or on you, will out an anonymous source. If someone corners your PC demanding to know who wrote something, "take it up with the editor" is always a valid answer, and the editor will use her resources to take care of the issue.
 
 **One hard limit on that**: it's an in-character deal. If game marshals or plot ask for more information about an article such as who submitted it, what it's based on, or where a detail came from, Shauna will provide it out of game. Source protection is part of the fiction; it is not a shield against the people running the game, and the paper is not a loophole for anything that needs eyes on it. If you have an out-of-game concern about a piece such as something about you or something you think crossed a line, bring it to Shauna.
-
-{% include contribute-footer.html %}

@@ -131,5 +131,3 @@ Before sending a piece to the editorial desk, please double-check the following:
 * **Plain Text Only:** Submit using plain text or Markdown. Please do not send pre-formatted documents, as they have to be completely un-formatted before they can be placed into the layout software.
 * **Describe Your Vision:** If a piece needs to look a specific way on the page (like a ransom note or a torn poster), just describe that vision in the text and Shauna will build it in layout.
 * **The Deadline:** Submissions are due two weeks before the next event. If flexibility is needed, just talk to Shauna before the deadline hits.
-
-{% include contribute-footer.html %}

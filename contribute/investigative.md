@@ -34,5 +34,3 @@ Special Investigative Press acts in the world, not just on it. Formal requests, 
 - Explainers on threats, factions, or lore.
 - Public warnings.
 - Interviews.
-
-{% include contribute-footer.html %}

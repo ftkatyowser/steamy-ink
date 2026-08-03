@@ -33,5 +33,3 @@ Anyone can feed Madam Mapleleaf. Send your tea—an observation, a rumor, a para
 - With a large pool of pens, it's only a matter of time before something a player didn't want outed such as a secret plot, a hidden identity, or a relationship not yet public ends up in the column because the writer didn't know it was off-limits and the editor didn't either. Keeping the pen with a small set of writers who coordinate closely is how the column stays fun instead of harmful.
 
 If you want to be one of those writers, talk to Shauna.
-
-{% include contribute-footer.html %}

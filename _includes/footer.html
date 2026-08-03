@@ -7,6 +7,17 @@
     <a href="{{ '/steamy-archives/' | relative_url }}">Steamy Ink Press Archives</a> |
     <a href="{{ '/special-archives/' | relative_url }}">Special Investigative Press Archives</a>
   </p>
+
+  {% if page.url contains '/about/contribute/' %}
+  <p class="footer-text">Submissions are due two weeks before each event.</p>
+  <p class="footer-links">
+    <a href="{{ '/about/contribute/consent' | relative_url }}">Consent Policy</a> |
+    <a href="{{ '/about/contribute/submitting' | relative_url }}">Submission Guidelines</a> |
+    <a href="{{ '/about/contribute/arrangements' | relative_url }}#the-kill-fee-bribing-the-press">Kill Fees</a> |
+    <a href="{{ '/about/contribute/arrangements' | relative_url }}">Getting Paid</a>
+  </p>
+  {% endif %}
+
   <p class="footer-text" style="margin-top: 1rem; font-size: 0.8rem;">
     &copy; 2023–{{ site.time | date: '%Y' }} Shauna Goldstein. All rights reserved.<br>
     All stories, character biographies, and text content regarding "Poppy" and "Steamy Ink Publishing" are the intellectual property of the author and may not be reproduced without permission.<br>

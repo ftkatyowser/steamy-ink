@@ -37,7 +37,7 @@ The publishing house is bigger than its newspapers. SIP also produces research p
 
 <hr>
 
-## Where to go from here
+## The Rest of the Guide
 
 **[Consent and Source Protection](consent/)**: What the paper will and won't print about you, how opt-out works, and what the editor does when people come asking.
 

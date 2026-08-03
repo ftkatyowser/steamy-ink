@@ -46,5 +46,3 @@ Submitting items about your own PC is encouraged—it's one of the best plot too
 If you know something big is coming in-game such as a divorce announcement, a duel, a betrayal, or a proposal, you can coordinate with Shauna in advance. The piece gets written ahead of time and held until the event actually happens in play, then the paper goes out via courier while the town is still buzzing.
 
 This requires consent from every player involved, and it works best when the piece is built on the large overarching thing plus speculation, not a blow-by-blow. Roleplay changes details—nobody can promise what gets said, who's in the room, or how it ends. "The paperwork was served; this reporter has *questions*" survives any version of the scene. "She threw her ring in the lake and stormed out" survives only one. Report the thing that's certain, speculate wildly about everything else (which, conveniently, is also the house voice).
-
-{% include contribute-footer.html %}
