@@ -29,7 +29,7 @@ Being approached is not a formality—whatever the paper has is real, sourced, a
 
 * **Pay Up:** You can negotiate with Poppy. The kill fee isn't limited to coin; you can offer resources, influence, or a favor to be named later. If you pay the fee, the article is killed and will not be printed.
 * **Call the Bluff:** You can refuse to pay. Tell the editor to do her worst, take the heat, and let the town read all about it in the next issue.
-* **Handle It Some Other Way:** You can threaten the editor, lean on someone who has leverage over her, discredit the source, or make the story stop being true before it prints. Just a warrning that Poppy has been threatened before; it has never gone the way the threatening party hoped.
+* **Handle It Some Other Way:** You lean on someone who has leverage over the editor, discredit the source, offer to pay to have a rebuttal printed, or make the story stop being true before it prints. Just a warning that Poppy has been threatened before; it has never gone the way the threatening party hoped.
 
 If Shauna approaches you about a potential kill fee she is offering a fun roleplay hook, but she is *also* checking in on your boundaries. If the proposed article crosses an out-of-game line or touches on a subject you as a player are genuinely uncomfortable with, you do not have to pay in-game coin to stop it. Simply tell her that it violates your consent preferences and the article will be scrapped entirely, free of charge.
 
