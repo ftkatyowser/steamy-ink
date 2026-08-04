@@ -53,4 +53,4 @@ Separate from the general consent form, Poppy keeps her own list of subjects and
 
 If a submission touches something (or someone) on it, that piece of the submission will quietly go away. This is the one place where the editorial desk will alter a submission without a conversation first, because the reason for the cut is usually something that cannot be discussed.
 
-Anything removed this way is still paid at [Spike Pay](../getting-paid/#spike-pay) rates. The intelligence was still gathered, the work was still done, and the paper still owes for it.
+Anything removed this way is still paid at [Spike Pay](../compensation/#spike-pay) rates. The intelligence was still gathered, the work was still done, and the paper still owes for it.

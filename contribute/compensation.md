@@ -2,9 +2,9 @@
 layout: default
 title: Compensation
 description: "What the paper pays, what happens when a story gets killed, and how to collect."
-permalink: /about/contribute/getting-paid/
+permalink: /about/contribute/compensation/
 ---
-# Getting Paid
+# Compensation
 
 Steamy Ink Publishing is a business, and Poppy Marianus pays for good intelligence. Contributing to the paper isn't just about shaping the town's narrative, it is also a way for your character to earn coin!
 

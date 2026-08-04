@@ -38,8 +38,8 @@ about:
           url: "/about/contribute/submitting/"
         - name: "How Editing Works"
           url: "/about/contribute/editing/"
-        - name: "Getting Paid"
-          url: "/about/contribute/getting-paid/"
+        - name: "Compensation"
+          url: "/about/contribute/compensation/"
         - name: "Bribing the Press"
           url: "/about/contribute/bribing/"
         - name: "Advertising"
@@ -50,6 +50,8 @@ about:
           url: "/about/contribute/investigative/"
         - name: "Madam Mapleleaf"
           url: "/about/contribute/madam-mapleleaf/"
+    - name: "SIP Consent Form"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSc8dUFqo4Sl3q_GhE75LH2KNIJxgtylGID7xv4oYPXO-325tQ/viewform?usp=sharing&ouid=103427404242121608046"
 
 novitas:
   title: "Kingdoms of Novitas LARP"

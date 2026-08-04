@@ -21,7 +21,7 @@ If a scandalous submission comes across the editorial desk about a specific char
 
 Most gossip or articles just run; the paper does not offer to kill everything that comes across its desk. If Poppy is at your elbow before print, it means the story is bad enough to be worth more unpublished than published, and she decided you're worth the conversation instead of the column inches.
 
-Writers still get paid when a piece gets pulled; see **[Spike Pay](../getting-paid/#spike-pay)**.
+Writers still get paid when a piece gets pulled; see **[Spike Pay](../compensation/#spike-pay)**.
 
 ### What to Do if You are Approached
 
