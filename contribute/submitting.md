@@ -45,7 +45,7 @@ You have options, and they work for both papers.
 
 - Write as your own PC.
 - Under an invented reporter persona. Make up a name, give them a personality beat, and they become part of the paper's world. Special Investigative Press reporters usually carry a specialty: Siege Analyst, Economic Correspondent, Gershan Correspondent.
-- Use one of the paper's existing non-PC reporters (see previous issues, or ask Shauna for a list of current employees).
+- Use one of the paper's existing non-PC reporters (see **[Current Employees](#current-employees)** below).
 - Use initials.
 - Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored newspaper traditions.
 
@@ -87,3 +87,23 @@ Before sending a piece to the editorial desk, please double-check the following:
 * **Plain Text Only:** Submit using plain text or Markdown. Please do not send pre-formatted documents, as they have to be completely un-formatted before they can be placed into the layout software.
 * **Describe Your Vision:** If a piece needs to look a specific way on the page (like a ransom note or a torn poster), just describe that vision in the text and Shauna will build it in layout.
 * **The Deadline:** Submissions are due two weeks before the next event. If flexibility is needed, just talk to Shauna before the deadline hits.
+
+<hr>
+
+### Current Employees
+
+These are non-PC bylines already in circulation—anyone can borrow one instead of inventing a new persona.
+
+| Name | Beat | Voice |
+|---|---|---|
+| Emeric Barnes | Conspiracy Theorist | Frantic, plugs his own crazy remedies
+| Revan Dumarque | Local Investigator (Maplewood) | N/A
+| Garnet Glower | Fashion Correspondent | Snobby, stuck-up, backhanded compliments
+| Jasper Reed | Professional Eavesdropper | Everything is an Inconvienience
+| Silias Gwilt | Economic Correspondent | Straightforward
+| Marcus Thorne | Siege Analyst / War Reporter | N/A
+| R.T. | Gershan Correspondent | Secrative and wordy
+| Dina Stoneliv | Goth Baddie Defender | N/A
+| Caerith Lorvaine | Temperance League Health Correspondent | Factual and healing-minded
+
+<hr>

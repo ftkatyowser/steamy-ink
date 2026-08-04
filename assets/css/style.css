@@ -477,6 +477,30 @@ hr {
   margin-top: var(--spacing-xs);
 }
 
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+  font-size: 0.95rem;
+}
+
+.main-content th,
+.main-content td {
+  padding: var(--spacing-xs) var(--spacing-md);
+  text-align: left;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.main-content th {
+  font-family: var(--font-headline);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8rem;
+  color: var(--accent-gold);
+  border-bottom: 2px solid var(--border-dark);
+}
+
 .content-header {
   border-bottom: 3px double var(--border-dark);
   padding-bottom: var(--spacing-md);
