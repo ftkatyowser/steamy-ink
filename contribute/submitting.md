@@ -37,7 +37,6 @@ Submissions are checked against the consent list before they print, and anything
 <p><strong>Byline:</strong> The name printed alongside the article that tells the reader who wrote it.</p>
 <p><strong>Reporter:</strong> A writer who generally covers local news, gossip, and events happening directly in town.</p>
 <p><strong>Correspondent:</strong> A reporter who files stories from a specific location or covers a highly specific subject.</p>
-<p><strong>Dispatch:</strong> A formal news report sent in from a correspondent stationed in a different region.</p>
 <p><strong>Beat:</strong> The specific subject, area, or faction that a reporter specializes in covering. A "personality beat" just means giving an invented reporter a distinct quirk or trait they are known for.</p>
 </aside>
 
@@ -63,11 +62,14 @@ Write in whatever tool works best; the editorial desk handles the final layout. 
 | Rumors, Tips & Blurbs | 30–100 words | One juicy observation, delivered well. |
 | Standard News, Letters & Reviews | 150–300 words | A standard article. |
 | Features, Columns & Dispatches | 300–500 words | A full feature with its own headline; takes up the biggest slots in the paper. |
-| Anything longer | Over 600 | Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning. |
+| Anything longer | Over 500 | Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning. |
 
 <aside class="newsroom-term">
-<p class="newsroom-term-title">Newsroom Term: Serial</p>
-<p>A story too long to fit a single issue, broken into smaller sequential parts and printed across several issues of the paper.</p>
+<p class="newsroom-term-title">Newsroom Terms: Types of Articles</p>
+<p><strong>Blurb:</strong> A short item that runs without a headline of its own, usually a few sentences.</p>
+<p><strong>Column:</strong> A recurring piece that runs under the same name or byline each issue, built on a consistent voice or subject. Readers follow them for the writer as much as the news.</p>
+<p><strong>Dispatch:</strong> A report filed by someone from somewhere other than Maplewood.</p>
+<p><strong>Serial:</strong> A story too long to fit a single issue, broken into smaller sequential parts and printed across several issues.</p>
 </aside>
 
 If you are struggling to form a full article, you can also send an outline to Shauna with the main points you want covered and she can handle it from there.
@@ -99,6 +101,7 @@ These are non-PC bylines already in circulation—anyone can borrow one instead 
 
 | Name | Beat | Voice | Paper
 |---|---|---|
+| Sophie | "Dear Sophie" | Advice column | Either
 | Emeric Barnes | Conspiracy Theorist | Frantic, plugs his own crazy remedies | Steamy Ink
 | Revan Dumarque | Local Investigator (Maplewood) | N/A | Either
 | Garnet Glower | Fashion Correspondent | Snobby, stuck-up, backhanded compliments | Steamy Ink

@@ -21,7 +21,7 @@ Payment isn't strictly limited to coin; writers can be paid in production items,
 | Rumors, Tips & Blurbs | 30–100 words | 1–5 coin |
 | Standard News, Letters & Reviews | 150–300 words | 5–7 coin |
 | Features, Columns & Dispatches | 300–500 words | 10–12 coin |
-| Anything longer | 600+ words | Negotiated directly with Shauna/Poppy |
+| Anything longer | Over 500 | Negotiated directly with Shauna/Poppy |
 
 If you want to haggle for more payment based on your piece, you can—just talk to Shauna or Poppy.
 
