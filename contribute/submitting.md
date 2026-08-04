@@ -55,10 +55,6 @@ You have options, and they work for both papers.
 
 ## Length
 
-<aside class="newsroom-term">
-<p class="newsroom-term-title">Newsroom Term: Serial</p>
-<p>A story too long to fit a single issue, broken into smaller sequential parts and printed across several issues of the paper.</p>
-</aside>
 
 Write in whatever tool works best; the editorial desk handles the final layout. Here are the rough word count targets for both papers:
 
@@ -68,6 +64,11 @@ Write in whatever tool works best; the editorial desk handles the final layout. 
 | Standard News, Letters & Reviews | 150–300 words | A standard article. |
 | Features, Columns & Dispatches | 300–500 words | A full feature with its own headline; takes up the biggest slots in the paper. |
 | Anything longer | Over 600 | Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning. |
+
+<aside class="newsroom-term">
+<p class="newsroom-term-title">Newsroom Term: Serial</p>
+<p>A story too long to fit a single issue, broken into smaller sequential parts and printed across several issues of the paper.</p>
+</aside>
 
 If you are struggling to form a full article, you can also send an outline to Shauna with the main points you want covered and she can handle it from there.
 
