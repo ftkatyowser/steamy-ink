@@ -27,8 +27,6 @@ about:
   links:
     - name: "About Steamy Ink Publishing"
       url: "/about/"
-    - name: "About Novitas"
-      url: "/aboutnovitas/"
     - name: "How to Contribute"
       url: "/about/contribute/"
       children:
@@ -56,6 +54,8 @@ about:
 novitas:
   title: "Kingdoms of Novitas LARP"
   links:
+    - name: "About Novitas"
+      url: "/aboutnovitas/"
     - name: "Official Website"
       url: "https://www.kingdomsofnovitas.org/"
       external: true
