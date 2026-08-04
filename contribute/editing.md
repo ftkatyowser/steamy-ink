@@ -49,7 +49,7 @@ Personality is the writer's specific contribution. The core joke, the petty grie
 
 ## The Editor's List
 
-Separate from the general consent form, Poppy keeps her own list of subjects and people who do not appear in her papers. It is not published, it is not explained, and it is longer than most would expect.
+Separate from the general consent form, Poppy keeps her own list of subjects and people who do not appear in her papers. It is not published, it is not explained, and it comes up more often than you would think. If your piece is affected, it is almost never about you.
 
 If a submission touches something (or someone) on it, that piece of the submission will quietly go away. This is the one place where the editorial desk will alter a submission without a conversation first, because the reason for the cut is usually something that cannot be discussed.
 
