@@ -18,7 +18,7 @@ Contributors should just send the story and not stress the polish. If a piece ne
 
 The final article layout will be sent to the contributor for approval before publishing. This ensures the author can review the edited piece and request any changes they may need or want before the printer starts running.
 
-<br>
+<hr>
 
 ## Voice
 

@@ -14,7 +14,7 @@ Everything goes through an editorial pass before it prints, so send the story an
 
 <hr>
 
-## Submitting a rumor or tip
+## Submitting a Rumor or Tip
 
 Anyone can feed a rumor to the paper without it needing to be a full article. You do not have to be an established writer, an official correspondent, or part of any particular group to participate.
 
