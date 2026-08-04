@@ -94,16 +94,15 @@ Before sending a piece to the editorial desk, please double-check the following:
 
 These are non-PC bylines already in circulation—anyone can borrow one instead of inventing a new persona.
 
-| Name | Beat | Voice |
+| Name | Beat | Voice | Paper
 |---|---|---|
-| Emeric Barnes | Conspiracy Theorist | Frantic, plugs his own crazy remedies
-| Revan Dumarque | Local Investigator (Maplewood) | N/A
-| Garnet Glower | Fashion Correspondent | Snobby, stuck-up, backhanded compliments
-| Jasper Reed | Professional Eavesdropper | Everything is an Inconvienience
-| Silias Gwilt | Economic Correspondent | Straightforward
-| Marcus Thorne | Siege Analyst / War Reporter | N/A
-| R.T. | Gershan Correspondent | Secrative and wordy
-| Dina Stoneliv | Goth Baddie Defender | N/A
-| Caerith Lorvaine | Temperance League Health Correspondent | Factual and healing-minded
+| Emeric Barnes | Conspiracy Theorist | Frantic, plugs his own crazy remedies | Steamy Ink
+| Revan Dumarque | Local Investigator (Maplewood) | N/A | Either
+| Garnet Glower | Fashion Correspondent | Snobby, stuck-up, backhanded compliments | Steamy Ink
+| Jasper Reed | Professional Eavesdropper | Everything is an Inconvienience | Steamy Ink
+| Silias Gwilt | Economic Correspondent | Straightforward | Special Investigative
+| Marcus Thorne | Siege Analyst / War Reporter | N/A | Special Investigative
+| R.T. | Gershan Correspondent | Secretive and wordy | Either
+| Caerith Lorvaine | Temperance League Health Correspondent | Factual and healing-minded | Special Investigative
 
 <hr>
