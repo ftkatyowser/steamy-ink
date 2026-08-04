@@ -62,10 +62,12 @@ You have options, and they work for both papers.
 
 Write in whatever tool works best; the editorial desk handles the final layout. Here are the rough word count targets for both papers:
 
-* **Rumors, Tips & Blurbs:** 30–100 words. (One juicy observation, delivered well.)
-* **Standard News, Letters & Reviews:** 150–300 words.
-* **Features, Columns & Dispatches:** 300–500 words. (This is a full feature with its own headline and takes up the biggest slots in the paper.)
-* **Anything longer:** Talk to Shauna before writing it. Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning.
+| Category | Word Count | Description |
+|---|---|---|
+| Rumors, Tips & Blurbs | 30–100 words | One juicy observation, delivered well. |
+| Standard News, Letters & Reviews | 150–300 words | A standard article. |
+| Features, Columns & Dispatches | 300–500 words | A full feature with its own headline; takes up the biggest slots in the paper. |
+| Anything longer | Talk to Shauna | Long ideas often work better as a serial across issues, and massive pieces require advanced layout planning. |
 
 If you are struggling to form a full article, you can also send an outline to Shauna with the main points you want covered and she can handle it from there.
 
@@ -77,7 +79,7 @@ Looking to place an ad instead? See **[Advertising](../advertising/)**.
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Terms: Getting It on the Page</p>
-<p><strong>Markdown:</strong> A way to add simple formatting to plain text. The paper asks for plain text or Markdown only so the editorial desk does not have to manually un-format documents before placing them into the layout software.</p>
+<p><strong><a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener">Markdown</a>:</strong> A way to add simple formatting to plain text. The paper asks for plain text or Markdown only so the editorial desk does not have to manually un-format documents before placing them into the layout software.</p>
 <p><strong>Layout:</strong> The physical puzzle of arranging text, columns, images, and borders onto the actual page. Layout is handled entirely at the editorial desk.</p>
 </aside>
 
@@ -86,7 +88,7 @@ Before sending a piece to the editorial desk, please double-check the following:
 * **Where to Send:** Send submissions via Discord DM, the [SIP Discord server](https://discord.gg/TpxNmv9279), or Facebook. Paper towels handed over at events are accepted and historically precedented, but the chances of it surviving to layout are small.
 * **Plain Text Only:** Submit using plain text or Markdown. Please do not send pre-formatted documents, as they have to be completely un-formatted before they can be placed into the layout software.
 * **Describe Your Vision:** If a piece needs to look a specific way on the page (like a ransom note or a torn poster), just describe that vision in the text and Shauna will build it in layout.
-* **The Deadline:** Submissions are due two weeks before the next event. If flexibility is needed, just talk to Shauna before the deadline hits.
+* **The Deadline:** Submissions are due two weeks before the next event. If flexibility is needed, just talk to Shauna before the issues go to print (typically the Wednesday before game).
 
 <hr>
 

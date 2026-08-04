@@ -10,11 +10,13 @@ The paper sells advertising space for PCs, groups and organizations at the follo
 
 ![Ad Reference Sheet](/assets/images/Ad%20Reference%20Sheet.png)
 
-- Standard size: 10c
-- Quarter page: 15c
-- Half page: 25c
-- Three-quarter page: 30c
-- Full page: 40c
+| Size | Cost | Best For |
+|---|---|---|
+| Standard size | 10c | A single-line notice—a shop's hours, a lost-and-found, a "seeking apprentice" post. |
+| Quarter page | 15c | A business-card-sized spot—a tavern's weekly special, a tradesperson advertising their services. |
+| Half page | 25c | A proper announcement—a grand opening, an engagement notice, a guild recruitment drive. |
+| Three-quarter page | 30c | Room for a small illustration—a festival announcement, a big seasonal sale. |
+| Full page | 40c | The whole back page—a wedding announcement, a business launch, a formal proclamation. |
 
 This is payable to Poppy in game in person, via courier, or via deposit to The Bank of Abacus. You can also just pay Shauna out-of-game if that is easier.
 
