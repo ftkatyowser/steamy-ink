@@ -41,12 +41,18 @@ The publishing house is bigger than its newspapers. SIP also produces research p
 
 **[Consent and Source Protection](consent/)**: What the paper will and won't print about you, how opt-out works, and what the editor does when people come asking.
 
-**[Payment, Bribes, and Other Arrangements](arrangements/)**: What the paper pays, what happens when a story gets killed, and the several ways money changes what runs.
+**[How to Submit](submitting/)**: Bylines, word counts, and where to send things.
 
-**[Submitting](submitting/)**: Bylines, word counts, where to send things, and exactly what the editorial pass changes.
+**[How Editing Works](editing/)**: What the editorial pass changes, and what it doesn't.
+
+**[Compensation](compensation/)**: What the paper pays, what happens when a story gets killed, and how to collect.
+
+**[Bribing the Press](bribing/)**: The several ways money changes what runs.
+
+**[Advertising](advertising/)**: Ad rates, what the desk needs from you, and how to place one.
 
 **[Writing for Steamy Ink Press](steamy-ink-press/)**: The gossip paper's house voice, how to roast someone without being a jerk, and why planting gossip about your own character is one of the best plot tools in the game.
 
 **[Writing for Special Investigative Press](investigative/)**: The serious paper's house voice, attribution, and what kinds of pieces it runs.
 
-**[Madam Mapleleaf](madam-mapleleaf/)**: The shared pen name. Anyone can feed her, but writing her is restricted.
+**[Madam Mapleleaf](madam-mapleleaf/)**: How to feed your favorite society gossip.

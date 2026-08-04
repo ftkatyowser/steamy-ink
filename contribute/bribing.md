@@ -1,74 +1,27 @@
 ---
 layout: default
-title: Coin, Bribes, and Other Arrangements
-description: "What the paper pays, what happens when a story is killed, and the ways money changes what runs."
-permalink: /about/contribute/arrangements/
+title: Bribing the Press
+description: "The several ways money changes what runs."
+permalink: /about/contribute/bribing/
 ---
-# Payment, Bribes, and Other Arrangements
+# Bribing the Press
 
-Steamy Ink Publishing is a business, and Poppy Marianus pays for good intelligence. Contributing to the paper isn't just about shaping the town's arrative, it is also a way for your character to earn coin!
-
-Money also moves the other direction, and this page covers that too.
+While the paper publicly prides itself on journalistic integrity, its silence (or lack of) can absolutely be bought. In-game this is an open secret, but Poppy will never advertise or officially acknowledge that extortion is on the menu. If accused publicly, she will deny it entirely and the accusing character may find themselves with some unwanted press attention.
 
 <hr>
 
-## Standard Publication
-
-If your article, dispatch, or tip is accepted and printed, Poppy will compensate your character for their work. The payment scale depends on the length and impact of the piece—a three-sentence tip to Madam Mapleleaf pays differently than a full feature for the Special Investigative Press.
-
-Payment isn't strictly limited to coin; writers can be paid in production items, influence, lore, or other favors.
-
-* **Rumors, Tips & Blurbs:** 1–5 coin
-* **Standard News, Letters & Reviews:** 5–7 coin
-* **Features, Columns & Dispatches:** 10–12 coin
-* **Anything longer:** negotiated directly with Shauna/Poppy
-
-If you want to haggle for more payment based on your piece, you can—just talk to Shauna or Poppy.
-
-<hr>
-
-## Spike Pay
-
-<aside class="newsroom-term">
-<p class="newsroom-term-title">Newsroom Term: Spike Pay</p>
-<p>Named for the metal spindle on the editor's desk where killed copy gets impaled. The story might get bumped for space, pulled over a plot conflict, or bought out by its own subject; the writer gets paid either way because the work was the intelligence, not the ink.</p>
-</aside>
-
-Sometimes, an article is accepted but never makes it to print. It might get bumped for space, conflict with a major plot secret, or (more likely) the subject of your scandalous gossip paid a hefty bribe to make the story disappear.
-
-If a story gets killed, Poppy still will pay the writer for the intelligence gathered and the effort spent. A killed story is still a valuable story, and the paper takes care of its sources.
-
-Every other newsroom calls this a "Kill Fee." SIP already spent that term on the bribe, so here it is "Spike Pay" so the two don't get confused.
-
-<hr>
-
-## How to Collect
-
-A couple ways:
-
-* Shauna can hand you the coin out-of-game, just remind her.
-* You can track down Poppy in-game for payment.
-* Payment can be sent via courier in-game.
-* If you have an account with The Bank of Abacus, direct deposit can be arranged.
-
-<hr>
-
-## The Kill Fee (Bribing the Press)
+## The Kill Fee
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: Kill Fee</p>
 <p>In real-world journalism, a "kill fee" is money paid to a writer when their story is canceled. At Steamy Ink Publishing, a kill fee is the price you pay the editor to make a story disappear.</p>
 </aside>
 
-While the paper publicly prides itself on journalistic integrity, its silence can absolutely be bought. In-game this is an open secret, but Poppy will never advertise or officially acknowledge that extortion is on the menu. If accused publicly, she will deny it entirely and the accusing character may find themselves with some unwanted press attention.
-
-### How the Kill Fee Works
-
 If a scandalous submission comes across the editorial desk about a specific character, Poppy or a representative of hers might approach the subject of the article before it goes to print. The offer is simple: the paper has a story about you, and for the right price, it will conveniently get lost in the mail.
 
 Most gossip or articles just run; the paper does not offer to kill everything that comes across its desk. If Poppy is at your elbow before print, it means the story is bad enough to be worth more unpublished than published, and she decided you're worth the conversation instead of the column inches.
 
-Writers still get paid when a piece gets pulled; see **[Spike pay](#spike-pay)**, above.
+Writers still get paid when a piece gets pulled; see **[Spike Pay](../getting-paid/#spike-pay)**.
 
 ### What to Do if You are Approached
 

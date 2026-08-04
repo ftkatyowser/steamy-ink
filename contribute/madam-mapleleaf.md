@@ -12,7 +12,7 @@ This doesn't mean the individual Madam M's don't have distinct flavors, because 
 
 <hr>
 
-## Her voice
+## Her Voice
 
 Society-column diction with teeth. She addresses her readers directly and fondly, maintains impeccable manners while saying appalling things, and treats gossip as a public service. Signature move: the innocent-misunderstanding disclaimer. "Should a detail or two be off, I'm sure your generous hearts will understand that you simply misunderstood the situation as you perceived it." She is never *wrong*, you just *misread* her.
 
@@ -22,7 +22,7 @@ She will reduce a name to initials when it suits her and print it in full when t
 
 <hr>
 
-## Feeding her vs. writing her
+## Feeding Her vs. Writing Her
 
 Anyone can feed Madam Mapleleaf. Send your tea—an observation, a rumor, a paragraph about something you witnessed—and it may appear in her column, woven in alongside everyone else's. This is the main way to contribute and it's open to everyone. Tips run through the same consent process as everything else: the consent list is checked, and anything touching another PC's secrets gets a conversation with that player before it prints.
 
@@ -32,4 +32,4 @@ Anyone can feed Madam Mapleleaf. Send your tea—an observation, a rumor, a para
 - Shauna does not know everything that happens in-game, and does not know what's a secret. Editing can't catch a leak the editor can't recognize as a leak.
 - With a large pool of pens, it's only a matter of time before something a player didn't want outed such as a secret plot, a hidden identity, or a relationship not yet public ends up in the column because the writer didn't know it was off-limits and the editor didn't either. Keeping the pen with a small set of writers who coordinate closely is how the column stays fun instead of harmful.
 
-If you want to be one of those writers, talk to Shauna.
+If the paper thinks that you would be a good fit to write for Madam Mapleleaf, you will be contacted in (and out of) game. If you have interest in being one of those writers, talk to Shauna.

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Submitting
-description: "Bylines, word counts, where to send things, and what the editorial pass changes."
+title: How to Submit
+description: "Bylines, word counts, consent, and where to send things."
 permalink: /about/contribute/submitting/
 ---
-# Submitting
+# How to Submit
 
 First and foremost: anyone can write for the papers, and contributors do not need to be writers to do so! Whether it is a three-sentence observation about something ridiculous witnessed at an event or a fully realized article, every submission is welcome. So is a rumor, a tip, a complaint, a bad poem, or an outline of an article you'd like someone else to assemble.
 
-Everything goes through an editorial pass before it prints, so send the story and don't stress the polish.
+Everything goes through an editorial pass before it prints, so send the story and don't stress the polish. Curious what that pass actually changes? See **[How Editing Works](../editing/)**.
 
 **Submissions are due two weeks before each event,** plain text or markdown, please.
 
@@ -21,52 +21,6 @@ Anyone can feed a rumor to the paper without it needing to be a full article. Yo
 If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels described under **[Before you send](#before-you-send)**. The editorial desk will take them and weave them into broader gossip columns.
 
 Writing a full article or dispatch does have specific tones and layout considerations. Those are covered below.
-
-<hr>
-
-## What the Editorial Pass Changes
-
-<aside class="newsroom-term">
-<p class="newsroom-term-title">Newsroom Term: House Voice</p>
-<p>A publication's overall personality and tone. Editing for house voice ensures
-that even with a dozen contributors, the entire paper feels like a unified
-publication.</p>
-</aside>
-
-When a contributor submits a piece, it goes through an editorial pass to fit the paper's voice before print. The following outlines exactly what gets changed and what stays the same, so writers know what to expect when handing something in.
-
-The main goal of editing is to ensure the paper sounds like a unified publication, even with a dozen different contributors.
-
-### Voice
-
-Voice is the paper's overarching aesthetic. For Steamy Ink Press, the voice is warm, nosy, and theatrical. For Special Investigative Press, the voice is formal, factual, and neutral. Submissions are edited to fit these aesthetics. This means Shauna might:
-
-* Tweak sentence structures or vocabulary to better fit the setting.
-* Adjust the phrasing so it sounds like it belongs next to the other articles.
-* Trim the word count so it physically fits on the page during layout.
-* Strip out any pre-formatted text so it can be built in plain text for the publishing software.
-
-### Personality
-
-Personality is the writer's specific contribution. The core joke, the petty grievance, and the character's unique perspective belong entirely to the author. With one exception, covered under **[The Editor's List](#the-editors-list)** below, this means Shauna will not:
-
-* Change the subject or the target of the submission.
-* Remove the core energy of a piece (if a contributor submits a frantic rant, it will remain a frantic rant).
-* Alter the specific facts or rumors the author is trying to introduce into the game.
-
-### The Bottom Line
-
-Contributors should just send the story and not stress the polish. If a piece needs heavier reshaping to fit the paper, Shauna will collaborate directly with the author. Heavy editing will never happen by surprise.
-
-The final article layout will be sent to the contributor for approval before publishing. This ensures the author can review the edited piece and request any changes they may need or want before the printer starts running.
-
-### The Editor's List
-
-Separate from the general consent form, Poppy keeps her own list of subjects and people who do not appear in her papers. It is not published, it is not explained, and it is longer than most would expect.
-
-If a submission touches something (or someone) on it, that piece of the submission will quietly go away. This is the one place where the editorial desk will alter a submission without a conversation first, because the reason for the cut is frequently something that cannot be discussed.
-
-Anything removed this way is still paid at [spike pay](../arrangements/#spike-pay) rates. The intelligence was still gathered, the work was still done, and the paper still owes for it.
 
 <hr>
 
@@ -95,7 +49,7 @@ You have options, and they work for both papers.
 - Use initials.
 - Go anonymous! "Submitted Anonymously," "A Concerned Citizen," and "the reporters at Special Investigative Press" are time-honored newspaper traditions.
 
-**You cannot byline a piece as someone else's PC or an NPC you do not play.** 
+**You cannot byline a piece as someone else's PC or an NPC you do not play.**
 
 <hr>
 
@@ -115,36 +69,7 @@ Write in whatever tool works best; the editorial desk handles the final layout. 
 
 If you are struggling to form a full article, you can also send an outline to Shauna with the main points you want covered and she can handle it from there.
 
-<hr>
-
-## Advertising
-
-The paper sells advertising space for PCs, groups and organizations at the following rates:
-
-![Ad Reference Sheet](/assets/images/Ad%20Reference%20Sheet.png)
-
-- Standard size: 10c
-- Quarter page: 15c
-- Half page: 25c
-- Three-quarter page: 30c
-- Full page: 40c
-
-This is payable to Poppy in game in person, via courier, or via deposit to The Bank of Abacus. You can also just pay Shauna out-of-game if that is easier.
-
-Poppy will take consumables, favors, or information instead of coin, but the card rates are the rates and she is not haggling with you over a standard size ad.
-
-An ad is space, not word count, so there is more back and forth with creating one. What the desk needs is
-- What's being sold
-- Who's selling it
-- The copy, or just the gist
-- Any specific look or fonts you're picturing
-- Any wording that has to appear exactly as written
-- Whether you have art or need something made
-- The tone you're after
-
-Expect more back and forth than an article takes, since it's a design job rather than an editing one, and expect a proof before it runs. Ads have the same two-week deadline as everything else.
-
-Poppy has refused an ad on principle exactly once. It ran the following month; the principle is apparently negotiable.
+Looking to place an ad instead? See **[Advertising](../advertising/)**.
 
 <hr>
 
