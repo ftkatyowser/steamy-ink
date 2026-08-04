@@ -18,7 +18,7 @@ Everything goes through an editorial pass before it prints, so send the story an
 
 Anyone can feed a rumor to the paper without it needing to be a full article. You do not have to be an established writer, an official correspondent, or part of any particular group to participate.
 
-If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels described under **[Before you send](#before-you-send)**. The editorial desk will take them and weave them into broader gossip columns.
+If a character overhears a scandalous conversation, witnesses a questionable decision, or just wants to stir the pot, they can drop a quick sentence or tip via the standard submission channels described under **[Before You Send](#before-you-send)**. The editorial desk will take them and weave them into broader gossip columns.
 
 Writing a full article or dispatch does have specific tones and layout considerations. Those are covered below.
 

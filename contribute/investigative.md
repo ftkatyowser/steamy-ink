@@ -8,9 +8,11 @@ permalink: /about/contribute/investigative/
 
 This is the serious paper. People read it to find out what actually happened, which means accuracy and sourcing are the whole product.
 
+Not everything here has to be reportage. Poems, stories, folk tales, first-person accounts, and letters all run in these pages when the subject calls for it. A memorial poem is not a Steamy Ink piece; neither is an account of what someone saw during the invasion, or a story a correspondent brought back from somewhere far away. If what you have is creative work and it isn't "funny", it probably belongs here.
+
 <hr>
 
-## House voice
+## House Voice
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: Attribution</p>
@@ -27,7 +29,7 @@ Special Investigative Press acts in the world, not just on it. Formal requests, 
 
 <hr>
 
-## What to write
+## What to Write
 
 - Recaps of major plot from an event.
 - Dispatches from your character's home region, AKA one of the best ways to build your homeland into play!

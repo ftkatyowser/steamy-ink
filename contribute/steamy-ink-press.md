@@ -12,13 +12,13 @@ Basically: if it's funny, petty, heartfelt, or weird, it has a home here.
 
 <hr>
 
-## House voice
+## House Voice
 
 The reporter is a character with *feelings* about what happened. Warm, nosy, theatrical, precise. The paper is affectionate and merciless at the same time, and the affection is real. A threat can be phrased as etiquette advice, a roast as concern. Big events get deflated by small details; small grievances get the gravity of state matters. Headlines pun. Columns sign off. Readers get addressed directly, like the paper is leaning across the table toward them (mostly because it is).
 
 <hr>
 
-## Making fun of someone without being a jerk
+## Making Fun of Someone Without Being a Jerk
 
 The paper roasts people constantly, and the reason it works is that the roast is a form of attention, and attention is a form of affection. Some guidelines:
 
@@ -30,7 +30,7 @@ If the person being roasted would laugh reading it, you've done it right. The pa
 
 <hr>
 
-## Gossip about yourself
+## Gossip About Yourself
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: Blind Item</p>
@@ -41,7 +41,7 @@ Submitting items about your own PC is encouraged—it's one of the best plot too
 
 <hr>
 
-## The paper can wait for the story
+## The Paper Can Wait for the Story
 
 If you know something big is coming in-game such as a divorce announcement, a duel, a betrayal, or a proposal, you can coordinate with Shauna in advance. The piece gets written ahead of time and held until the event actually happens in play, then the paper goes out via courier while the town is still buzzing.
 
