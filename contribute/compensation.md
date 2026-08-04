@@ -31,7 +31,7 @@ If you want to haggle for more payment based on your piece, you can—just talk 
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Newsroom Term: Spike Pay</p>
-<p>Named for the metal spindle on the editor's desk where a killed article gets impaled. For whatever the reason, the writer still gets paid because the work was the intelligence, not the ink.</p>
+<p>Named for the metal spindle on the editor's desk where a killed article gets impaled. For whatever the kill reason, the writer still gets paid because the work was the intelligence, not the ink.</p>
 </aside>
 
 Sometimes, an article is accepted but never makes it to print. It might get bumped for space, conflict with a major plot secret, or (more likely) the subject of your scandalous gossip paid a hefty bribe to make the story disappear.
