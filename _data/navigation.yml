@@ -19,6 +19,8 @@ blog:
   links:
     - name: "Blog Posts"
       url: "/blog/"
+    - name: "Loose Pages"
+      url: "/loose-pages/"
     - name: "Random Musings"
       url: "/musings/"
 

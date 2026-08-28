@@ -19,7 +19,6 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
 
 {% assign non_musing_posts = site.posts | where_exp: "post", "post.musing != true" | where_exp: "post", "post.layout != 'news_post'" %}
 {% assign story_posts = non_musing_posts | where_exp: "post", "post.story" %}
-{% assign standalone_posts = non_musing_posts | where_exp: "post", "post.story == nil" %}
 {% assign latest_story_post = story_posts | first %}
 
 {% if latest_story_post %}
@@ -66,24 +65,4 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
 
 {% endfor %}
 
-{% if standalone_posts.size > 0 %}
-## Loose Pages
-
-<ul class="blog-list">
-  {% for post in standalone_posts %}
-  <li class="blog-item">
-    <h2 class="blog-item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
-    <p class="blog-item-meta">
-      {{ post.date | date: "%B %d, %Y" }}
-      {% if post.ingame_date %} ({{ post.ingame_date }}){% endif %}
-    </p>
-    <p class="blog-item-excerpt">
-      {{ post.excerpt | strip_html | truncate: 200 }}
-    </p>
-    <a href="{{ post.url | relative_url }}" class="blog-item-link">Continue reading →</a>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
+<p style="text-align: center;">Looking for something shorter? Standalone stories that aren't part of a series live over on <a href="{{ '/loose-pages/' | relative_url }}"><strong>Loose Pages</strong></a>.</p>
