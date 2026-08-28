@@ -140,9 +140,9 @@ Poppy blinked. The man had called her little, and *this* is what Grandfather wan
 
 Poppy hadn't thought of it, really. It had just come to her. "Because it's the same name."
 
-"Mm." He was looking at her the way he looked at the papers on his desk. "So a man sits in my office and tells me he has been putting his goods through the Valerius yards. And you hear the name, and what you fetch up is two boys and a book and your sister."
+"It is." 
 
-He stood up. Poppy went very still, hunting through everything she had said for the wrong part. Then he crossed the room and picked her up under one arm the way Dotty carried the laundry, and Poppy let out a shriek that was also a laugh. He set her down in his own chair and put her book on the desk beside her, open to her spot. Her legs didn't reach the floor and she swung them.
+He stood up. Poppy went very still, hunting through everything she had said for the wrong part. Then he crossed the room and picked her up under one arm the way Dotty carried the laundry, and Poppy let out a shriek that was also a laugh. He set her down in his own chair and put her book on the desk beside her, open to her spot. Her legs didn't reach the floor and she swung them, hands next to her knees.
 
 "Tiberius Gallus is a fool," he said, leaning back against the edge of the desk.
 
@@ -152,13 +152,13 @@ Poppy stopped swinging her legs and stared. Mother said you weren't supposed to 
 
 Her grandfather stopped, and for a moment he looked at her the way he had been looking at Gallus. Then he laughed, with his hand over his face and his shoulders going, and Poppy did not know what at.
 
-"No," he said, when he could. "No. He did not break the glasses. He came into my house and looked at my granddaughter and saw a little girl." He opened a drawer and took out a small, flat packet wrapped in wax paper. "Do you know what he told me, in front of her?"
+"No," he said, when he could. "No. He did not break the glasses. He came into my house and looked at my granddaughter and saw a little girl." He opened a drawer and took out a small, flat packet wrapped in wax paper. "And do you know what he told me, in front of her?"
 
 Poppy shook her head.
 
 "Everything," said her grandfather. He unwrapped a corner of the packet, broke off a piece with his thumb, and handed it to her.
 
-The chocolate was dark and very bitter, like the tea Grandmother put poison in to see if you were paying attention. Poppy ate all of it, though she preferred the sweeter ones. She looked up when she was done.
+The chocolate was dark and very bitter, like the tea Grandmother put poison in to see if you were paying attention. Poppy ate all of it, though she preferred the sweeter kind. She looked up when she was done.
 
 "Grandfather?" she asked. "What's overflow?"
 
