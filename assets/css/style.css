@@ -1686,6 +1686,14 @@ a:focus-visible {
   margin-bottom: 0;
 }
 
+/* Full-width variant: a newsroom-term box that runs horizontally across the top instead of floating beside the text */
+.newsroom-term-full {
+  float: none;
+  clear: both;
+  width: 100%;
+  margin: 0 0 var(--spacing-lg) 0;
+}
+
 /* Keep headings and rules from colliding with a floated term box */
 .main-content h2,
 .main-content hr {

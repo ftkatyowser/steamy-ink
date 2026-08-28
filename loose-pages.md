@@ -10,7 +10,7 @@ permalink: /loose-pages/
 </header>
 ---
 
-<p class="drop-cap">Not every story needs seven chapters. These are the one-offs: complete in a single sitting, and not tied to any of the ongoing serials over on Poppy's Prose.</p>
+<p class="drop-cap">Scraps, offcuts, and everything that isn't long enough to be its own novella.</p>
 
 ---
 
