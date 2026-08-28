@@ -67,7 +67,7 @@ In short: **The contents found here are shared for Out of Game enjoyment only.**
 {% endfor %}
 
 {% if standalone_posts.size > 0 %}
-## Other Posts
+## Loose Pages
 
 <ul class="blog-list">
   {% for post in standalone_posts %}
