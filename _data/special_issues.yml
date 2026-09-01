@@ -17,7 +17,7 @@ latest:
 years:
   - year: 1604
     issues:
-      - month: "September 1604"
+      - month: "September"
         pdf: "/assets/pdfs/1604/special-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
         search_keywords: "TBD"
@@ -26,7 +26,7 @@ years:
           - "Headline 2"
           - "Headline 3"
 
-      - month: "June 1604"
+      - month: "June"
         pdf: "/assets/pdfs/1604/special-june-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-june-1604.png"
         search_keywords: "veilwalkers, constables, blight addiction, blightfyre, cordon, hallucination, olmez, elders"
@@ -35,7 +35,7 @@ years:
          - "The Shunning: Constables and Elders Depart Maplewood"
          - "Blightfyre Works; It Also Has a Price"
 
-      - month: "April 1604"
+      - month: "April"
         pdf: "/assets/pdfs/1604/special-april-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-april-1604.png"
         search_keywords: "veilwalkers, constables, flooding, monster battles, sawmill, mr. jenkins"

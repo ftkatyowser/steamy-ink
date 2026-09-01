@@ -5,7 +5,7 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "September 1604"
+  date: "September"
   pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
   thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
   headlines:
@@ -17,7 +17,7 @@ latest:
 years:
   - year: 1604
     issues:
-      - month: "September 1604"
+      - month: "September"
         pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
         search_keywords: "TBD"
@@ -26,7 +26,7 @@ years:
           - "Headline 2"
           - "Headline 3"
 
-      - month: "June 1604"
+      - month: "June"
         pdf: "/assets/pdfs/1604/steamy-june-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-june-1604.png"
         search_keywords: "lucky, buzzer, bee lawyer, werewolf, poppy, leyline, tynairn, illivandros, kyth, blightfyre, titus, micah, veilwalker, emeric barnes, olmez, goth, enzo"
@@ -35,7 +35,7 @@ years:
           - "Two Down, Two to Go: Sparrow Gauntlets Continue"
           - "Emeric Decides Olmez is a Kazvak"
 
-      - month: "April 1604"
+      - month: "April"
         pdf: "/assets/pdfs/1604/steamy-april-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-april-1604.png"
         search_keywords: "cordon, pit beef, veilwalkers, constables, emeric barnes, evilynn, mathys, marcella, lucky, anari, lightsworn, ahtem"
