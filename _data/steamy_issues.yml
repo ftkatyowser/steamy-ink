@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "June 1604"
-  pdf: "/assets/pdfs/1604/steamy-june-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/steamy-june-1604.png"
+  date: "September 1604"
+  pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
   headlines:
-          - "Goth Baddies are Eternal"
-          - "Two Down, Two to Go: Sparrow Gauntlets Continue"
-          - "Emeric Decides Olmez is a Kazvak"
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "September 1604"
+        pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
+        search_keywords: "TBD"
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
+
       - month: "June 1604"
         pdf: "/assets/pdfs/1604/steamy-june-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-june-1604.png"

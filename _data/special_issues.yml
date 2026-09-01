@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "June 1604"
-  pdf: "/assets/pdfs/1604/special-june-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/special-june-1604.png"
+  date: "September 1604"
+  pdf: "/assets/pdfs/1604/special-september-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
   headlines:
-         - "Veilwalker Invasion Worsening; Nations Respond Alone"
-         - "The Shunning: Constables and Elders Depart Maplewood"
-         - "Blightfyre Works; It Also Has a Price"
+         - "Headline 1"
+         - "Headline 2"
+         - "Headline 3"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "September 1604"
+        pdf: "/assets/pdfs/1604/special-september-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
+        search_keywords: "TBD"
+        headlines:
+          - "Headline 1"
+          - "Headline 2"
+          - "Headline 3"
+
       - month: "June 1604"
         pdf: "/assets/pdfs/1604/special-june-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-june-1604.png"

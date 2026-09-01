@@ -1000,6 +1000,30 @@ hr {
   margin-top: var(--spacing-xs);
 }
 
+.image-pair {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  margin: var(--spacing-lg) 0;
+}
+
+.image-pair img {
+  flex: 1 1 0;
+  min-width: 200px;
+  max-width: 100%;
+  border: 1px solid var(--border-medium);
+}
+
+.image-credit {
+  font-family: var(--font-nav);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  text-align: center;
+  margin-top: calc(-1 * var(--spacing-md) + var(--spacing-xs));
+  margin-bottom: var(--spacing-lg);
+}
+
 .scene-break {
     text-align: center;
     font-size: 2.5rem; 
