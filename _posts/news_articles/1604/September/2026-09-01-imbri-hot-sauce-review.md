@@ -24,4 +24,4 @@ Everyone I hear mention it talks about it like a religious experience. I have he
   <img src="{{ '/assets/images/misc/imbri_initiation_label.png' | relative_url }}" alt="Imbri's Hot Sauce - Initiation label">
 </div>
 
-<p class="image-credit">Artwork by Liotru. These labels contain no intentionally unholy symbols.</p>
+<p class="image-credit">Artwork by Liotru. These labels contain no intentional unholy symbols.</p>
