@@ -9,6 +9,8 @@ excerpt: "This condiment has replaced me as the most important thing in my kitch
 byline: "A Concerned Wife Who Wishes to Remain Anonymous"
 published: true
 ---
+**Product**: Imbri’s Vial of Acid
+**Price** : 20 coin 
 **Rating**: 🔥🔥🔥🔥🔥 
 
 I have never tasted Imbri's Hot Sauce, I want that to be established up front. This is a review of *watching my husband* enjoy Imbri's Hot Sauce, which I have now done extensively, at every meal, against my will.
