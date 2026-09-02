@@ -13,7 +13,7 @@ published: true
 **Price** : 20 coin 
 **Rating**: 🔥🔥🔥🔥🔥 
 
-I have never tasted Imbri's Hot Sauce, I want that to be established up front. This is a review of *watching my husband* enjoy Imbri's Hot Sauce, which I have now done extensively, at every meal, against my will.
+I have never tasted Imbri's Hot Sauce, I want that to be established up front. This is a review of *watching my husband* taste Imbri's Hot Sauce, which I have now done extensively, at every meal, against my will.
 
 This condiment has replaced me as the most important thing in my kitchen, and my husband now puts it on everything. I made shrimp and rice last week, which I thought was fine. The meal was apparently not fine until the sauce was dumped on top of it, and he has *never* looked at me the way he looked at the plate in that moment.
 
