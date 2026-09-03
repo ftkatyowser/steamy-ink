@@ -949,6 +949,16 @@ hr {
   margin-bottom: var(--spacing-sm);
 }
 
+/* Deck: the line under a headline that expands on it */
+.blog-post-subtitle {
+  font-family: var(--font-headline);
+  font-style: italic;
+  font-size: 1.3rem;
+  line-height: 1.3;
+  color: var(--text-secondary);
+  margin-bottom: var(--spacing-sm);
+}
+
 .blog-post-byline {
   font-family: var(--font-nav);
   font-style: italic;
@@ -1014,15 +1024,19 @@ hr {
   border: 1px solid var(--border-medium);
 }
 
-/* A single small illustration, centered at its natural size */
+/* A small illustration that sits in the same right-hand column as a
+   newsroom-term box, with body text flowing around it */
 .article-figure {
-  clear: both;
+  float: right;
+  clear: right;
+  width: 33%;
+  margin: 0.3rem 0 var(--spacing-md) var(--spacing-lg);
   text-align: center;
-  margin: var(--spacing-lg) 0;
 }
 
 .article-figure img {
-  max-width: 260px;
+  width: 100%;
+  max-width: 250px;
 }
 
 .image-credit {
@@ -1389,6 +1403,10 @@ hr {
   
   .blog-post-title {
     font-size: 1.8rem;
+  }
+
+  .blog-post-subtitle {
+    font-size: 1.1rem;
   }
   
   .archive-filters {
@@ -1782,7 +1800,8 @@ a:focus-visible {
 }
 
 @media (max-width: 900px) {
-  .newsroom-term {
+  .newsroom-term,
+  .article-figure {
     float: none;
     width: 100%;
     margin: var(--spacing-lg) 0;
