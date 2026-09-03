@@ -6,7 +6,7 @@ ingame_date: "September 1604"
 category: news
 byline: "Stag Tanleather"
 publication: "Steamy Ink Press"
-excerpt: "The winner of June's Ratchelorette was seen hand-in-paw with Raterella the night before Harvestfest. It ended with one marriage repaired, one ambush, and one husband sold for parts."
+excerpt: "Jethreau the Hero, the winner of June's Ratchelorette contest, was seen walking hand-in-paw with her right before they were confronted by none other than Raterella's husband!"
 published: true
 ---
 
