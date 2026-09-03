@@ -14,4 +14,4 @@ published: true
   </iframe>
 </div>
 
-<p style="margin-top: 1rem;"><a href="/assets/pdfs/documents/marriage-contract-titus-poppy.pdf" target="_blank">Open PDF in new tab &rarr;</a></p>
+<p style="margin-top: 1rem;"><a href="/assets/pdfs/documents/marriage-contract-titus-poppy.pdf" target="_blank" rel="noopener">Open PDF in new tab &rarr;</a></p>

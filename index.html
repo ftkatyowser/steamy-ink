@@ -16,9 +16,9 @@ title: Home
         {% else %}
           <div class="news-card-publication">{{ post.publication | default: "News" }}</div>
         {% endif %}
-        <h4 class="news-card-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <h3 class="news-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="news-card-excerpt">{{ post.excerpt | strip_html }}</p>
-        <a href="{{ post.url }}" class="issue-card-link">Read Article →</a>
+        <a href="{{ post.url | relative_url }}" class="issue-card-link">Read Article →</a>
       </div>
     {% endfor %}
   </div>
@@ -38,10 +38,10 @@ title: Home
       <span class="featured-issue-date">{{ site.data.special_issues.latest.date }}</span>
     </header>
     <a href="{{ site.data.special_issues.latest.pdf | relative_url }}">
-      <img src="{{ site.data.special_issues.latest.thumbnail | relative_url }}" alt="Special Investigative Press{{ site.data.special_issues.latest.date }}" class="featured-issue-thumbnail">
+      <img src="{{ site.data.special_issues.latest.thumbnail | relative_url }}" alt="Special Investigative Press {{ site.data.special_issues.latest.date }}" class="featured-issue-thumbnail">
     </a>
     <div class="featured-issue-headlines">
-      <h4>In This Issue:</h4>
+      <h3>In This Issue:</h3>
       <ul>
         {% for headline in site.data.special_issues.latest.headlines %}
         <li>{{ headline }}</li>
@@ -60,7 +60,7 @@ title: Home
       <img src="{{ site.data.steamy_issues.latest.thumbnail | relative_url }}" alt="Steamy Ink {{ site.data.steamy_issues.latest.date }}" class="featured-issue-thumbnail">
     </a>
     <div class="featured-issue-headlines">
-      <h4>In This Issue:</h4>
+      <h3>In This Issue:</h3>
       <ul>
         {% for headline in site.data.steamy_issues.latest.headlines %}
         <li>{{ headline }}</li>

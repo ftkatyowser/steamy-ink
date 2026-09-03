@@ -1,4 +1,4 @@
-<nav class="headline-banner">
+<nav class="headline-banner" aria-label="Headlines">
   {% for headline in site.data.headlines %}
   <div class="headline-item">
     <a href="{{ headline.link | relative_url }}">{{ headline.title }}</a>

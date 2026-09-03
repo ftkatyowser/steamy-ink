@@ -16,6 +16,10 @@ kramdown:
   syntax_highlighter: rouge
 permalink: /blog/:title/
 
+# Plugins (all whitelisted on GitHub Pages)
+plugins:
+  - jekyll-redirect-from
+
 # Exclude from build
 exclude:
   - README.md
@@ -50,6 +54,11 @@ defaults:
       type: "posts"
     values:
       permalink: /news/:title/
+  - scope:
+      path: "_posts/blogs/loose_pages"
+      type: "posts"
+    values:
+      permalink: /loose-pages/:title/
   - scope:
       path: ""
       type: "pages"

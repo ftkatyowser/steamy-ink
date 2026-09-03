@@ -9,8 +9,9 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/inkwell_logo.png' | relative_url }}">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <!-- Mobile menu toggle button -->
-  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">
     <span class="menu-toggle-icon"></span>
   </button>
 
@@ -27,7 +28,7 @@
 
       {% include sidebar.html %}
 
-      <main class="main-content">
+      <main id="main" class="main-content">
 
         <article class="blog-post">
 
@@ -64,7 +65,7 @@
               {% endunless %}
             {% endfor %}
 
-            <nav class="chapter-navigation">
+            <nav class="chapter-navigation" aria-label="Chapters">
               <div class="chapter-nav-row">
                 {% if prev_chapter %}
                   <a href="{{ prev_chapter.url | relative_url }}" class="chapter-nav-link chapter-nav-prev">
@@ -89,11 +90,11 @@
             </nav>
 
           {% elsif page.musing %}
-            <nav class="post-navigation">
+            <nav class="post-navigation" aria-label="Post">
               <a href="{{ '/musings/' | relative_url }}">&larr; Back to Musings</a>
             </nav>
           {% else %}
-            <nav class="post-navigation">
+            <nav class="post-navigation" aria-label="Post">
               <a href="{{ '/blog/' | relative_url }}">&larr; Back to Blog</a>
               {% if page.previous.url %}
                 <a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>

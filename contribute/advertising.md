@@ -8,7 +8,7 @@ permalink: /about/contribute/advertising/
 
 The paper sells advertising space for PCs, groups and organizations at the following rates:
 
-![Ad Reference Sheet](/assets/images/Ad%20Reference%20Sheet.png)
+![Ad Reference Sheet](/assets/images/ad-reference-sheet.png)
 
 | Size | Cost | Best For |
 |---|---|---|

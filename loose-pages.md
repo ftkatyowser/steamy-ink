@@ -6,7 +6,6 @@ permalink: /loose-pages/
 ---
 <header>
   <h1 style="font-family: var(--font-blog-header);">Loose Pages</h1>
-  <p class="subtitle">Standalone stories that don't belong to a longer series</p>
 </header>
 ---
 

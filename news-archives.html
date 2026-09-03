@@ -31,9 +31,9 @@ permalink: /news-archives/
             <div class="news-article-year">
               {% if post.ingame_date != "" %}{{ post.ingame_date }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}
             </div>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
             <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
-            <a href="{{ post.url }}" class="issue-card-link">Read Full Article</a>
+            <a href="{{ post.url | relative_url }}" class="issue-card-link">Read Full Article</a>
           </div>
         </div>
       {% endfor %}

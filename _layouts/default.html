@@ -9,8 +9,9 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/inkwell_logo.png' | relative_url }}">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <!-- Mobile menu toggle button -->
-  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+  <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">
     <span class="menu-toggle-icon"></span>
   </button>
 
@@ -27,7 +28,7 @@
       
       {% include sidebar.html %}
       
-      <main class="main-content">
+      <main id="main" class="main-content">
         {{ content }}
       </main>
       

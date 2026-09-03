@@ -98,9 +98,9 @@ years:
         thumbnail: "/assets/images/thumbnails/1603/special-june-1603.png"
         search_keywords: "veilwalker ichor entity shrines sigils fortune brigade ratfolk harmony's hearth lich pandora umbrix"
         headlines:
-          - "Headline 1"
-          - "Headline 2"
-          - "Headline 3"
+          - "Shrines to the Entity Begin Appearing Near Epicenter of Veilwalker Infestation"
+          - "Freelands Becomes the Center of an Undead Power Vacuum"
+          - "Fortune Brigade Offers Assistance, Gets Stabbed"
 
       - month: "May"
         pdf: "/assets/pdfs/1603/special-may-1603.pdf"
@@ -116,9 +116,9 @@ years:
         thumbnail: "/assets/images/thumbnails/1603/special-march-1603.png"
         search_keywords: "pitohui darkness pinedale lake siege bog lurkers cordon"
         headlines:
-          - "Headline 1"
-          - "Headline 2"
-          - "Headline 3"
+          - "Hollow Words, Idle Hands: The Faithful's Failure to Stand Against Evil"
+          - "Lake Pinedale Under Siege"
+          - "Bog Lurker Mating Season Begins: How to Avoid These Predators"
 
   - year: 1602
     issues:
@@ -127,15 +127,15 @@ years:
         thumbnail: "/assets/images/thumbnails/1602/special-december-1602.png"
         search_keywords: "sky beasts arcturus lucky lake pollution specialized orcs shamans"
         headlines:
-          - "Headline 1"
-          - "Headline 2"
-          - "Headline 3"
+          - "Sky Beasts Spotted in South"
+          - "Specialized Orcs: How to Assess the Situation"
+          - "Maplewood Lake Poisoning: Lucky Speaks Out"
 
       - month: "November"
         pdf: "/assets/pdfs/1602/special-november-1602.pdf"
         thumbnail: "/assets/images/thumbnails/1602/special-november-1602.png"
         search_keywords: "van'ironsbane pitohui dulzun psy runesnails evangelista assassin veilwalker curse"
         headlines:
-          - "Headline 1"
-          - "Headline 2"
-          - "Headline 3"
+          - "The Fall of the House of Van'Ironsbane"
+          - "Veilwalker Infection: What We Know So Far"
+          - "Runesnails: How to Locate and Trap a Specimen"

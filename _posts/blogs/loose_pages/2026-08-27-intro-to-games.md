@@ -3,6 +3,7 @@ layout: post
 title: "Introduction to Games"
 date: 2026-08-27
 loose_page: true
+redirect_from: /blog/intro-to-games/
 published: true
 ---
 
