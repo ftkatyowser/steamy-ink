@@ -1,7 +1,6 @@
 ---
 layout: news_post
 title: "Rabies: It's Not Lycanthropy"
-subtitle: "A Guide for the Informed Citizen"
 date: 2026-09-02
 ingame_date: "September 1604"
 category: news
@@ -11,7 +10,7 @@ excerpt: "Many in town have proposed that this poor creature was infected with l
 published: true
 ---
 
-<p class="article-figure"><img src="{{ '/assets/images/misc/not_werewolf.png' | relative_url }}" alt="A werewolf silhouette crossed out by a prohibition circle and slash"></p>
+<p class="article-figure"><img src="{{ '/assets/images/misc/not_werewolf.png' | relative_url }}" alt="A werewolf silhouette crossed out by a circle and slash"></p>
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Rabies Key Facts</p>
