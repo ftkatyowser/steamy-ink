@@ -10,7 +10,7 @@ excerpt: "Jethreau the Hero, the winner of June's Ratchelorette contest, was see
 published: true
 ---
 
-Jethreau the Hero, the winner of June's "Ratchelorette" contest and captor of Raterella's heart, was seen walking hand-in-paw with her the night before Harvestfest. Witness accounts tell us they were confronted by none other than Raterella's husband! As a man of noble honor, Jethreau the Hero helped the two ratfolk work through their differences and restored their marriage.
+Jethreau the Hero, the winner of June's "Ratchelorette" contest and captor of Raterella's heart, was seen walking hand-in-paw with her the night before Harvest Fest. Witness accounts tell us they were confronted by none other than Raterella's husband! As a man of noble honor, Jethreau the Hero helped the two ratfolk work through their differences and restored their marriage.
 
 But a family who slays together stays together — as I'm sure ratfolk say — and the couple attacked the Hero, paw-in-paw, once his back was turned.
 

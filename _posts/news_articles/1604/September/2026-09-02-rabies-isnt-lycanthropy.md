@@ -10,7 +10,7 @@ excerpt: "Many in town have proposed that this poor creature was infected with l
 published: true
 ---
 
-<p class="article-figure"><img src="{{ '/assets/images/misc/not_werewolf.png' | relative_url }}" alt="A werewolf silhouette crossed out by a circle and slash"></p>
+<div class="article-figure"><img src="{{ '/assets/images/misc/not_werewolf.png' | relative_url }}" alt="A werewolf silhouette crossed out by a circle and slash"></div>
 
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Rabies Key Facts</p>

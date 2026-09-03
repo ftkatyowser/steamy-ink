@@ -1039,6 +1039,18 @@ hr {
   max-width: 250px;
 }
 
+/* scoped to beat .blog-post-content p, which justifies body copy */
+.blog-post-content .article-figure-caption {
+  text-align: center;
+  font-family: var(--font-nav);
+  font-size: 0.8rem;
+  font-style: italic;
+  line-height: 1.35;
+  color: var(--text-secondary);
+  margin-top: var(--spacing-xs);
+  margin-bottom: 0;
+}
+
 .image-credit {
   font-family: var(--font-nav);
   font-size: 0.8rem;
@@ -1431,6 +1443,7 @@ hr {
 }
 
 .post-navigation {
+  clear: both;
   margin-top: var(--spacing-xxl);
   padding-top: var(--spacing-lg);
   border-top: 2px solid var(--border-dark);
@@ -1753,6 +1766,42 @@ a:focus-visible {
 
 .newsroom-term li:last-child {
   margin-bottom: 0;
+}
+
+/* Tournament bracket inside a newsroom-term box. Scoped past .newsroom-term p /
+   .newsroom-term ul, which left-align and space out ordinary term-box copy. */
+.newsroom-term .bracket-round {
+  text-align: center;
+  font-family: var(--font-headline);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  margin: var(--spacing-md) 0 var(--spacing-sm);
+}
+
+.newsroom-term .bracket-bouts {
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+  margin: 0;
+}
+
+.newsroom-term .bracket-bouts li {
+  margin-bottom: 0.15rem;
+}
+
+.newsroom-term .bracket-ornament {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: var(--spacing-sm) 0 0;
+}
+
+.newsroom-term .bracket-key {
+  text-align: center;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin: var(--spacing-md) 0 0;
 }
 
 /* Full-width variant: a newsroom-term box that runs horizontally across the top instead of floating beside the text */
