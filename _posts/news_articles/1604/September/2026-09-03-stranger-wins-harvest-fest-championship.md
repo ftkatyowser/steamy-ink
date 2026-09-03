@@ -43,7 +43,6 @@ published: true
 </ul>
 
 <p class="bracket-ornament" aria-hidden="true">⚔️</p>
-
 <p class="bracket-round">Championship</p>
 <ul class="bracket-bouts">
 <li><strong>Torbik</strong> v. Janos</li>

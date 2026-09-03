@@ -1802,8 +1802,9 @@ a:focus-visible {
 
 .newsroom-term .bracket-ornament {
   text-align: center;
-  font-size: 1.2rem;
-  margin: var(--spacing-sm) 0 0;
+  font-size: 2rem;
+  line-height: 1;
+  margin: var(--spacing-md) 0 var(--spacing-xs);
 }
 
 .newsroom-term .bracket-key {
