@@ -10,8 +10,6 @@ excerpt: "Many in town have proposed that this poor creature was infected with l
 published: true
 ---
 
-*A Guide for the Informed Citizen*
-
 <aside class="newsroom-term">
 <p class="newsroom-term-title">Rabies Key Facts</p>
 <ul>
