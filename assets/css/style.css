@@ -1770,13 +1770,23 @@ a:focus-visible {
 
 /* Tournament bracket inside a newsroom-term box. Scoped past .newsroom-term p /
    .newsroom-term ul, which left-align and space out ordinary term-box copy. */
+.bracket-box .newsroom-term-title {
+  text-align: center;
+}
+
 .newsroom-term .bracket-round {
   text-align: center;
   font-family: var(--font-headline);
+  font-size: 1.15rem;
   font-weight: 700;
+  letter-spacing: 0.04em;
   text-decoration: underline;
   text-underline-offset: 3px;
-  margin: var(--spacing-md) 0 var(--spacing-sm);
+  margin: var(--spacing-lg) 0 var(--spacing-sm);
+}
+
+.newsroom-term-title + .bracket-round {
+  margin-top: var(--spacing-sm);
 }
 
 .newsroom-term .bracket-bouts {

@@ -10,7 +10,12 @@ excerpt: "The newcomer is listed as 'Torbik' in the bracket. This press has foun
 published: true
 ---
 
-<aside class="newsroom-term">
+<div class="article-figure">
+<img src="{{ '/assets/images/character_photos/torbik.png' | relative_url }}" alt="A bearded fighter in a plumed wide-brimmed hat, sword drawn">
+<p class="article-figure-caption">The champion, hat included.</p>
+</div>
+
+<aside class="newsroom-term bracket-box">
 <p class="newsroom-term-title">1604 Championship Bracket</p>
 
 <p class="bracket-round">Opening</p>
@@ -46,11 +51,6 @@ published: true
 
 <p class="bracket-key">Winners in bold.</p>
 </aside>
-
-<div class="article-figure">
-<img src="{{ '/assets/images/character_photos/torbik.png' | relative_url }}" alt="A bearded fighter in a plumed wide-brimmed hat, sword drawn">
-<p class="article-figure-caption">The champion, hat included.</p>
-</div>
 
 **MAPLEWOOD** — The 1604 Championship of Maplewood was decided this past Harvest Fest by a combatant whose name this press has been unable to confirm.
 
