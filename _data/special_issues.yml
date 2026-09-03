@@ -9,7 +9,7 @@ latest:
   pdf: "/assets/pdfs/1604/special-september-1604.pdf"
   thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
   headlines:
-         - "Headline 1"
+         - "Rabies: It's Not Lycanthropy"
          - "Headline 2"
          - "Headline 3"
 
@@ -20,9 +20,9 @@ years:
       - month: "September"
         pdf: "/assets/pdfs/1604/special-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
-        search_keywords: "TBD"
+        search_keywords: "rabies, lycanthropy, werewolf, kazvak, imbri curiose, paragons, remedy ritual, ritualist, lynn, spinning jenny, maplewood, animals"
         headlines:
-          - "Headline 1"
+          - "Rabies: It's Not Lycanthropy"
           - "Headline 2"
           - "Headline 3"
 

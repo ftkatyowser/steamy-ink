@@ -1014,6 +1014,17 @@ hr {
   border: 1px solid var(--border-medium);
 }
 
+/* A single small illustration, centered at its natural size */
+.article-figure {
+  clear: both;
+  text-align: center;
+  margin: var(--spacing-lg) 0;
+}
+
+.article-figure img {
+  max-width: 260px;
+}
+
 .image-credit {
   font-family: var(--font-nav);
   font-size: 0.8rem;
@@ -1707,6 +1718,22 @@ a:focus-visible {
 }
 
 .newsroom-term p:last-child {
+  margin-bottom: 0;
+}
+
+.newsroom-term ul,
+.newsroom-term ol {
+  text-align: left;
+  hyphens: none;
+  padding-left: 1.1rem;
+  margin-bottom: 0;
+}
+
+.newsroom-term li {
+  margin-bottom: var(--spacing-sm);
+}
+
+.newsroom-term li:last-child {
   margin-bottom: 0;
 }
 
