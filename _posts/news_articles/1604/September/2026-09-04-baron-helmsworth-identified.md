@@ -7,7 +7,7 @@ ingame_date: "September 1604"
 category: news
 byline:
 publication: "Special Investigative Press"
-excerpt: "The title of Baron does not appear in any peerage this press could locate. Through less reputable channels, Helmsworth is known as a supplier of weapons with contacts inside the old Cairnhold Rangers."
+excerpt: "Helmsworth is known as a supplier of weapons with contacts inside the old Cairnhold Rangers."
 published: true
 ---
 
