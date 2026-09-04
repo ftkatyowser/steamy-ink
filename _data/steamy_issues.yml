@@ -5,13 +5,13 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "September"
+  date: "September 1604"
   pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
   thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
   headlines:
           - "House Yago's Curtain Call?"
-          - "Headline 2"
-          - "Headline 3"
+          - "Questions about Cult Labor Practices"
+          - "Imbri's Hot Sauce: Homewrecker In A Bottle?"
 
 # ALL ISSUES BY YEAR
 years:
@@ -20,11 +20,11 @@ years:
       - month: "September"
         pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
-        search_keywords: "house yago, house preya, himeko, gershan theater, gersh, stage, patrons, civenopolis, evenandra"
+        search_keywords: "house yago, preya, himeko, gershan theater, gersh, imbri, hot sauce, jethreau, raterella, ratchelorette, ratfolk, merks, third hand, mirok, harvest fest, madam mapleleaf, liotru, rytiss, enzo, cormac, commander tiny, curators of the curious, penelope marianus, poppy"
         headlines:
           - "House Yago's Curtain Call?"
-          - "Headline 2"
-          - "Headline 3"
+          - "Questions about Cult Labor Practices"
+          - "Imbri's Hot Sauce: Homewrecker In A Bottle?"
 
       - month: "June"
         pdf: "/assets/pdfs/1604/steamy-june-1604.pdf"

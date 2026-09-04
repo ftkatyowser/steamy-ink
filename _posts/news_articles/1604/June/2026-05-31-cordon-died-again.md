@@ -2,7 +2,7 @@
 layout: news_post
 title: "Cordon Sharptounge, 1386ish - May 1604"
 date: 2026-05-31
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "Cordon Sharptongue, blacksmith and Chainbreaker, has not been seen in town for an extended length of time and is presumed to have completed his tenure to the Craftsman."

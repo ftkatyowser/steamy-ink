@@ -2,7 +2,7 @@
 layout: news_post
 title: "Battle Tidings: Olmez is a Kazvak, and I Have Proof"
 date: 2026-06-04
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Steamy Ink Press"
 byline: "Emeric Barnes"

@@ -2,7 +2,7 @@
 layout: news_post
 title: "Two Down, Two to Go: Sparrow Gauntlets Continue"
 date: 2026-06-04
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Steamy Ink Press"
 excerpt: "'First an obstacle course, then bells. At this rate, the fourth trial is going to be a bake-off. I'm not complaining.'"

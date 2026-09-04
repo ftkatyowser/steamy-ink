@@ -2,7 +2,7 @@
 layout: news_post
 title: "Who is Olmez?"
 date: 2026-06-04
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Special Investigative Press"
 excerpt: "Each has been seen bearing the same sigil, which witnesses are consistently identifying as belonging to a figure referred to as Olmez."

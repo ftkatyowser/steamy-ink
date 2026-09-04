@@ -2,7 +2,7 @@
 layout: news_post
 title: "The Shunning: Constables and Elders Depart Maplewood"
 date: 2026-06-02
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Special Investigative Press"
 excerpt: "When asked if they have any intention to return if the Veilwalker curse were resolved, the answer was a resounding ‘No’."

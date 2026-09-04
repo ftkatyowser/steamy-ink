@@ -2,7 +2,7 @@
 layout: news_post
 title: "Veilwalker Invasion Worsening; Nations Respond Alone"
 date: 2026-06-03
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 publication: "Special Investigative Press"
 byline: "Marcus Thorne, Seige Analyst"

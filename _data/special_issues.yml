@@ -10,8 +10,8 @@ latest:
   thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
   headlines:
          - "Rabies: It's Not Lycanthropy"
-         - "Stranger Wins Harvest Fest Championship"
-         - "Headline 3"
+         - "Tournament Champion Unidentified; Victory Undisputed"
+         - "Wanted Arms Dealer Spotted in Maplewood"
 
 # ALL ISSUES BY YEAR
 years:
@@ -20,11 +20,11 @@ years:
       - month: "September"
         pdf: "/assets/pdfs/1604/special-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/special-september-1604.png"
-        search_keywords: "rabies, lycanthropy, werewolf, kazvak, imbri curiose, paragons, remedy ritual, ritualist, lynn, spinning jenny, maplewood, animals, harvest fest, tournament, championship, bracket, torbik, janos, valdunar, ferdias, adroy, cordon, stan"
+        search_keywords: "rabies, lycanthropy, werewolf, kazvak, imbri curiose, paragons, remedy ritual, ritualist, lynn, spinning jenny, maplewood, animals, harvest fest, tournament, championship, bracket, torbik, janos, valdunar, ferdias, adroy, cordon, stan, arms dealer, mustard thief, helmsworth, carlyle helmsworth, cairnhold rangers, civen, vlean, terra, bandits, smuggling"
         headlines:
           - "Rabies: It's Not Lycanthropy"
-          - "Stranger Wins Harvest Fest Championship"
-          - "Headline 3"
+          - "Tournament Champion Unidentified; Victory Undisputed"
+          - "Wanted Arms Dealer Spotted in Maplewood"
 
       - month: "June"
         pdf: "/assets/pdfs/1604/special-june-1604.pdf"

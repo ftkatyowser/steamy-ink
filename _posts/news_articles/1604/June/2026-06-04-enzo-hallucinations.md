@@ -2,7 +2,7 @@
 layout: news_post
 title: "Are You Hallucinating Right Now?"
 date: 2026-06-04
-ingame_date: "June 1604 AS"
+ingame_date: "June 1604"
 category: news
 byline: "Enzo. Probably."
 publication: "Special Investigative Press"
