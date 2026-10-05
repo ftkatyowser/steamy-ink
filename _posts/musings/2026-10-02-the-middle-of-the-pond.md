@@ -6,13 +6,13 @@ summary: "A fable in one act, written for the Maplewood Actor's Guild."
 published: true
 ---
 
-Word reached me this week that the Maplewood Actor's Guild has taken to shunning performers it considers "low-brow." I have opinions about that, and rather than print them in the paper, I wrote them as a play and sent the Guild a copy. The script is below.
+*Word had reached Poppy that the Maplewood Actor's Guild had taken to shunning performers it considers "low-brow." She had opinions about that and rather than print them in the paper, she wrote them as a play and sent the Guild a copy to perform while they were in travels looking for a new screenwriter. The script is below.*
 
 <div class="play-script">
-<p class="play-title">THE MIDDLE OF THE POND</p>
-<p class="play-subtitle">A fable in one act</p>
-<p class="play-cast">NARRATOR &ndash; DUCKLING &ndash; SWAN &ndash; DUCK ONE &ndash; DUCK TWO</p>
-<p class="play-direction play-centered">(A pond. DUCK ONE and DUCK TWO splash at one end. The SWAN glides at the other, chin high.)</p>
+<p class="play-title" style="text-align: center;">THE MIDDLE OF THE POND</p>
+<p class="play-subtitle" style="text-align: center;">A fable in one act</p>
+<p class="play-cast" style="text-align: center;">NARRATOR &ndash; DUCKLING &ndash; SWAN &ndash; DUCK ONE &ndash; DUCK TWO</p>
+<p class="play-direction">(A pond. DUCK ONE and DUCK TWO splash at one end. The SWAN glides at the other, chin high.)</p>
 <p class="play-line"><strong>NARRATOR:</strong> Once upon a time, a family of ducks laid an egg that was larger and considerably stranger than the others. Father Duck had questions, Mother Duck had no answers, so Father Duck went out for bread and never came back. What hatched from the egg was this.</p>
 <p class="play-direction">(DUCKLING waddles in, tripping over her own feet, gangly and awkward.)</p>
 <p class="play-line"><strong>DUCKLING:</strong> Good morrow, kin! How fares the pond today?<br>

@@ -10,7 +10,6 @@ published: true
 ---
 
 <div class="poll-chart">
-<div class="poll-chart-title">Steamy Ink Poll:<br>What is Maudry's Apparatus?</div>
 <ul class="poll-results">
 <li><span class="poll-bar" style="width: 53%;"></span><span class="poll-label">Three Smaller Apparatuses in a Trench Coat <span class="poll-pct">(53%)</span></span></li>
 <li><span class="poll-bar" style="width: 39%;"></span><span class="poll-label">Something That Definitely Won't Explode <span class="poll-pct">(39%)</span></span></li>
