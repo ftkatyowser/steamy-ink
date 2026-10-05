@@ -1,6 +1,6 @@
 ---
 layout: news_post
-title: "Steamy Ink Poll: What is Maudry's Apparatus?"
+title: "Poll: What is Maudry's Apparatus?"
 date: 2026-10-05
 ingame_date: "October 1604"
 category: news
