@@ -1,0 +1,14 @@
+# =====================================================
+# SITE-WIDE NOTICE BANNER
+# Shows under the headline banner on every page except
+# the Poppy's Prose sections (/blog/, /loose-pages/, /musings/).
+# Set enabled: false to hide it without deleting the entry.
+# style options: parchment-red | parchment-gold | red-fill
+# =====================================================
+
+enabled: true
+style: parchment-gold
+label: "Notice:"
+text: "Effective immediately, Enzo Belli is the acting Editor-in-Chief for Steamy Ink Press."
+cta: "Read the full notice"
+link: "/news/notice-to-our-readers/"

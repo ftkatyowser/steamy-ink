@@ -38,8 +38,8 @@
   --spacing-xxl: 3rem;
   
   /* Layout */
-  --sidebar-width: 220px;
-  --max-content-width: 1200px;
+  --sidebar-width: 13.75rem;      /* 220px at a 16px root; scales with the fluid root size */
+  --max-content-width: 75rem;     /* 1200px at a 16px root, ~1425px at the 19px desktop cap */
 }
 
 /* --- Custom Fonts --- */
@@ -107,9 +107,6 @@
   font-display: swap;
 }
 
-/* --- Google Fonts Import --- */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap');
-
 /* --- Reset & Base --- */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -118,7 +115,9 @@
 }
 
 html {
-  font-size: 16px;
+  /* Fluid root size: 16px on phones, ~17.5px on laptops, capped at 19px on wide desktops.
+     Every text size in this file is in rem, so this scales the whole site together. */
+  font-size: clamp(16px, 0.85rem + 0.35vw, 19px);
   scroll-behavior: smooth;
 }
 
@@ -394,11 +393,17 @@ hr {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  color: var(--accent-gold);
-  border-bottom: 2px solid var(--accent-gold);
+  color: var(--accent-red);
+  border-bottom: 2px solid var(--accent-red);
   padding-bottom: var(--spacing-xs);
   margin-bottom: var(--spacing-sm);
   margin-top: 0;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.sidebar-title:hover {
+  color: var(--accent-gold);
+  border-bottom-color: var(--accent-gold);
 }
 
 .sidebar-nav {
@@ -646,6 +651,7 @@ hr {
 }
 
 .issue-card-link:hover {
+  color: var(--accent-gold);
   text-decoration: underline;
 }
 
@@ -684,6 +690,20 @@ hr {
   font-style: italic;
 }
 
+.featured-issue-publication.pub-steamy {
+  font-family: var(--font-steamy-name);
+  font-size: 2rem;
+  font-style: normal;
+  letter-spacing: 0;
+}
+
+.featured-issue-publication.pub-special {
+  font-family: var(--font-special-name);
+  font-size: 1.8rem;
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+
 .featured-issue-date {
   font-family: var(--font-nav);
   font-style: italic;
@@ -709,7 +729,7 @@ hr {
   font-family: var(--font-headline);
   font-size: 0.9rem;
   margin-bottom: var(--spacing-xs);
-  color: var(--accent-gold);
+  color: var(--text-primary);
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -784,15 +804,23 @@ hr {
 }
 
 .news-card:hover {
-  border-color: var(--accent-red);
+  border-color: var(--accent-gold);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.15);
   transform: translateY(-2px);
 }
 
 .news-card-publication {
-  color: var(--accent-gold);
-  margin-bottom: var(--spacing-xs);
+  color: var(--accent-red);
+  margin-bottom: 0.15rem;
   line-height: 1.2;
+}
+
+.news-card-publication.pub-steamy {
+  font-size: 0.95rem;
+}
+
+.news-card-publication.pub-special {
+  font-size: 0.85rem;
 }
 
 .pub-steamy {
@@ -819,14 +847,17 @@ hr {
 
 .news-card-title {
   font-family: var(--font-headline);
-  font-size: 0.95rem;
-  line-height: 1.3;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  margin-top: 0;
   margin-bottom: 0;
   padding-bottom: var(--spacing-sm);
 }
 
 .news-card-excerpt {
-  font-size: 0.65rem;
+  font-size: 0.85rem;
+  text-align: left;
+  hyphens: manual;
   color: var(--text-secondary);
   line-height: 1.4;
   margin-bottom: auto;
@@ -838,7 +869,7 @@ hr {
 }
 
 .news-card-title a:hover {
-  color: var(--accent-red);
+  color: var(--accent-gold);
 }
 
 .news-article-category {
@@ -1382,6 +1413,14 @@ hr {
 @media (max-width: 600px) {
   :root {
     --sidebar-width: 100%;
+  }
+
+  /* Justified text leaves rivers in narrow columns; rag right on phones */
+  p,
+  .blog-post-content p,
+  .about-content p {
+    text-align: left;
+    hyphens: manual;
   }
 
   .masthead-logo {
@@ -1999,4 +2038,105 @@ a:focus-visible {
 .play-verse {
   display: block;
   padding-left: 3em;
+}
+
+/* --- Notice banner (site-wide bulletin, controlled by _data/notice.yml) --- */
+.notice-banner {
+  margin: 0;
+  text-align: center;
+}
+
+.notice-banner a {
+  display: block;
+  padding: var(--spacing-sm) var(--spacing-lg);
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.4;
+  color: inherit;
+  text-decoration: none;
+}
+
+.notice-banner-label {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-right: 0.4em;
+}
+
+.notice-banner-cta {
+  margin-left: 0.4em;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.notice-banner a:hover .notice-banner-cta {
+  text-decoration: none;
+}
+
+/* Option 1: parchment fill, red rules */
+.notice-banner--parchment-red {
+  background-color: var(--bg-parchment-dark);
+  border-top: 2px solid var(--accent-red);
+  border-bottom: 2px solid var(--accent-red);
+  color: var(--text-primary);
+}
+
+.notice-banner--parchment-red .notice-banner-label,
+.notice-banner--parchment-red .notice-banner-cta {
+  color: var(--accent-red);
+}
+
+/* Option 2: parchment fill, double gold rules */
+.notice-banner--parchment-gold {
+  background-color: var(--bg-parchment-dark);
+  border-top: 4px double var(--accent-gold);
+  border-bottom: 4px double var(--accent-gold);
+  color: var(--text-primary);
+}
+
+.notice-banner--parchment-gold .notice-banner-label,
+.notice-banner--parchment-gold .notice-banner-cta {
+  color: var(--accent-red);
+}
+
+/* Option 3: solid red fill, parchment text */
+.notice-banner--red-fill {
+  background-color: var(--accent-red);
+  border-bottom: 2px solid var(--border-dark);
+  color: var(--bg-parchment);
+}
+
+.notice-banner--red-fill .notice-banner-label {
+  color: var(--accent-gold-light);
+}
+
+.notice-banner--red-fill .notice-banner-cta {
+  color: var(--bg-parchment);
+}
+
+.notice-banner--red-fill a:hover {
+  background-color: var(--accent-red-hover);
+}
+
+@media print {
+  .notice-banner {
+    display: none;
+  }
+}
+
+/* --- Reduced motion: drop hover lifts and transitions for readers who ask --- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+
+  .news-card:hover,
+  .sidebar-nav a:hover {
+    transform: none;
+  }
 }

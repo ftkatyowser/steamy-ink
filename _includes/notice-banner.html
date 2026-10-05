@@ -1,0 +1,13 @@
+{% assign notice = site.data.notice %}
+{% assign notice_style = site.notice_style | default: notice.style %}
+{% if notice.enabled %}
+{% unless page.url contains '/blog/' or page.url contains '/loose-pages/' or page.url contains '/musings/' %}
+<aside class="notice-banner notice-banner--{{ notice_style }}" aria-label="Notice">
+  <a href="{{ notice.link | relative_url }}">
+    <span class="notice-banner-label">{{ notice.label }}</span>
+    <span class="notice-banner-text">{{ notice.text }}</span>
+    <span class="notice-banner-cta">{{ notice.cta }}</span>
+  </a>
+</aside>
+{% endunless %}
+{% endif %}

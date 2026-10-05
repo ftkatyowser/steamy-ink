@@ -18,7 +18,7 @@ title: Home
         {% endif %}
         <h3 class="news-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="news-card-excerpt">{{ post.excerpt | strip_html }}</p>
-        <a href="{{ post.url | relative_url }}" class="issue-card-link">Read Article →</a>
+        <a href="{{ post.url | relative_url }}" class="issue-card-link" aria-label="Read article: {{ post.title | strip_html | escape }}">Read Article →</a>
       </div>
     {% endfor %}
   </div>
@@ -34,7 +34,7 @@ title: Home
 <div class="featured-issues">
   <article class="featured-issue">
     <header class="featured-issue-header">
-      <span class="featured-issue-publication">Special Investigative Press</span>
+      <span class="featured-issue-publication pub-special">Special Investigative Press</span>
       <span class="featured-issue-date">{{ site.data.special_issues.latest.date }}</span>
     </header>
     <a href="{{ site.data.special_issues.latest.pdf | relative_url }}">
@@ -48,12 +48,12 @@ title: Home
         {% endfor %}
       </ul>
     </div>
-    <a href="{{ site.data.special_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
+    <a href="{{ site.data.special_issues.latest.pdf | relative_url }}" class="featured-issue-link" aria-label="Read full issue: Special Investigative Press {{ site.data.special_issues.latest.date }}">Read Full Issue →</a>
   </article>
   
   <article class="featured-issue">
     <header class="featured-issue-header">
-      <span class="featured-issue-publication">Steamy Ink Press</span>
+      <span class="featured-issue-publication pub-steamy">Steamy Ink Press</span>
       <span class="featured-issue-date">{{ site.data.steamy_issues.latest.date }}</span>
     </header>
     <a href="{{ site.data.steamy_issues.latest.pdf | relative_url }}">
@@ -67,7 +67,7 @@ title: Home
         {% endfor %}
       </ul>
     </div>
-    <a href="{{ site.data.steamy_issues.latest.pdf | relative_url }}" class="featured-issue-link">Read Full Issue →</a>
+    <a href="{{ site.data.steamy_issues.latest.pdf | relative_url }}" class="featured-issue-link" aria-label="Read full issue: Steamy Ink Press {{ site.data.steamy_issues.latest.date }}">Read Full Issue →</a>
   </article>
   
 </div>
@@ -83,7 +83,7 @@ title: Home
       <article class="issue-card">
         <a href="{{ issue.pdf | relative_url }}">
           <div class="issue-card-thumbnail">
-            <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press {{ issue.month }} {{ year.year }}">
+            <img src="{{ issue.thumbnail | relative_url }}" alt="Special Investigative Press {{ issue.month }} {{ year.year }}" loading="lazy" decoding="async">
           </div>
         </a>
         <h3 class="issue-card-title">Special Investigative Press</h3>
@@ -103,7 +103,7 @@ title: Home
       <article class="issue-card">
         <a href="{{ issue.pdf | relative_url }}">
           <div class="issue-card-thumbnail">
-            <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ year.year }}">
+            <img src="{{ issue.thumbnail | relative_url }}" alt="Steamy Ink {{ issue.month }} {{ year.year }}" loading="lazy" decoding="async">
           </div>
         </a>
         <h3 class="issue-card-title">Steamy Ink Press</h3>
