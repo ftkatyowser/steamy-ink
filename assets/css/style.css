@@ -1906,3 +1906,52 @@ a:focus-visible {
   outline: 2px solid var(--accent-red);
   outline-offset: 2px;
 }
+
+/* --- Poll bar chart (Steamy Ink reader polls) --- */
+.poll-chart {
+  margin: var(--spacing-lg) 0 var(--spacing-xl);
+  padding: var(--spacing-md) var(--spacing-lg);
+  border: 2px solid var(--border-dark);
+  background-color: var(--bg-parchment);
+}
+
+.blog-post-content .poll-chart-title {
+  font-family: var(--font-steamy-headline);
+  font-size: 1.7rem;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 var(--spacing-md);
+}
+
+.blog-post-content .poll-results {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-left: 2px solid var(--border-medium);
+}
+
+.blog-post-content .poll-results li {
+  position: relative;
+  margin: 0 0 var(--spacing-sm);
+  padding: 0.35rem 0.6rem;
+  line-height: 1.4;
+}
+
+.poll-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #cfcbc3;
+  border-radius: 0 4px 4px 0;
+}
+
+.poll-label {
+  position: relative;
+  font-family: var(--font-body);
+  color: var(--text-primary);
+}
+
+.poll-pct {
+  color: var(--text-secondary);
+}

@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "September 1604"
-  pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
+  date: "October 1604"
+  pdf: "/assets/pdfs/1604/steamy-october-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/steamy-october-1604.png"
   headlines:
-          - "House Yago's Curtain Call?"
-          - "Questions about Cult Labor Practices"
-          - "Imbri's Hot Sauce: Homewrecker In A Bottle?"
+          - "My Stoop is a Battlefield, and I Did Not Consent!"
+          - "Flower and Rex: Love Budding in Autumn?"
+          - "Maplewood Poll: What is Maudry's Apparatus?"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "October"
+        pdf: "/assets/pdfs/1604/steamy-october-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/steamy-october-1604.png"
+        search_keywords: "flower, rex mcneil, gost, winds of fortune, lovers rock, maudry, apparatus, poll, orcs, spinning jenny, lightsworn order, paragons of might, captain arbor, militia, leylines, actors guild, playwrights, schmimbri, imbri sauce, madam mapleleaf"
+        headlines:
+          - "My Stoop is a Battlefield, and I Did Not Consent!"
+          - "Flower and Rex: Love Budding in Autumn?"
+          - "Maplewood Poll: What is Maudry's Apparatus?"
+
       - month: "September"
         pdf: "/assets/pdfs/1604/steamy-september-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-september-1604.png"
