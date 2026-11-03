@@ -5,18 +5,27 @@
 
 # LATEST ISSUE (shown on homepage)
 latest:
-  date: "October 1604"
-  pdf: "/assets/pdfs/1604/steamy-october-1604.pdf"
-  thumbnail: "/assets/images/thumbnails/1604/steamy-october-1604.png"
+  date: "November 1604"
+  pdf: "/assets/pdfs/1604/steamy-november-1604.pdf"
+  thumbnail: "/assets/images/thumbnails/1604/steamy-november-1604.png"
   headlines:
-          - "My Stoop is a Battlefield, and I Did Not Consent!"
-          - "Flower and Rex: Love Budding in Autumn?"
-          - "Maplewood Poll: What is Maudry's Apparatus?"
+          - "Cataclysmic Monster Banished Hopefully Forever"
+          - "The Seven Finally Do Something"
+          - "Yonx Ascends, Takes Helix Away as a First Miracle"
 
 # ALL ISSUES BY YEAR
 years:
   - year: 1604
     issues:
+      - month: "November"
+        pdf: "/assets/pdfs/1604/steamy-november-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/steamy-november-1604.png"
+        search_keywords: "enzo, steep, super terrific excellent enzo paper, schmimbri, schimbri, imbri, hot sauce, veilwalkers, apparatus, avatar of the craftsman, the seven, crickets, sky beasts, halloween high fae, yonx, helix, ools, vlean, catori, emeric barnes, word search"
+        headlines:
+          - "Cataclysmic Monster Banished Hopefully Forever"
+          - "The Seven Finally Do Something"
+          - "Yonx Ascends, Takes Helix Away as a First Miracle"
+
       - month: "October"
         pdf: "/assets/pdfs/1604/steamy-october-1604.pdf"
         thumbnail: "/assets/images/thumbnails/1604/steamy-october-1604.png"
