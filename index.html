@@ -13,8 +13,10 @@ title: Home
           <div class="news-card-publication pub-steamy">{{ post.publication }}</div>
         {% elsif post.publication == "Special Investigative Press" %}
           <div class="news-card-publication pub-special">{{ post.publication }}</div>
+        {% elsif post.publication %}
+          <div class="news-card-publication pub-other">{{ post.publication }}</div>
         {% else %}
-          <div class="news-card-publication">{{ post.publication | default: "News" }}</div>
+          <div class="news-card-publication">News</div>
         {% endif %}
         <h3 class="news-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="news-card-excerpt">{{ post.excerpt | strip_html }}</p>

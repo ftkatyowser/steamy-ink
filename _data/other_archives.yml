@@ -5,6 +5,20 @@
 
 # ALL ISSUES BY YEAR
 years:
+  - year: 1604
+    issues:
+      - month: "November"
+        title: "Strike In Progress, November 1604"
+        publication: "Strike In Progress"
+        pdf: "/assets/pdfs/1604/strike-november-1604.pdf"
+        thumbnail: "/assets/images/thumbnails/1604/strike-november-1604.png"
+        search_keywords: "strike in progress, strike, work stoppage, staff, enzo, enzo belli, lynn, demands, office cat, scotch eggs, masthead, schmimbri, madam mapleleaf, poppy, lapis, titus, consul, moon-crossed lovers, shrine, stabbed, veilwalkers, entity, avatar, craftsman, apparatus, nox, blight, draconus, mother, undead, macrons, tabeo, dessert, vargainen embassy, imbri, liotru, spark, flower, rex, necromancer, bodaks, wraith"
+        headlines:
+          - "Notice of Work Stoppage"
+          - "Undead Denied Request to Eat Macrons"
+          - "Madam Mapleleaf: Moon-Crossed Lovers"
+          - "Maplewood Adventurers Save Novitas. Again."
+
   - year: 1603
     issues: []
       # Add 1603 issues here...

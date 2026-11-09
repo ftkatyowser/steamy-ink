@@ -823,6 +823,10 @@ hr {
   font-size: 0.85rem;
 }
 
+.news-card-publication.pub-other {
+  font-size: 0.95rem;
+}
+
 .pub-steamy {
   font-family: var(--font-steamy-name);
   font-size: 1.1rem;
@@ -843,6 +847,26 @@ hr {
   font-family: var(--font-special-headline);
   font-size: 2.5rem;
   letter-spacing: 0.03em;
+}
+
+/* Other publications (e.g. the staff's "Strike In Progress") borrow the
+   Steamy Ink family's fonts, since that is who writes them */
+.pub-other {
+  font-family: var(--font-steamy-name);
+  font-size: 1.1rem;
+}
+
+.blog-post-title.pub-other {
+  font-family: var(--font-steamy-headline);
+  font-size: 2.5rem;
+}
+
+/* Memo-style header block (TO / FROM / CC / RE) at the top of an article */
+.blog-post-content .memo-header p {
+  text-align: left;
+  line-height: 1.6;
+  padding-bottom: var(--spacing-sm);
+  border-bottom: 1px solid var(--border-medium);
 }
 
 .news-card-title {
